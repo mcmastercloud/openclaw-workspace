@@ -1,0 +1,182 @@
+[
+  {
+    "feedItemUid": "454746dd-a716-4786-815b-2f24999d365e",
+    "categoryUid": "e2b620f6-2904-4e2f-bb2b-b8e85c8c9fa9",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 2000
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 2000
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-10T08:07:49.660Z",
+    "transactionTime": "2026-05-10T08:07:49.000Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CARD_SUBSCRIPTION",
+    "status": "PENDING",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "460a301e-a5c1-4059-a7ae-872669661569",
+    "counterPartyName": "Hbr*subscription",
+    "counterPartySubEntityUid": "460a7590-066c-42a8-b822-1a9f5cd756c9",
+    "reference": "HBR*SUBSCRIPTION",
+    "country": "US",
+    "spendingCategory": "SHOPPING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null,
+    "IGNORE_REASON": "Pending transaction included for Check 3 balance reconciliation"
+  },
+  {
+    "feedItemUid": "2c32f016-6cc5-4bb9-8ac7-9b395b41d660",
+    "categoryUid": "e2b620f6-2904-4e2f-bb2b-b8e85c8c9fa9",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 1569
+    },
+    "sourceAmount": {
+      "currency": "USD",
+      "minorUnits": 2119
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-06T05:17:18.553Z",
+    "transactionTime": "2026-05-05T21:06:59.000Z",
+    "settlementTime": "2026-05-06T05:17:18.484Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ONLINE",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "73f29ab8-6117-420c-9838-0e7c2be8b1a3",
+    "counterPartyName": "Openrouter Inc",
+    "counterPartySubEntityUid": "73f22694-e527-4b13-97ce-89bb689244d0",
+    "reference": "OPENROUTER, INC",
+    "country": "US",
+    "spendingCategory": "SHOPPING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "2c3058da-2c95-4c2d-ad52-942bfbb29d5d",
+    "categoryUid": "e2b620f6-2904-4e2f-bb2b-b8e85c8c9fa9",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 1899
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 1899
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-07T02:00:53.890Z",
+    "transactionTime": "2026-05-05T21:04:17.000Z",
+    "settlementTime": "2026-05-07T02:00:53.770Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CARD_SUBSCRIPTION",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "fa68d691-995d-4333-a843-049755ee7440",
+    "counterPartyName": "Google Play",
+    "counterPartySubEntityUid": "a79dd079-75ac-4870-a248-4988e8c9646f",
+    "reference": "Google One",
+    "country": "GB",
+    "spendingCategory": "ENTERTAINMENT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "221cd399-7eef-4c46-aead-7881d820eafd",
+    "categoryUid": "e2b620f6-2904-4e2f-bb2b-b8e85c8c9fa9",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 1199
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 1199
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-04T12:37:20.635Z",
+    "transactionTime": "2026-05-04T02:04:05.000Z",
+    "settlementTime": "2026-05-04T12:37:20.408Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CARD_SUBSCRIPTION",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "73baa1fb-96d8-42c3-9f29-f8a8e0946619",
+    "counterPartyName": "Tresorit",
+    "counterPartySubEntityUid": "73bab979-e712-4545-8ac8-348c0fb225c0",
+    "reference": "TRESORIT.COM",
+    "country": "CH",
+    "spendingCategory": "SHOPPING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "1b7d7714-3340-4823-9fbf-ad6e97f8cca9",
+    "categoryUid": "e2b620f6-2904-4e2f-bb2b-b8e85c8c9fa9",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 999
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 999
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-04T02:11:43.545Z",
+    "transactionTime": "2026-05-02T21:49:15.000Z",
+    "settlementTime": "2026-05-04T02:11:43.394Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CARD_SUBSCRIPTION",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "fa68d691-995d-4333-a843-049755ee7440",
+    "counterPartyName": "Google Play",
+    "counterPartySubEntityUid": "a7a2ee0b-06a5-43dd-a0ee-490a793680e4",
+    "reference": "Google Play Apps",
+    "country": "GB",
+    "spendingCategory": "ENTERTAINMENT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "1195617c-c2ad-41fc-810e-92ef741ebce3",
+    "categoryUid": "e2b620f6-2904-4e2f-bb2b-b8e85c8c9fa9",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 892
+    },
+    "sourceAmount": {
+      "currency": "USD",
+      "minorUnits": 1200
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-01T15:28:58.013Z",
+    "transactionTime": "2026-05-01T03:33:40.000Z",
+    "settlementTime": "2026-05-01T15:28:57.907Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ONLINE",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "73bb8d93-9a44-45d9-8a93-09bb64689f3d",
+    "counterPartyName": "Kagi",
+    "counterPartySubEntityUid": "73bb8fba-2e4e-4e86-b917-ef1f407facc3",
+    "reference": "RCH-KAGI.COM",
+    "country": "US",
+    "spendingCategory": "SHOPPING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  }
+]

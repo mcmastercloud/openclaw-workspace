@@ -1,0 +1,30 @@
+[
+  {
+    "feedItemUid": "0e761950-6725-4f5f-9818-6469831dc89b",
+    "categoryUid": "e2b9c5c3-45da-4511-b667-7aefa43b61b0",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 1337
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 1337
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-05T00:23:46.263Z",
+    "transactionTime": "2026-05-05T00:23:46.111Z",
+    "settlementTime": "2026-05-05T00:23:46.150Z",
+    "source": "DIRECT_DEBIT",
+    "status": "SETTLED",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "4cf0ab41-c59b-4e05-bd9b-aaa5805bcb21",
+    "counterPartyName": "BT",
+    "counterPartySubEntityUid": "714f5370-3d54-4b00-aa85-94c4631875a2",
+    "reference": "GB06337813",
+    "country": "GB",
+    "spendingCategory": "BILLS_AND_SERVICES",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  }
+]

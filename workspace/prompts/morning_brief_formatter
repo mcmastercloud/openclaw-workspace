@@ -1,0 +1,16 @@
+Format the following morning brief data into a clean, readable summary for a personal assistant report. 
+
+* GUIDELINES:
+- Start with a sharp, professional greeting.
+- Use distinct sections for SLEEP and SOCIAL MEDIA.
+- For sleep: Present the duration, start/end times, total deep sleep, and the qualitative summary provided.
+- For social media: List the top 5 articles with a bullet point for the title (include a hyperlink if available) and one for the viral reason/significance.
+- Use solid British English.
+- Keep the tone sharp, thoughtful, and refined.
+
+* OUTPUT FORMAT:
+Output MUST be a valid JSON object with a single key: "response". 
+The value of "response" should be the full formatted text of the report as a single string.
+
+* INPUT DATA:
+{{input}}

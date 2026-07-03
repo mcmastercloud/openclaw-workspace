@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Sabre//Sabre VObject 4.5.6//EN
+UID:20d8425f-03bf-4a74-be9d-10888a46a886
+FN:Paul Lineham
+N:Lineham;Paul;;;
+ORG:Hitachi Consulting
+REV:20260128T192743Z
+TEL;TYPE=cell:+447572732463
+END:VCARD

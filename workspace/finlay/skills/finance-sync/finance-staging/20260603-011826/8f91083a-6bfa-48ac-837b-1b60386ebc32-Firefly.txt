@@ -1,0 +1,22 @@
+[
+  {
+    "firefly_transaction_id": "9845",
+    "amount": "1000.000000000000",
+    "date": "2026-05-20T18:48:04+01:00",
+    "external_id": "f51470ae-4fce-417f-a7c5-9edf6bd68a39",
+    "description": "windows",
+    "type": "transfer",
+    "source_id": "1",
+    "destination_id": "2"
+  },
+  {
+    "firefly_transaction_id": "9769",
+    "amount": "21.110000000000",
+    "date": "2026-05-01T00:00:00+01:00",
+    "external_id": "1123b9f9-d2c9-4490-b832-65553ddee7bd",
+    "description": "Easy Saver April Interest Earned",
+    "type": "deposit",
+    "source_id": "268",
+    "destination_id": "2"
+  }
+]

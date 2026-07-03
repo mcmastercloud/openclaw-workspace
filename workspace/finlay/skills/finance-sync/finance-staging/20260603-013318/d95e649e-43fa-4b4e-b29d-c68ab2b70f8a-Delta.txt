@@ -1,0 +1,92 @@
+[
+  {
+    "feedItemUid": "c8e7b521-80b7-4f0e-8b9a-f39eda390367",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 390
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 390
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-06-02T17:43:47.960Z",
+    "transactionTime": "2026-06-02T17:43:47.000Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ONLINE",
+    "status": "PENDING",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "e1f57a76-f59b-46e9-9bb5-4785994425cd",
+    "counterPartyName": "Cheltenham Borough Council",
+    "counterPartySubEntityUid": "f53fbb0f-2bdc-49c1-803c-d7c934172921",
+    "reference": "Cheltenham",
+    "country": "GB",
+    "spendingCategory": "TRANSPORT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null,
+    "IGNORE_REASON": "Pending transaction included for Check 3 balance reconciliation"
+  },
+  {
+    "feedItemUid": "c762dbfb-df74-46d5-81ad-fe0eef99e135",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 374
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 374
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-06-02T11:14:32.705Z",
+    "transactionTime": "2026-06-02T11:14:32.000Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ANDROID_PAY",
+    "status": "PENDING",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "528a118c-1516-4d29-90f5-d873f04bd049",
+    "counterPartyName": "Asda",
+    "counterPartySubEntityUid": "cc3a9ab8-a0a9-43f9-8c4d-a18885b49b6b",
+    "reference": "ASDA STORES 4415",
+    "country": "GB",
+    "spendingCategory": "EXPENSES",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null,
+    "IGNORE_REASON": "Pending transaction included for Check 3 balance reconciliation"
+  },
+  {
+    "feedItemUid": "c6da58c2-b5c8-44ba-946f-af21333edafd",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 357
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 357
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-06-02T08:58:58.526Z",
+    "transactionTime": "2026-06-02T08:58:57.000Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ANDROID_PAY",
+    "status": "PENDING",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "813b3046-0e14-4e30-9fe7-f80ac9e78138",
+    "counterPartyName": "Cheltenham",
+    "counterPartySubEntityUid": "813bfc4c-69a3-4ec9-91fe-6989dfa64cbf",
+    "reference": "CHELTENHAM",
+    "country": "GB",
+    "spendingCategory": "EATING_OUT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null,
+    "IGNORE_REASON": "Pending transaction included for Check 3 balance reconciliation"
+  }
+]

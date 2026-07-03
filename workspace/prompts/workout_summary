@@ -1,0 +1,10 @@
+Summarise this workout and provide the Name of the workout, a one line summary of it, Kg/min, Total Kg, and Duration in minutes.
+
+* GUARDRAILS
+
+Output as JSON with the exact following fields:
+ - name - The title of the workout
+ - summary - A one sentance summary of the workout
+ - kg_per_m - Total Kgs per minute (calculated)
+ - total_kg - Total Kgs across all exercises
+ - duration_m - The duration in minutes (calculated)

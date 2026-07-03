@@ -1,0 +1,592 @@
+[
+  {
+    "firefly_transaction_id": "9727",
+    "amount": "1.500000000000",
+    "date": "2026-05-10T20:18:15+01:00",
+    "external_id": "47e68490-94ef-4460-a14e-e7d61bca15bd",
+    "description": "CASTLE VENDING",
+    "type": "withdrawal",
+    "source_id": "1",
+    "destination_id": "116"
+  },
+  {
+    "firefly_transaction_id": "9728",
+    "amount": "46.730000000000",
+    "date": "2026-05-10T15:24:35+01:00",
+    "external_id": "46c01a02-aedd-46f5-98c1-604e673decb5",
+    "description": "WELCOME BREAK",
+    "type": "withdrawal",
+    "source_id": "1",
+    "destination_id": "25"
+  },
+  {
+    "firefly_transaction_id": "9729",
+    "amount": "5.100000000000",
+    "date": "2026-05-10T14:00:07+01:00",
+    "external_id": "466c1798-a397-4c3c-9cc4-7ac0757a36d8",
+    "description": "Black Gold",
+    "type": "withdrawal",
+    "source_id": "1",
+    "destination_id": "10"
+  },
+  {
+    "firefly_transaction_id": "9730",
+    "amount": "5.600000000000",
+    "date": "2026-05-10T11:41:14+01:00",
+    "external_id": "45e10c67-ec5a-4e5b-8ca1-f756a4d0e6b8",
+    "description": "Cheltenham",
+    "type": "withdrawal",
+    "source_id": "1",
+    "destination_id": "11"
+  },
+  {
+    "firefly_transaction_id": "9731",
+    "amount": "6.700000000000",
+    "date": "2026-05-09T16:33:17+01:00",
+    "external_id": "41653834-2943-462d-80a6-31e774673bf7",
+    "description": "CEC ICE CREAM GROUP LT",
+    "type": "withdrawal",
+    "source_id": "1",
+    "destination_id": "851"
+  },
+  {
+    "firefly_transaction_id": "9732",
+    "amount": "13.000000000000",
+    "date": "2026-05-09T15:15:39+01:00",
+    "external_id": "4117e543-8a24-4d35-a6cb-b91e32d88da7",
+    "description": "Hughes Fresh Fruit Ltd",
+    "type": "withdrawal",
+    "source_id": "1",
+    "destination_id": "852"
+  },
+  {
+    "firefly_transaction_id": "9733",
+    "amount": "160.000000000000",
+    "date": "2026-05-09T10:05:55+01:00",
+    "external_id": "3fe1682e-94d1-42f7-9f2f-92f1f5c58c6f",
+    "description": "ELM OF BURFORD",
+    "type": "withdrawal",
+    "source_id": "1",
+    "destination_id": "853"
+  },
+  {
+    "firefly_transaction_id": "9734",
+    "amount": "3.500000000000",
+    "date": "2026-05-09T08:14:17+01:00",
+    "external_id": "3f72caea-0711-4b35-ac20-91c90ae7b0c7",
+    "description": "CEC ICE CREAM GROUP LT",
+    "type": "withdrawal",
+    "source_id": "1",
+    "destination_id": "851"
+  },
+  {
+    "firefly_transaction_id": "9735",
+    "amount": "26.000000000000",
+    "date": "2026-05-08T17:31:33+01:00",
+    "external_id": "3bff6136-c5f3-46be-8cf0-cdfbe45bb52c",
+    "description": "BIRMINGHAM AIRPORT - C",
+    "type": "withdrawal",
+    "source_id": "1",
+    "destination_id": "854"
+  },
+  {
+    "firefly_transaction_id": "9736",
+    "amount": "1.800000000000",
+    "date": "2026-05-08T15:54:47+01:00",
+    "external_id": "3b9ea92b-5105-4f66-b0cb-d58e28f7a21a",
+    "description": "WELCOME BREAK",
+    "type": "withdrawal",
+    "source_id": "1",
+    "destination_id": "25"
+  },
+  {
+    "firefly_transaction_id": "9737",
+    "amount": "3.740000000000",
+    "date": "2026-05-08T11:18:44+01:00",
+    "external_id": "3a8aa6da-3d45-4382-89c5-d9c6e872f283",
+    "description": "ASDA Stores",
+    "type": "withdrawal",
+    "source_id": "1",
+    "destination_id": "36"
+  },
+  {
+    "firefly_transaction_id": "9738",
+    "amount": "7.990000000000",
+    "date": "2026-05-08T11:17:33+01:00",
+    "external_id": "3a89b14e-396c-483b-8f38-54b299511c45",
+    "description": "ASDA Stores",
+    "type": "withdrawal",
+    "source_id": "1",
+    "destination_id": "36"
+  },
+  {
+    "firefly_transaction_id": "9739",
+    "amount": "2.750000000000",
+    "date": "2026-05-08T10:30:55+01:00",
+    "external_id": "3a5a2dad-2273-4991-9dbd-f2a7402b9352",
+    "description": "NYX*NWUKPureOffices",
+    "type": "withdrawal",
+    "source_id": "1",
+    "destination_id": "33"
+  },
+  {
+    "firefly_transaction_id": "9740",
+    "amount": "2.750000000000",
+    "date": "2026-05-08T09:23:12+01:00",
+    "external_id": "3a176a5c-f1dc-44db-a85c-94fc0c005d3f",
+    "description": "NYX*NWUKPureOffices",
+    "type": "withdrawal",
+    "source_id": "1",
+    "destination_id": "33"
+  },
+  {
+    "firefly_transaction_id": "9741",
+    "amount": "10.250000000000",
+    "date": "2026-05-07T13:34:51+01:00",
+    "external_id": "357275e5-3969-4600-b13f-c36fd512c084",
+    "description": "VMS ELEMENTS",
+    "type": "withdrawal",
+    "source_id": "1",
+    "destination_id": "12"
+  },
+  {
+    "firefly_transaction_id": "9742",
+    "amount": "8.400000000000",
+    "date": "2026-05-07T12:37:30+01:00",
+    "external_id": "353981d7-fca5-479c-bff2-586a04fd44e5",
+    "description": "VMS ELEMENTS",
+    "type": "withdrawal",
+    "source_id": "1",
+    "destination_id": "12"
+  },
+  {
+    "firefly_transaction_id": "9743",
+    "amount": "4.300000000000",
+    "date": "2026-05-07T09:59:38+01:00",
+    "external_id": "349b5c0c-a5b4-4614-be14-5b7e57f5d8ba",
+    "description": "VMS ELEMENTS",
+    "type": "withdrawal",
+    "source_id": "1",
+    "destination_id": "12"
+  },
+  {
+    "firefly_transaction_id": "9744",
+    "amount": "5.600000000000",
+    "date": "2026-05-06T17:46:30+01:00",
+    "external_id": "30cec2a7-f08f-49c9-b2ea-3b8b198fff2b",
+    "description": "CHELTENHAM BOROUGH COU",
+    "type": "withdrawal",
+    "source_id": "1",
+    "destination_id": "11"
+  },
+  {
+    "firefly_transaction_id": "9745",
+    "amount": "5.500000000000",
+    "date": "2026-05-06T15:33:07+01:00",
+    "external_id": "3049462f-7fa1-44de-acf2-198da11b0cc0",
+    "description": "Emerald Airlines",
+    "type": "withdrawal",
+    "source_id": "1",
+    "destination_id": "24"
+  },
+  {
+    "firefly_transaction_id": "9746",
+    "amount": "1.350000000000",
+    "date": "2026-05-06T14:53:37+01:00",
+    "external_id": "30219bf5-23ee-4e0a-b362-de609b0e9c30",
+    "description": "GREGGS",
+    "type": "withdrawal",
+    "source_id": "1",
+    "destination_id": "27"
+  },
+  {
+    "firefly_transaction_id": "9747",
+    "amount": "6.900000000000",
+    "date": "2026-05-06T12:09:27+01:00",
+    "external_id": "2f7d5adf-36b0-4330-b171-5b707f663183",
+    "description": "VMS ELEMENTS",
+    "type": "withdrawal",
+    "source_id": "1",
+    "destination_id": "12"
+  },
+  {
+    "firefly_transaction_id": "9748",
+    "amount": "1605.580000000000",
+    "date": "2026-05-06T01:07:00+01:00",
+    "external_id": "163149c8-8cb2-496e-b802-600d3920c2eb",
+    "description": "70100319174/301442",
+    "type": "withdrawal",
+    "source_id": "1",
+    "destination_id": "37"
+  },
+  {
+    "firefly_transaction_id": "9749",
+    "amount": "40.000000000000",
+    "date": "2026-05-05T16:56:10+01:00",
+    "external_id": "2afca6f9-4f59-4d75-a7b7-e2291d5ac7e7",
+    "description": "Notemachine ATM",
+    "type": "withdrawal",
+    "source_id": "1",
+    "destination_id": "43"
+  },
+  {
+    "firefly_transaction_id": "9750",
+    "amount": "59.070000000000",
+    "date": "2026-05-05T01:00:30+01:00",
+    "external_id": "0da39309-485e-4695-b8c8-5f8cec3f53a3",
+    "description": "0912791838",
+    "type": "withdrawal",
+    "source_id": "1",
+    "destination_id": "44"
+  },
+  {
+    "firefly_transaction_id": "9751",
+    "amount": "5.430000000000",
+    "date": "2026-05-05T00:39:32+01:00",
+    "external_id": "0d1c9e01-b62c-411b-a05a-b7db74518651",
+    "description": "4929105506083002",
+    "type": "withdrawal",
+    "source_id": "1",
+    "destination_id": "38"
+  },
+  {
+    "firefly_transaction_id": "9752",
+    "amount": "12.990000000000",
+    "date": "2026-05-04T11:00:23+01:00",
+    "external_id": "23f86cc0-94c8-49de-b7c9-a4c60cd1dc01",
+    "description": "CARD FACTORY",
+    "type": "withdrawal",
+    "source_id": "1",
+    "destination_id": "288"
+  },
+  {
+    "firefly_transaction_id": "9753",
+    "amount": "50.000000000000",
+    "date": "2026-05-04T10:55:47+01:00",
+    "external_id": "23f33ad3-e56e-4211-8035-2843344e3959",
+    "description": "PRIMARK 471",
+    "type": "withdrawal",
+    "source_id": "1",
+    "destination_id": "155"
+  },
+  {
+    "firefly_transaction_id": "9754",
+    "amount": "50.000000000000",
+    "date": "2026-05-04T10:51:07+01:00",
+    "external_id": "23ef35ce-4312-4689-b1ad-1b735a9c493f",
+    "description": "BOOTS 1557",
+    "type": "withdrawal",
+    "source_id": "1",
+    "destination_id": "96"
+  },
+  {
+    "firefly_transaction_id": "9755",
+    "amount": "3.750000000000",
+    "date": "2026-05-04T10:08:40+01:00",
+    "external_id": "23c4d9fd-2cef-405c-8afb-820fc6a82854",
+    "description": "Bridge Hug 'A' Mug Ab",
+    "type": "withdrawal",
+    "source_id": "1",
+    "destination_id": "855"
+  },
+  {
+    "firefly_transaction_id": "9756",
+    "amount": "1.490000000000",
+    "date": "2026-05-04T10:03:12+01:00",
+    "external_id": "23bf39b4-6e8c-400a-9861-474bc3735cbf",
+    "description": "CARD FACTORY",
+    "type": "withdrawal",
+    "source_id": "1",
+    "destination_id": "288"
+  },
+  {
+    "firefly_transaction_id": "9757",
+    "amount": "1000.000000000000",
+    "date": "2026-05-02T19:35:07+01:00",
+    "external_id": "de929297-3ab6-420b-8c1e-bd436293bf9d",
+    "description": "Pocket Money",
+    "type": "transfer",
+    "source_id": "1",
+    "destination_id": "549"
+  },
+  {
+    "firefly_transaction_id": "9758",
+    "amount": "9.150000000000",
+    "date": "2026-05-01T20:51:18+01:00",
+    "external_id": "1567dcbb-ea44-4e50-abaa-e95a6ba2a345",
+    "description": "CENTRA FROSSES ROAD",
+    "type": "withdrawal",
+    "source_id": "1",
+    "destination_id": "262"
+  },
+  {
+    "firefly_transaction_id": "9759",
+    "amount": "77.900000000000",
+    "date": "2026-05-01T20:47:13+01:00",
+    "external_id": "15631ec9-7d1d-424f-ad23-27105817017a",
+    "description": "SOLO BALLYMENA",
+    "type": "withdrawal",
+    "source_id": "1",
+    "destination_id": "856"
+  },
+  {
+    "firefly_transaction_id": "9760",
+    "amount": "34.990000000000",
+    "date": "2026-05-01T02:17:22+01:00",
+    "external_id": "110d14f6-ad20-4e77-8cc5-3d04327acd02",
+    "description": "DUALITY HEALTHCARE",
+    "type": "withdrawal",
+    "source_id": "1",
+    "destination_id": "45"
+  },
+  {
+    "firefly_transaction_id": "9710",
+    "amount": "7.200000000000",
+    "date": "2026-05-01T02:14:45+01:00",
+    "external_id": "0a3b998b-0b4e-461e-873f-7dd4f89cd414",
+    "description": "Emerald Airlines",
+    "type": "withdrawal",
+    "source_id": "1",
+    "destination_id": "24"
+  },
+  {
+    "firefly_transaction_id": "9705",
+    "amount": "343.290000000000",
+    "date": "2026-05-01T01:22:11+01:00",
+    "external_id": "10d6b37b-3546-403a-a6c6-f948c5230e6c",
+    "description": "Entertainment",
+    "type": "transfer",
+    "source_id": "1",
+    "destination_id": "5"
+  },
+  {
+    "firefly_transaction_id": "9706",
+    "amount": "376.640000000000",
+    "date": "2026-05-01T01:22:10+01:00",
+    "external_id": "10d6a8b9-1307-4d0f-b521-513815a6c835",
+    "description": "Household",
+    "type": "transfer",
+    "source_id": "1",
+    "destination_id": "3"
+  },
+  {
+    "firefly_transaction_id": "9707",
+    "amount": "131.000000000000",
+    "date": "2026-05-01T01:05:38+01:00",
+    "external_id": "07798e04-4292-44e9-b2f7-39dcfc838a31",
+    "description": "Budget Energy",
+    "type": "withdrawal",
+    "source_id": "1",
+    "destination_id": "46"
+  },
+  {
+    "firefly_transaction_id": "9708",
+    "amount": "886.770000000000",
+    "date": "2026-05-01T01:04:03+01:00",
+    "external_id": "0afc57e7-f4cc-4552-86a7-2290c49fd586",
+    "description": "M And S Bank Loans",
+    "type": "withdrawal",
+    "source_id": "1",
+    "destination_id": "830"
+  },
+  {
+    "firefly_transaction_id": "9709",
+    "amount": "21.000000000000",
+    "date": "2026-05-01T00:16:42+01:00",
+    "external_id": "0afc34ce-4474-47ac-b23f-1eea2f84afe1",
+    "description": "Deloitte Llp",
+    "type": "deposit",
+    "source_id": "39",
+    "destination_id": "1"
+  },
+  {
+    "firefly_transaction_id": "9713",
+    "amount": "13.900000000000",
+    "date": "2026-04-30T13:20:20+01:00",
+    "external_id": "0752f21f-dacc-40a6-86b8-7cdc6d9a0082",
+    "description": "Cheltenham Borough Council",
+    "type": "withdrawal",
+    "source_id": "1",
+    "destination_id": "11"
+  },
+  {
+    "firefly_transaction_id": "9761",
+    "amount": "9.600000000000",
+    "date": "2026-04-30T12:22:50+01:00",
+    "external_id": "0dca26c0-5685-4afe-bb86-656e3f541990",
+    "description": "Zettle_*Loaf",
+    "type": "withdrawal",
+    "source_id": "1",
+    "destination_id": "22"
+  },
+  {
+    "firefly_transaction_id": "9712",
+    "amount": "7.150000000000",
+    "date": "2026-04-30T12:18:50+01:00",
+    "external_id": "0841f996-d25b-47d9-be60-e825d36c34d8",
+    "description": "Sainsbury's",
+    "type": "withdrawal",
+    "source_id": "1",
+    "destination_id": "9"
+  },
+  {
+    "firefly_transaction_id": "9711",
+    "amount": "2.450000000000",
+    "date": "2026-04-30T05:18:46+01:00",
+    "external_id": "09275b71-9ea1-4ec0-9690-dfac1c825e99",
+    "description": "Welcome Break",
+    "type": "withdrawal",
+    "source_id": "1",
+    "destination_id": "25"
+  },
+  {
+    "firefly_transaction_id": "9695",
+    "amount": "26.990000000000",
+    "date": "2026-04-30T00:46:38+01:00",
+    "external_id": "03183408-2d80-4ba6-b1bc-2102cad47d70",
+    "description": "JD Gyms",
+    "type": "withdrawal",
+    "source_id": "1",
+    "destination_id": "49"
+  },
+  {
+    "firefly_transaction_id": "9696",
+    "amount": "9516.410000000000",
+    "date": "2026-04-30T00:05:04+01:00",
+    "external_id": "01b8d989-d589-4d1a-bd37-77173f3e8053",
+    "description": "Deloitte Llp",
+    "type": "deposit",
+    "source_id": "39",
+    "destination_id": "1"
+  },
+  {
+    "firefly_transaction_id": "9698",
+    "amount": "5.100000000000",
+    "date": "2026-04-29T16:00:18+01:00",
+    "external_id": "07554a9b-e907-44e3-9dd8-00b0fcee3f82",
+    "description": "Black Gold",
+    "type": "withdrawal",
+    "source_id": "1",
+    "destination_id": "10"
+  },
+  {
+    "firefly_transaction_id": "9697",
+    "amount": "13.360000000000",
+    "date": "2026-04-29T15:55:26+01:00",
+    "external_id": "082ffa57-4554-4bca-8ab2-3060b77b6717",
+    "description": "German Doner Kebab",
+    "type": "withdrawal",
+    "source_id": "1",
+    "destination_id": "8"
+  },
+  {
+    "firefly_transaction_id": "9699",
+    "amount": "3.550000000000",
+    "date": "2026-04-29T12:30:29+01:00",
+    "external_id": "03535f49-71b7-4552-9026-65990616b979",
+    "description": "Greggs",
+    "type": "withdrawal",
+    "source_id": "1",
+    "destination_id": "27"
+  },
+  {
+    "firefly_transaction_id": "9701",
+    "amount": "4.300000000000",
+    "date": "2026-04-29T05:21:32+01:00",
+    "external_id": "0260ee00-7ee4-4a96-94f5-6b8ef1da71ea",
+    "description": "G4s Facilities Managem",
+    "type": "withdrawal",
+    "source_id": "1",
+    "destination_id": "12"
+  },
+  {
+    "firefly_transaction_id": "9700",
+    "amount": "8.450000000000",
+    "date": "2026-04-29T05:21:32+01:00",
+    "external_id": "0281ade3-3409-460f-8b47-8b700aeeee48",
+    "description": "G4s Facilities Managem",
+    "type": "withdrawal",
+    "source_id": "1",
+    "destination_id": "12"
+  },
+  {
+    "firefly_transaction_id": "9687",
+    "amount": "100.000000000000",
+    "date": "2026-04-28T22:08:30+01:00",
+    "external_id": "04d4af2a-51df-4c1c-9d03-bab17e8fb8fc",
+    "description": "Entertainment",
+    "type": "transfer",
+    "source_id": "1",
+    "destination_id": "5"
+  },
+  {
+    "firefly_transaction_id": "9688",
+    "amount": "2.750000000000",
+    "date": "2026-04-28T15:45:59+01:00",
+    "external_id": "01a9618d-5c9b-4374-b551-b0cdb8cf5e92",
+    "description": "Nyx*nwukpureoffices",
+    "type": "withdrawal",
+    "source_id": "1",
+    "destination_id": "33"
+  },
+  {
+    "firefly_transaction_id": "9684",
+    "amount": "3.500000000000",
+    "date": "2026-04-28T05:58:12+01:00",
+    "external_id": "fec3a717-3dd8-41ee-81f2-9a2f4ab33399",
+    "description": "Welcome Break",
+    "type": "withdrawal",
+    "source_id": "1",
+    "destination_id": "25"
+  },
+  {
+    "firefly_transaction_id": "9685",
+    "amount": "9.450000000000",
+    "date": "2026-04-28T05:20:12+01:00",
+    "external_id": "fec20d47-d2be-4ac2-9005-eb8106fa54fb",
+    "description": "Waitrose & Partners",
+    "type": "withdrawal",
+    "source_id": "1",
+    "destination_id": "14"
+  },
+  {
+    "firefly_transaction_id": "9686",
+    "amount": "2.600000000000",
+    "date": "2026-04-28T04:41:06+01:00",
+    "external_id": "fb6883db-2b09-44ad-a17a-294e7d3d4498",
+    "description": "Emerald Airlines",
+    "type": "withdrawal",
+    "source_id": "1",
+    "destination_id": "24"
+  },
+  {
+    "firefly_transaction_id": "9681",
+    "amount": "62.490000000000",
+    "date": "2026-04-28T00:41:13+01:00",
+    "external_id": "eed311f4-362d-4873-9e53-a4d59390cebb",
+    "description": "Fibrus Networks",
+    "type": "withdrawal",
+    "source_id": "1",
+    "destination_id": "50"
+  },
+  {
+    "firefly_transaction_id": "9682",
+    "amount": "28.020000000000",
+    "date": "2026-04-27T05:50:18+01:00",
+    "external_id": "f8115a7c-dd61-43c2-be0b-0f2be032e16d",
+    "description": "SPAR",
+    "type": "withdrawal",
+    "source_id": "1",
+    "destination_id": "32"
+  },
+  {
+    "firefly_transaction_id": "9661",
+    "amount": "10.240000000000",
+    "date": "2026-04-27T03:09:27+01:00",
+    "external_id": "f801c4ea-6dcf-4471-9e08-95d69c1eca64",
+    "description": "Currys",
+    "type": "withdrawal",
+    "source_id": "1",
+    "destination_id": "127"
+  }
+]

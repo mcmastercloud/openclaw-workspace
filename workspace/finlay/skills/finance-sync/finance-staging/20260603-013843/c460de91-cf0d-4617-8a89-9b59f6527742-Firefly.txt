@@ -1,0 +1,12 @@
+[
+  {
+    "firefly_transaction_id": "9799",
+    "amount": "20.000000000000",
+    "date": "2026-05-09T01:13:15+01:00",
+    "external_id": "3dcd6b96-1bd6-4d52-b33e-89b0612bc46d",
+    "description": "Software and Email",
+    "type": "transfer",
+    "source_id": "550",
+    "destination_id": "772"
+  }
+]

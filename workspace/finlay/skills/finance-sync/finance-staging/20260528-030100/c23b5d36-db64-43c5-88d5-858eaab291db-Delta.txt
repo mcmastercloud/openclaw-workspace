@@ -1,0 +1,145 @@
+[
+  {
+    "feedItemUid": "a0ac2186-5727-441a-be46-00b1c976855b",
+    "categoryUid": "14ee82f9-751c-4f00-9a66-8adec93cf70a",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 15720
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 15720
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-27T23:54:59.727Z",
+    "transactionTime": "2026-05-27T23:54:59.474Z",
+    "settlementTime": "2026-05-27T23:54:59.503Z",
+    "source": "DIRECT_DEBIT",
+    "status": "SETTLED",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "cb8039db-1426-4e39-85a8-ce8c483908f6",
+    "counterPartyName": "TaxAssist Accountants",
+    "counterPartySubEntityUid": "6a5faf08-63ae-4ed1-a5a7-4719eb9737ac",
+    "reference": "STEPHENMCM",
+    "country": "GB",
+    "spendingCategory": "PROFESSIONAL_SERVICES",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "a088ee70-d6ab-4f70-94e7-015a063f3b32",
+    "categoryUid": "14ee82f9-751c-4f00-9a66-8adec93cf70a",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 1036
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 1036
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-26T13:28:58.092Z",
+    "transactionTime": "2026-05-26T13:28:57.986Z",
+    "settlementTime": "2026-05-26T13:28:57.986Z",
+    "source": "CASH_DEPOSIT_CHARGE",
+    "status": "SETTLED",
+    "counterPartyType": "STARLING",
+    "counterPartyUid": "45df1294-8bfc-4523-8fac-e5210ce5d72d",
+    "counterPartyName": "Starling Bank",
+    "reference": "Cash Deposit Charge",
+    "country": "GB",
+    "spendingCategory": "BANK_CHARGES",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "a0882530-2aad-4232-86a9-0c64d4828e82",
+    "categoryUid": "14ee82f9-751c-4f00-9a66-8adec93cf70a",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 148000
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 148000
+    },
+    "direction": "IN",
+    "updatedAt": "2026-05-26T13:28:58.063Z",
+    "transactionTime": "2026-05-26T13:28:57.942Z",
+    "settlementTime": "2026-05-26T13:28:57.942Z",
+    "source": "CASH_DEPOSIT",
+    "status": "SETTLED",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "241f39f7-05d6-4fc5-9f86-4e10f33234c2",
+    "counterPartyName": "Post Office Banking Services",
+    "reference": "Cash Deposit at 9 13 Main Street Ballymena BT42 3JH GB",
+    "country": "GB",
+    "spendingCategory": "REVENUE",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "978541f4-4419-459d-8a7e-c3b876261edd",
+    "categoryUid": "14ee82f9-751c-4f00-9a66-8adec93cf70a",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 100000
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 100000
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-26T00:01:32.336Z",
+    "transactionTime": "2026-05-26T00:01:19.520Z",
+    "settlementTime": "2026-05-26T00:01:19.520Z",
+    "source": "FASTER_PAYMENTS_OUT",
+    "status": "SETTLED",
+    "counterPartyType": "PAYEE",
+    "counterPartyUid": "7c2eb4c1-dc7f-4802-a10f-d72176b7e953",
+    "counterPartyName": "BIS-SALARY",
+    "counterPartySubEntityUid": "36a92158-4036-4e19-b4cf-7ac62b405b12",
+    "counterPartySubEntityName": "UK Account",
+    "counterPartySubEntityIdentifier": "608371",
+    "counterPartySubEntitySubIdentifier": "11257518",
+    "reference": "BIS-SALARY",
+    "country": "GB",
+    "spendingCategory": "DIRECTORS_WAGES",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "94bc4bed-2311-4089-bab5-ed75fdc1b07b",
+    "categoryUid": "14ee82f9-751c-4f00-9a66-8adec93cf70a",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 4560
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 4560
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-24T14:51:36.439Z",
+    "transactionTime": "2026-05-24T11:08:10.000Z",
+    "settlementTime": "2026-05-24T14:51:36.346Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CARD_SUBSCRIPTION",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "16fa6264-1cc7-41aa-b502-6461c5eaa6a8",
+    "counterPartyName": "Quickbooks",
+    "counterPartySubEntityUid": "65c3ba79-9c7f-4425-a552-49b92717126d",
+    "reference": "INTUIT *QBooks Online",
+    "country": "GB",
+    "spendingCategory": "ADMIN",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  }
+]

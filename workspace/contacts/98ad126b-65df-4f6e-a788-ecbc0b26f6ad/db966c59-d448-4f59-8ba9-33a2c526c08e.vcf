@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Sabre//Sabre VObject 4.5.6//EN
+UID:db966c59-d448-4f59-8ba9-33a2c526c08e
+ADR;TYPE=work:;;Ground Floor;Belfast Erskine House;;BT1 3ET;
+EMAIL:paula.montgomery@ctshirts.co.uk
+FN:Paula Montgomery
+N:Montgomery;Paula;;;
+ORG:Charles Tyrwhitt
+REV:20260128T192750Z
+TEL:028-900-25959
+TITLE:Store Manager
+URL;TYPE=x-homepage;VALUE=URI:https://www.charlestyrwhitt.com/uk/home
+END:VCARD

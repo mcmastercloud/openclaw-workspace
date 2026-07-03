@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//MailClient.VObject/10.4.4209.0
+UID:6df071a7-8bcd-434b-ad9a-c369a4e47b6c
+FN:Paul Fisher
+N:Fisher;Paul;;;
+ORG:Tree Surgeon
+REV:2026-01-04T18:57:43Z
+SORT-STRING:Fisher\, Paul
+TEL;TYPE=CELL:07818662248
+END:VCARD

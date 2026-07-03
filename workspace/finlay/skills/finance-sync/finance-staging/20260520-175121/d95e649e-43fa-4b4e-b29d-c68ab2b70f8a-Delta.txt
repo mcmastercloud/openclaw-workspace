@@ -1,0 +1,180 @@
+[
+  {
+    "feedItemUid": "f51470ae-4fce-417f-a7c5-9edf6bd68a39",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 100000
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 100000
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-20T17:48:05.130Z",
+    "transactionTime": "2026-05-20T17:48:04.651Z",
+    "settlementTime": "2026-05-20T17:48:04.651Z",
+    "source": "ON_US_PAY_ME",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "CATEGORY",
+    "counterPartyUid": "8f91083a-6bfa-48ac-837b-1b60386ebc32",
+    "counterPartyName": "Savings",
+    "reference": "windows",
+    "country": "GB",
+    "spendingCategory": "SAVING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "7ee7c2a5-6142-4ed1-93db-8cfb55223ee5",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 588
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 588
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-20T13:59:41.855Z",
+    "transactionTime": "2026-05-20T13:59:41.000Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ANDROID_PAY",
+    "status": "PENDING",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "f37da7e0-df71-405e-beaa-bec700e95950",
+    "counterPartyName": "Ravello",
+    "counterPartySubEntityUid": "ffbf1329-e139-4381-a427-82425f368273",
+    "reference": "RAVELLO COFFEE CO LTD",
+    "country": "GB",
+    "spendingCategory": "EATING_OUT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null,
+    "IGNORE_REASON": "Pending transaction included for Check 3 balance reconciliation"
+  },
+  {
+    "feedItemUid": "7e264c50-0104-4ec2-9ee5-12c507a2435d",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 1433
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 1433
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-20T10:46:12.097Z",
+    "transactionTime": "2026-05-20T10:46:11.000Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ANDROID_PAY",
+    "status": "PENDING",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "2006d45c-9381-421c-80c8-c65efc889179",
+    "counterPartyName": "Leon",
+    "counterPartySubEntityUid": "0017fe8d-9b25-4c58-b53b-3e354fc205e7",
+    "reference": "HORSEFERRY ROAD LEON",
+    "country": "GB",
+    "spendingCategory": "EATING_OUT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null,
+    "IGNORE_REASON": "Pending transaction included for Check 3 balance reconciliation"
+  },
+  {
+    "feedItemUid": "7d5dfc4c-4b33-4f3d-bbc8-2eb95fe18fca",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 520
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 520
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-20T07:25:12.941Z",
+    "transactionTime": "2026-05-20T07:25:12.000Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ANDROID_PAY",
+    "status": "PENDING",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "f37da7e0-df71-405e-beaa-bec700e95950",
+    "counterPartyName": "Ravello",
+    "counterPartySubEntityUid": "ffbf1329-e139-4381-a427-82425f368273",
+    "reference": "RAVELLO COFFEE CO LTD",
+    "country": "GB",
+    "spendingCategory": "EATING_OUT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null,
+    "IGNORE_REASON": "Pending transaction included for Check 3 balance reconciliation"
+  },
+  {
+    "feedItemUid": "78025826-32eb-41b7-84c1-78c0723a6ffe",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 318
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 318
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-20T04:19:36.141Z",
+    "transactionTime": "2026-05-19T08:34:43.000Z",
+    "settlementTime": "2026-05-20T04:19:35.957Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ANDROID_PAY",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "0de23ff2-977a-42d6-bbe6-4365b8bc7b1c",
+    "counterPartyName": "Deloitte Llp - 1 New S",
+    "counterPartySubEntityUid": "0de25f4b-ea44-4d08-90a5-94cecd7684f2",
+    "reference": "DELOITTE LLP - 1 NEW S",
+    "country": "GB",
+    "spendingCategory": "EATING_OUT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "77b7a0d3-0de2-4a16-9a30-f713611cd158",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 347
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 347
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-20T04:19:36.112Z",
+    "transactionTime": "2026-05-19T07:19:20.000Z",
+    "settlementTime": "2026-05-20T04:19:35.936Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ANDROID_PAY",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "0de23ff2-977a-42d6-bbe6-4365b8bc7b1c",
+    "counterPartyName": "Deloitte Llp - 1 New S",
+    "counterPartySubEntityUid": "0de25f4b-ea44-4d08-90a5-94cecd7684f2",
+    "reference": "DELOITTE LLP - 1 NEW S",
+    "country": "GB",
+    "spendingCategory": "EATING_OUT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  }
+]

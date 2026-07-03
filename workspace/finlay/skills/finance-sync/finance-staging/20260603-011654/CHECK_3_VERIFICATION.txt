@@ -1,0 +1,12 @@
+Starling GUID,Account Name,Bank Balance,Ledger Balance,Delta Sum,Mismatch
+d95e649e-43fa-4b4e-b29d-c68ab2b70f8a,Personal,3322.00,-217.63,3539.63,0.00
+e2b9c5c3-45da-4511-b667-7aefa43b61b0,Personal > Household,42.86,27.01,15.85,-0.00
+af64dad5-2092-42b7-955b-ddea135fa0ca,Personal > Self,0.00,0.00,0.00,0.00
+e2b620f6-2904-4e2f-bb2b-b8e85c8c9fa9,Personal > Entertainment,381.06,107.10,273.96,0.00
+55727041-6082-4237-a0f8-cacb6fe43a7c,Personal > Investments,0.00,0.00,0.00,0.00
+b9413f04-1536-43b4-b974-78f278818f86,Personal > 🚗,0.00,0.00,0.00,0.00
+8f905282-4b95-4b38-ae77-041d4bf20d6d,Easy Saver,0.00,0.00,0.00,0.00
+8f91083a-6bfa-48ac-837b-1b60386ebc32,Easy Saver > Savings,11062.56,11040.67,21.89,0.00
+f28a43b2-4216-4915-8639-1489b9a9045f,Joint,181.89,566.57,-384.68,-0.00
+c23b5d36-db64-43c5-88d5-858eaab291db,Main,2734.56,2270.81,463.75,0.00
+c460de91-cf0d-4617-8a89-9b59f6527742,Main > Software and Email,80.00,80.00,0.00,0.00

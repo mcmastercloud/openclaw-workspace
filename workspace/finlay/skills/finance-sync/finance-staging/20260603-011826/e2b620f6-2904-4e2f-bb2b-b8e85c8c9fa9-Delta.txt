@@ -1,0 +1,60 @@
+[
+  {
+    "feedItemUid": "c9ddcd5c-07d3-4db4-aade-d83f137ca3ec",
+    "categoryUid": "e2b620f6-2904-4e2f-bb2b-b8e85c8c9fa9",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 999
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 999
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-06-02T21:49:18.246Z",
+    "transactionTime": "2026-06-02T21:49:17.000Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CARD_SUBSCRIPTION",
+    "status": "PENDING",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "fa68d691-995d-4333-a843-049755ee7440",
+    "counterPartyName": "Google Play",
+    "counterPartySubEntityUid": "a79dd079-75ac-4870-a248-4988e8c9646f",
+    "reference": "Google Play Apps",
+    "country": "GB",
+    "spendingCategory": "ENTERTAINMENT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null,
+    "IGNORE_REASON": "Pending transaction included for Check 3 balance reconciliation"
+  },
+  {
+    "feedItemUid": "bf33bf99-9ca4-4ca8-9369-29053e9bee76",
+    "categoryUid": "e2b620f6-2904-4e2f-bb2b-b8e85c8c9fa9",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 31244
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 31244
+    },
+    "direction": "IN",
+    "updatedAt": "2026-06-01T00:19:23.192Z",
+    "transactionTime": "2026-06-01T00:19:23.128Z",
+    "settlementTime": "2026-06-01T00:19:23.128Z",
+    "source": "INTERNAL_TRANSFER",
+    "status": "SETTLED",
+    "counterPartyType": "CATEGORY",
+    "counterPartyUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "counterPartyName": "Current (GBP)",
+    "country": "GB",
+    "spendingCategory": "SAVING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null,
+    "HOLDING_IGNORE": true,
+    "MATCHING_UID": "bf33b0e8-6d61-4f8a-b9a9-47613b57b468"
+  }
+]

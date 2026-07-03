@@ -1,0 +1,122 @@
+[
+  {
+    "feedItemUid": "c6bb4460-eb24-4683-a5d4-a2d806923b54",
+    "categoryUid": "f28bcad2-245c-4c17-beee-ba794c569cdc",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 16890
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 16890
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-06-02T08:27:08.374Z",
+    "transactionTime": "2026-06-02T08:27:07.000Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "MANUAL_KEY_ENTRY",
+    "status": "PENDING",
+    "transactingApplicationUserUid": "74b92663-79b4-4b8b-afd2-5f145297ed4f",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "7fd8863f-bcf7-461e-962c-8fb4699deefe",
+    "counterPartyName": "Letters Plumbing And H",
+    "counterPartySubEntityUid": "7fd8bd80-cb35-4ce4-85b5-69c7046ffc36",
+    "reference": "LETTERS PLUMBING AND H",
+    "country": "GB",
+    "spendingCategory": "BILLS_AND_SERVICES",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null,
+    "IGNORE_REASON": "Pending transaction included for Check 3 balance reconciliation"
+  },
+  {
+    "feedItemUid": "1f911a9e-26f2-467e-8b19-416f2193d69e",
+    "categoryUid": "f28bcad2-245c-4c17-beee-ba794c569cdc",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 894
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 894
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-04T11:35:28.751Z",
+    "transactionTime": "2026-05-03T15:13:32.000Z",
+    "settlementTime": "2026-05-04T11:35:28.427Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CONTACTLESS",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "74b92663-79b4-4b8b-afd2-5f145297ed4f",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "19a3144e-7408-4b28-b105-0e6a80cbdc70",
+    "counterPartyName": "SuperValu",
+    "counterPartySubEntityUid": "e5ef4804-601d-402b-b1da-e20b5bde900e",
+    "reference": "SUPERVALU KELLS",
+    "country": "GB",
+    "spendingCategory": "GROCERIES",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "1eeb87c1-3126-47a9-b2b6-4366ef380a63",
+    "categoryUid": "f28bcad2-245c-4c17-beee-ba794c569cdc",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 4701
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 4701
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-04T04:15:56.457Z",
+    "transactionTime": "2026-05-03T12:27:24.000Z",
+    "settlementTime": "2026-05-04T04:15:56.376Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CONTACTLESS",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "74b92663-79b4-4b8b-afd2-5f145297ed4f",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "2bb08892-4efe-4e61-94fc-1bde4fee264c",
+    "counterPartyName": "Tesco Petrol",
+    "counterPartySubEntityUid": "58607762-ea84-4292-bac2-9c155d3286f3",
+    "reference": "TESCO PFS 4092",
+    "country": "GB",
+    "spendingCategory": "FUEL",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "1ee6c6c6-9070-423b-bf4a-b6dc29a99ca7",
+    "categoryUid": "f28bcad2-245c-4c17-beee-ba794c569cdc",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 1816
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 1816
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-04T04:39:01.834Z",
+    "transactionTime": "2026-05-03T12:22:46.000Z",
+    "settlementTime": "2026-05-04T04:39:01.742Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CONTACTLESS",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "74b92663-79b4-4b8b-afd2-5f145297ed4f",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "68e16af4-c2c3-413b-bf93-1056b90097fa",
+    "counterPartyName": "Tesco",
+    "counterPartySubEntityUid": "932b97ec-ec5b-4dc8-a9b4-aa99a09c55c0",
+    "reference": "TESCO STORES 2195",
+    "country": "GB",
+    "spendingCategory": "GROCERIES",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  }
+]

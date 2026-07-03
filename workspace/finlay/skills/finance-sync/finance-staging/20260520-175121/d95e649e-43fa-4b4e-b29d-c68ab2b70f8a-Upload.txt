@@ -1,0 +1,90 @@
+[
+  {
+    "feedItemUid": "f51470ae-4fce-417f-a7c5-9edf6bd68a39",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 100000
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 100000
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-20T17:48:05.130Z",
+    "transactionTime": "2026-05-20T17:48:04.651Z",
+    "settlementTime": "2026-05-20T17:48:04.651Z",
+    "source": "ON_US_PAY_ME",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "CATEGORY",
+    "counterPartyUid": "8f91083a-6bfa-48ac-837b-1b60386ebc32",
+    "counterPartyName": "Savings",
+    "reference": "windows",
+    "country": "GB",
+    "spendingCategory": "SAVING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "78025826-32eb-41b7-84c1-78c0723a6ffe",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 318
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 318
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-20T04:19:36.141Z",
+    "transactionTime": "2026-05-19T08:34:43.000Z",
+    "settlementTime": "2026-05-20T04:19:35.957Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ANDROID_PAY",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "0de23ff2-977a-42d6-bbe6-4365b8bc7b1c",
+    "counterPartyName": "Deloitte Llp - 1 New S",
+    "counterPartySubEntityUid": "0de25f4b-ea44-4d08-90a5-94cecd7684f2",
+    "reference": "DELOITTE LLP - 1 NEW S",
+    "country": "GB",
+    "spendingCategory": "EATING_OUT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "77b7a0d3-0de2-4a16-9a30-f713611cd158",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 347
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 347
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-20T04:19:36.112Z",
+    "transactionTime": "2026-05-19T07:19:20.000Z",
+    "settlementTime": "2026-05-20T04:19:35.936Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ANDROID_PAY",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "0de23ff2-977a-42d6-bbe6-4365b8bc7b1c",
+    "counterPartyName": "Deloitte Llp - 1 New S",
+    "counterPartySubEntityUid": "0de25f4b-ea44-4d08-90a5-94cecd7684f2",
+    "reference": "DELOITTE LLP - 1 NEW S",
+    "country": "GB",
+    "spendingCategory": "EATING_OUT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  }
+]

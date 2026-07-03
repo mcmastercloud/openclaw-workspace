@@ -1,0 +1,480 @@
+[
+  {
+    "feedItemUid": "a229ef9d-3190-4844-84c0-6e152a2d8600",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 6249
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 6249
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-27T23:46:34.368Z",
+    "transactionTime": "2026-05-27T23:46:34.219Z",
+    "settlementTime": "2026-05-27T23:46:34.290Z",
+    "source": "DIRECT_DEBIT",
+    "status": "SETTLED",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "7059b0eb-17ab-4344-b181-884c07757dc6",
+    "counterPartyName": "Fibrus Networks",
+    "counterPartySubEntityUid": "98f95dcb-d987-4146-8b77-f0ad6b636735",
+    "reference": "B3Z6YM2",
+    "country": "GB",
+    "spendingCategory": "BILLS_AND_SERVICES",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "a5cbe31e-b289-4c6d-9207-e4e2810ada25",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 2444
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 2444
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-27T11:55:50.145Z",
+    "transactionTime": "2026-05-27T11:55:49.000Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CONTACTLESS",
+    "status": "PENDING",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "2006d45c-9381-421c-80c8-c65efc889179",
+    "counterPartyName": "Leon",
+    "counterPartySubEntityUid": "0017fe8d-9b25-4c58-b53b-3e354fc205e7",
+    "reference": "HORSEFERRY ROAD LEON",
+    "country": "GB",
+    "spendingCategory": "EATING_OUT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null,
+    "IGNORE_REASON": "Pending transaction included for Check 3 balance reconciliation"
+  },
+  {
+    "feedItemUid": "a539f08e-8ce5-430b-b29b-9a17e8cccff1",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 485
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 485
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-27T09:29:38.625Z",
+    "transactionTime": "2026-05-27T09:29:37.000Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ANDROID_PAY",
+    "status": "PENDING",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "f37da7e0-df71-405e-beaa-bec700e95950",
+    "counterPartyName": "Ravello",
+    "counterPartySubEntityUid": "ffbf1329-e139-4381-a427-82425f368273",
+    "reference": "RAVELLO COFFEE CO LTD",
+    "country": "GB",
+    "spendingCategory": "EATING_OUT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null,
+    "IGNORE_REASON": "Pending transaction included for Check 3 balance reconciliation"
+  },
+  {
+    "feedItemUid": "9b77d0b2-42d8-4695-9a4c-840e4d035a8b",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 7875
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 7875
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-26T01:07:21.727Z",
+    "transactionTime": "2026-05-25T15:51:42.000Z",
+    "settlementTime": "2026-05-26T01:07:21.554Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CONTACTLESS",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "7ca53d26-100c-432c-b3e9-8badf4790e1d",
+    "counterPartyName": "Andhra Bhavan",
+    "counterPartySubEntityUid": "7ca5a140-f965-4e7a-885d-028e5bd9fd6b",
+    "reference": "ANDHRA BHAVAN",
+    "country": "GB",
+    "spendingCategory": "EATING_OUT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "9b41cec4-380d-470a-ba46-8d00b9629c14",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 1770
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 1770
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-26T04:21:15.341Z",
+    "transactionTime": "2026-05-25T14:57:30.000Z",
+    "settlementTime": "2026-05-26T04:21:15.259Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ANDROID_PAY",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "a7b3160e-dca4-415a-9efe-732d2542df27",
+    "counterPartyName": "Boots",
+    "counterPartySubEntityUid": "6a7cfaf2-51b7-4efb-9933-8a70bcb94974",
+    "reference": "BOOTS 0633",
+    "country": "GB",
+    "spendingCategory": "PERSONAL_CARE",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "99df52d8-dea9-4136-bf21-201e757e8329",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 1928
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 1928
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-26T04:44:26.475Z",
+    "transactionTime": "2026-05-25T09:03:28.000Z",
+    "settlementTime": "2026-05-26T04:44:26.325Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CONTACTLESS",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "89d332e3-d4f0-41c4-af73-fbb9bf17dd1e",
+    "counterPartyName": "SPAR",
+    "counterPartySubEntityUid": "5e245875-2592-45e2-b7d6-51323cc7727c",
+    "reference": "SPAR KELLS",
+    "country": "GB",
+    "spendingCategory": "GROCERIES",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "915e22fc-20f3-43f5-bbe9-090199db4114",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 4000
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 4000
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-25T04:04:26.453Z",
+    "transactionTime": "2026-05-23T20:46:21.000Z",
+    "settlementTime": "2026-05-25T04:04:26.354Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ATM",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "d656ecaf-12e1-41c8-83fe-0d467df77b14",
+    "counterPartyName": "Cash Machine",
+    "counterPartySubEntityUid": "c90b03f1-45da-4f29-8193-a4917fdba1cf",
+    "reference": "E07029800000000",
+    "country": "GB",
+    "spendingCategory": "PERSONAL_CARE",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "8ee0bdff-1c44-4f9a-a80f-cf5c922f8053",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 330
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 330
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-24T04:19:58.223Z",
+    "transactionTime": "2026-05-23T10:08:03.000Z",
+    "settlementTime": "2026-05-24T04:19:58.137Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CONTACTLESS",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "bbe07266-44af-4c54-85e7-2d6998613cdf",
+    "counterPartyName": "Vivo Antrim",
+    "counterPartySubEntityUid": "970d1da0-a56a-4e62-9830-3c299d37e3bb",
+    "reference": "VIVO ANTRIM",
+    "country": "GB",
+    "spendingCategory": "GROCERIES",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "8edd9098-e2fa-4400-bd0c-7bcb45c8c30e",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 1565
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 1565
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-24T05:01:10.153Z",
+    "transactionTime": "2026-05-23T10:05:59.000Z",
+    "settlementTime": "2026-05-24T05:01:09.835Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ANDROID_PAY",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "a7b3160e-dca4-415a-9efe-732d2542df27",
+    "counterPartyName": "Boots",
+    "counterPartySubEntityUid": "95462ff1-b45a-4fdb-ad53-3c98a4617900",
+    "reference": "BOOTS 4601",
+    "country": "GB",
+    "spendingCategory": "PERSONAL_CARE",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "8ed11719-ddd5-48d9-bc93-e97d0c51c3d7",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 831
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 831
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-24T04:30:23.927Z",
+    "transactionTime": "2026-05-23T09:53:44.000Z",
+    "settlementTime": "2026-05-24T04:30:23.552Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CONTACTLESS",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "3a46a12e-ed57-4d51-b771-b844980c58fc",
+    "counterPartyName": "Card Factory",
+    "counterPartySubEntityUid": "a395f622-54f5-4af4-81c7-f4595db0b9b3",
+    "reference": "CARD FACTORY",
+    "country": "GB",
+    "spendingCategory": "SHOPPING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "840f3ecf-ba1d-4680-91f3-0da6c7700264",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 975
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 975
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-21T15:02:27.203Z",
+    "transactionTime": "2026-05-21T11:59:07.000Z",
+    "settlementTime": "2026-05-21T15:02:27.010Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ANDROID_PAY",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "83beeb38-6a3c-4179-96cb-900a78eecd7a",
+    "counterPartyName": "Snax",
+    "counterPartySubEntityUid": "9b125a96-7cdc-46d3-b215-db0062f0067c",
+    "reference": "Snax N The City",
+    "country": "GB",
+    "spendingCategory": "EATING_OUT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "830b1df6-7e77-4b13-8736-3094b1009d42",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 460
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 460
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-22T05:18:41.026Z",
+    "transactionTime": "2026-05-21T07:39:01.000Z",
+    "settlementTime": "2026-05-22T05:18:40.875Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ANDROID_PAY",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "3795460e-e15b-4822-9939-21f7b92cce02",
+    "counterPartyName": "Loaf",
+    "counterPartySubEntityUid": "3795352a-ab1f-4cec-ba18-02bdab295c3b",
+    "reference": "Zettle_*Loaf",
+    "country": "GB",
+    "spendingCategory": "EATING_OUT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "806700c7-ccca-4061-a839-aa20907cf8f2",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 10850
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 10850
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-21T10:23:58.572Z",
+    "transactionTime": "2026-05-20T20:23:16.000Z",
+    "settlementTime": "2026-05-21T10:23:58.388Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CHIP_AND_PIN",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "e3a23493-f98a-4e6d-89c6-fc75f1281ba8",
+    "counterPartyName": "Applegreen",
+    "counterPartySubEntityUid": "5bc89ead-10d3-40ad-b7f5-762bed079bbc",
+    "reference": "APPLEGREEN TEMPLEPATRI",
+    "country": "GB",
+    "spendingCategory": "NON_ESSENTIAL_SPEND",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "7ee7c2a5-6142-4ed1-93db-8cfb55223ee5",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 588
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 588
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-21T04:54:27.720Z",
+    "transactionTime": "2026-05-20T13:59:41.000Z",
+    "settlementTime": "2026-05-21T04:54:27.579Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ANDROID_PAY",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "f37da7e0-df71-405e-beaa-bec700e95950",
+    "counterPartyName": "Ravello",
+    "counterPartySubEntityUid": "ffbf1329-e139-4381-a427-82425f368273",
+    "reference": "RAVELLO COFFEE CO LTD",
+    "country": "GB",
+    "spendingCategory": "EATING_OUT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "7e264c50-0104-4ec2-9ee5-12c507a2435d",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 1433
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 1433
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-21T14:38:49.589Z",
+    "transactionTime": "2026-05-20T10:46:11.000Z",
+    "settlementTime": "2026-05-21T14:38:49.454Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ANDROID_PAY",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "2006d45c-9381-421c-80c8-c65efc889179",
+    "counterPartyName": "Leon",
+    "counterPartySubEntityUid": "f00896e1-2712-4b23-97f8-95865c21302f",
+    "reference": "HORSEFERRY ROAD LEON",
+    "country": "GB",
+    "spendingCategory": "EATING_OUT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "7d5dfc4c-4b33-4f3d-bbc8-2eb95fe18fca",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 520
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 520
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-21T04:54:27.759Z",
+    "transactionTime": "2026-05-20T07:25:12.000Z",
+    "settlementTime": "2026-05-21T04:54:27.602Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ANDROID_PAY",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "f37da7e0-df71-405e-beaa-bec700e95950",
+    "counterPartyName": "Ravello",
+    "counterPartySubEntityUid": "ffbf1329-e139-4381-a427-82425f368273",
+    "reference": "RAVELLO COFFEE CO LTD",
+    "country": "GB",
+    "spendingCategory": "EATING_OUT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  }
+]

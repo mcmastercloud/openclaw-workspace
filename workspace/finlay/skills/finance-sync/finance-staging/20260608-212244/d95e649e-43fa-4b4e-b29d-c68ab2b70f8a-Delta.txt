@@ -1,0 +1,118 @@
+[
+  {
+    "feedItemUid": "e54dc34e-f72a-436a-9ffe-a13c2589ee40",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 9000
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 9000
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-06-08T01:52:08.698Z",
+    "transactionTime": "2026-06-07T18:53:30.000Z",
+    "settlementTime": "2026-06-08T01:52:08.530Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CHIP_AND_PIN",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "9f4baf61-0eca-43f9-bea7-394c3c53ba7b",
+    "counterPartyName": "Indian Ocean",
+    "counterPartySubEntityUid": "9f4be931-ba90-4d10-8a32-319ddfe2cb2c",
+    "reference": "Indian Ocean",
+    "country": "GB",
+    "spendingCategory": "EATING_OUT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "cdffa1fd-c508-492e-9483-f249c7cabb08",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 160558
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 160558
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-06-04T23:59:12.527Z",
+    "transactionTime": "2026-06-04T23:59:12.312Z",
+    "settlementTime": "2026-06-04T23:59:12.467Z",
+    "source": "DIRECT_DEBIT",
+    "status": "SETTLED",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "a7cb5b27-bc32-49d3-9fae-00cc530cf2ec",
+    "counterPartyName": "Progressive Building Society",
+    "counterPartySubEntityUid": "875e4783-1dfe-4113-9778-9b71ddacbd64",
+    "reference": "70100319174/301442",
+    "country": "GB",
+    "spendingCategory": "MORTGAGE",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "cc7a5175-08d8-43f5-92de-213dd4e95a00",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 552
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 552
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-06-04T23:42:58.434Z",
+    "transactionTime": "2026-06-04T23:42:58.246Z",
+    "settlementTime": "2026-06-04T23:42:58.292Z",
+    "source": "DIRECT_DEBIT",
+    "status": "SETTLED",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "4bd19233-0b9b-4d25-8d9e-86c8b96e36c1",
+    "counterPartyName": "Barclaycard",
+    "counterPartySubEntityUid": "388153ac-db0f-44d5-8bc5-4cc015398526",
+    "reference": "4929105506083002",
+    "country": "GB",
+    "spendingCategory": "BILLS_AND_SERVICES",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "cfb43ec5-4c0a-4ad2-a4df-cc8d0e2e8ddb",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 770
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 770
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-06-05T00:44:59.376Z",
+    "transactionTime": "2026-06-03T22:44:05.000Z",
+    "settlementTime": "2026-06-05T00:44:59.228Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ANDROID_PAY",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "bf5d8bfd-e40a-4c63-a4ba-8e6b9c0875df",
+    "counterPartyName": "Emerald Airlines",
+    "counterPartySubEntityUid": "bf5d6505-ee8d-47b4-9ea2-a3a2f24ee838",
+    "reference": "Emerald Airlines      ",
+    "country": "IE",
+    "spendingCategory": "EXPENSES",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  }
+]

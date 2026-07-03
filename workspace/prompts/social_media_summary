@@ -1,0 +1,12 @@
+Filter and summarize the top 5 articles from this social media feed that have the highest viral potential or significance for a technically-minded audience.
+
+* GUARDRAILS
+Output as JSON with the following structure:
+- articles: An array of objects, each containing:
+    - title: The headline of the article
+    - summary: A concise one-sentence description
+    - viral_reason: Why this article is significant or potentially viral
+    - url: An href for the article.  Simply use the text "Link", and set the URL to be the main URL of the article.
+- meta:
+    - total_reviewed: Count of articles processed
+    - feed_name: "General Cloud"

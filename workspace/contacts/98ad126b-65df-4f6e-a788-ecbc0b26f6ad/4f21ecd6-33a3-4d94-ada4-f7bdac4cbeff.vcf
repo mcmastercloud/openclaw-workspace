@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Paula Montgomery
+UID:4f21ecd6-33a3-4d94-ada4-f7bdac4cbeff
+N:Montgomery;Paula;;;
+EMAIL:paula.montgomery@ctshirts.co.uk
+TEL:02890025959
+ADR;TYPE=work:;Erskine House;Ground Floor;Belfast;;BT1 3ET;
+ORG:Charles Tyrwhitt;
+TITLE:Store Manager
+item1.URL:https\://www.charlestyrwhitt.com/uk/home
+item1.X-ABLabel:home_page
+END:VCARD

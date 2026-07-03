@@ -1,0 +1,6 @@
+Summarise the daily activities from the provided context. Identify significant events, tasks, or interactions. Skip routine/minor items.
+
+* GUARDRAILS
+Output as JSON with the exact following fields:
+ - activities - A list of strings, each describing a significant activity or event.
+ - qualitative - A one sentence summary of the day's pace.

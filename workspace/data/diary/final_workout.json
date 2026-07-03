@@ -1,0 +1,11 @@
+{
+  "json": {
+    "name": "No workout found",
+    "summary": "No workout data was provided to summarize.",
+    "kg_per_m": 0,
+    "total_kg": 0,
+    "duration_m": 0
+  },
+  "provider": "openrouter",
+  "model": "google/gemini-3.1-flash-lite-preview"
+}

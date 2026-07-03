@@ -1,0 +1,12 @@
+Summarise this sleep data. Provide the date, duration, start/end times, and a breakdown of sleep phases (deep/light/rem/awake).
+
+* GUARDRAILS
+
+Output as JSON with the exact following fields:
+ - date - The date of the sleep log
+ - duration - The total duration (e.g., 8h 15min)
+ - start_time - Start time (HH:MM)
+ - end_time - End time (HH:MM)
+ - deep_sleep - Total deep sleep duration (e.g., 3h 0min)
+ - phases - A summary of deep/light/rem sleep
+ - summary - A brief one-sentence qualitative observation of the sleep quality.

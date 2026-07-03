@@ -1,0 +1,30 @@
+[
+  {
+    "feedItemUid": "1123b9f9-d2c9-4490-b832-65553ddee7bd",
+    "categoryUid": "8f91083a-6bfa-48ac-837b-1b60386ebc32",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 2111
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 2111
+    },
+    "direction": "IN",
+    "updatedAt": "2026-05-01T01:41:54.566Z",
+    "transactionTime": "2026-04-30T23:00:00.000Z",
+    "settlementTime": "2026-05-01T01:41:00.548Z",
+    "source": "INTEREST_PAYMENT",
+    "sourceSubType": "DEPOSIT",
+    "status": "SETTLED",
+    "counterPartyType": "STARLING",
+    "counterPartyUid": "45df1294-8bfc-4523-8fac-e5210ce5d72d",
+    "counterPartyName": "Starling Bank",
+    "reference": "Easy Saver April Interest Earned",
+    "country": "GB",
+    "spendingCategory": "INCOME",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  }
+]

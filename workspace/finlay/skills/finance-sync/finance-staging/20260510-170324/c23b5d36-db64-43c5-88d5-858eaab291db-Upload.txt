@@ -1,0 +1,166 @@
+[
+  {
+    "feedItemUid": "3dcd6b96-1bd6-4d52-b33e-89b0612bc46d",
+    "categoryUid": "14ee82f9-751c-4f00-9a66-8adec93cf70a",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 2000
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 2000
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-09T00:13:26.653Z",
+    "transactionTime": "2026-05-09T00:13:15.915Z",
+    "settlementTime": "2026-05-09T00:13:15.915Z",
+    "source": "INTERNAL_TRANSFER",
+    "status": "SETTLED",
+    "counterPartyType": "CATEGORY",
+    "counterPartyUid": "c460de91-cf0d-4617-8a89-9b59f6527742",
+    "counterPartyName": "Software and Email",
+    "country": "GB",
+    "spendingCategory": "TRANSFERS",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "293098c8-25fc-49ac-ab9c-f59a3b80c48a",
+    "categoryUid": "14ee82f9-751c-4f00-9a66-8adec93cf70a",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 20000
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 20000
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-06T23:42:37.592Z",
+    "transactionTime": "2026-05-06T23:42:37.469Z",
+    "settlementTime": "2026-05-06T23:42:37.504Z",
+    "source": "DIRECT_DEBIT",
+    "status": "SETTLED",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "734c1116-20dd-4ddf-ae57-ea3782dcd741",
+    "counterPartyName": "Hargreaves Lansdown",
+    "counterPartySubEntityUid": "7d3b6eb9-5101-4118-865a-6c0098329b34",
+    "reference": "01C0374762970001",
+    "country": "GB",
+    "spendingCategory": "STAFF",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "17b27a85-36b1-4dbe-8a64-45a86564e2a7",
+    "categoryUid": "14ee82f9-751c-4f00-9a66-8adec93cf70a",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 2327
+    },
+    "sourceAmount": {
+      "currency": "USD",
+      "minorUnits": 3158
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-02T10:14:26.110Z",
+    "transactionTime": "2026-05-02T05:38:38.000Z",
+    "settlementTime": "2026-05-02T10:14:26.014Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CARD_SUBSCRIPTION",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "98dd35a7-7047-430b-b604-f9413fadbf06",
+    "counterPartyName": "Amazon Web Services",
+    "counterPartySubEntityUid": "eb184100-6b17-4e67-89d1-d9d749cc2c50",
+    "reference": "AWS EMEA",
+    "country": "LU",
+    "spendingCategory": "ADMIN",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "fbfa3b03-9918-47ea-b870-1e9b8f9c622f",
+    "categoryUid": "14ee82f9-751c-4f00-9a66-8adec93cf70a",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 22000
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 22000
+    },
+    "direction": "IN",
+    "updatedAt": "2026-01-26T06:50:15.256Z",
+    "transactionTime": "2026-01-26T06:50:15.001Z",
+    "settlementTime": "2026-01-26T06:50:15.001Z",
+    "source": "INTERNAL_TRANSFER",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "CATEGORY",
+    "counterPartyUid": "c460de91-cf0d-4617-8a89-9b59f6527742",
+    "counterPartyName": "Software and Email",
+    "country": "GB",
+    "spendingCategory": "TRANSFERS",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "9d97fa94-acdb-49fa-b14f-89106ac60e92",
+    "categoryUid": "14ee82f9-751c-4f00-9a66-8adec93cf70a",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 2000
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 2000
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-01-09T12:07:52.370Z",
+    "transactionTime": "2026-01-09T12:07:52.132Z",
+    "settlementTime": "2026-01-09T12:07:52.132Z",
+    "source": "INTERNAL_TRANSFER",
+    "status": "SETTLED",
+    "counterPartyType": "CATEGORY",
+    "counterPartyUid": "c460de91-cf0d-4617-8a89-9b59f6527742",
+    "counterPartyName": "Software and Email",
+    "country": "GB",
+    "spendingCategory": "TRANSFERS",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "9d9452f1-dd80-431e-bb50-c699c4a68780",
+    "categoryUid": "14ee82f9-751c-4f00-9a66-8adec93cf70a",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 20000
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 20000
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-01-09T12:04:32.916Z",
+    "transactionTime": "2026-01-09T12:04:32.833Z",
+    "settlementTime": "2026-01-09T12:04:32.833Z",
+    "source": "INTERNAL_TRANSFER",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "CATEGORY",
+    "counterPartyUid": "c460de91-cf0d-4617-8a89-9b59f6527742",
+    "counterPartyName": "Software and Email",
+    "country": "GB",
+    "spendingCategory": "TRANSFERS",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  }
+]

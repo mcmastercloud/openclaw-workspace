@@ -1,0 +1,2487 @@
+[
+  {
+    "feedItemUid": "c135384d-ba8e-43ac-b41d-5e7ca702ffb8",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 5907
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 5907
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-06-02T23:48:18.497Z",
+    "transactionTime": "2026-06-02T23:48:18.420Z",
+    "settlementTime": "2026-06-02T23:48:18.439Z",
+    "source": "DIRECT_DEBIT",
+    "status": "SETTLED",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "430b4909-7576-4930-aac1-48ce86c40564",
+    "counterPartyName": "Bupa",
+    "counterPartySubEntityUid": "5cf9dab5-ff0f-46ae-a1d8-2368e245b1db",
+    "reference": "0912791838",
+    "country": "GB",
+    "spendingCategory": "BILLS_AND_SERVICES",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "c69930d8-fafd-4aea-921c-2b199f80306c",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 275
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 275
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-06-02T14:37:59.660Z",
+    "transactionTime": "2026-06-02T07:53:40.000Z",
+    "settlementTime": "2026-06-02T14:37:59.538Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ANDROID_PAY",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "cd5c928f-8fc9-4ee9-8647-99d111352a95",
+    "counterPartyName": "Nyx*nwukpureoffices",
+    "counterPartySubEntityUid": "cd5c44ac-a3dc-41c0-a5b7-d60b1ac2f785",
+    "reference": "NYX*NWUKPureOffices",
+    "country": "GB",
+    "spendingCategory": "GROCERIES",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "c242d2ae-5ad2-440c-9461-3172e22ed053",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 1753
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 1753
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-06-02T05:21:02.013Z",
+    "transactionTime": "2026-06-01T13:22:49.000Z",
+    "settlementTime": "2026-06-02T05:21:01.872Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CONTACTLESS",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "89d332e3-d4f0-41c4-af73-fbb9bf17dd1e",
+    "counterPartyName": "SPAR",
+    "counterPartySubEntityUid": "5e245875-2592-45e2-b7d6-51323cc7727c",
+    "reference": "SPAR KELLS",
+    "country": "GB",
+    "spendingCategory": "GROCERIES",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "86fe6556-79bd-41d0-9b51-ceb1d735b357",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 45000
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 45000
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-06-01T07:42:06.313Z",
+    "transactionTime": "2026-06-01T07:42:06.219Z",
+    "settlementTime": "2026-06-01T07:42:06.219Z",
+    "source": "ON_US_PAY_ME",
+    "sourceSubType": "TRANSFER_SAME_CURRENCY",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "CUSTOMER",
+    "counterPartyUid": "5f1eb21e-a90b-4aa4-be7a-090817d8c2dc",
+    "counterPartyName": "Modular Thinking Limited",
+    "reference": "Cash",
+    "country": "GB",
+    "spendingCategory": "PAYMENTS",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "bf8a80ae-e678-4d02-bf2e-3cccfbc28ca4",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 3499
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 3499
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-06-01T11:43:10.358Z",
+    "transactionTime": "2026-06-01T01:46:09.000Z",
+    "settlementTime": "2026-06-01T11:43:10.152Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CARD_SUBSCRIPTION",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "838976ca-9151-4d52-adfa-961a1021a587",
+    "counterPartyName": "Duality Healthcare",
+    "counterPartySubEntityUid": "838957ec-a367-4870-a7e2-5fd64bff5294",
+    "reference": "DUALITY HEALTHCARE",
+    "country": "GB",
+    "spendingCategory": "BILLS_AND_SERVICES",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "aa81281c-b2aa-4607-a966-09b648f5a82e",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 13100
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 13100
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-06-01T00:31:19.490Z",
+    "transactionTime": "2026-06-01T00:31:19.321Z",
+    "settlementTime": "2026-06-01T00:31:19.397Z",
+    "source": "DIRECT_DEBIT",
+    "status": "SETTLED",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "89d196d2-6e30-41ac-a0a4-25834a6a15d6",
+    "counterPartyName": "Budget Energy",
+    "counterPartySubEntityUid": "e7837042-4379-4c2a-ad9d-6bdaf6535cd3",
+    "reference": "MAN3000029162",
+    "country": "GB",
+    "spendingCategory": "ESSENTIAL_SPEND",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "bf33b0e8-6d61-4f8a-b9a9-47613b57b468",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 31244
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 31244
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-06-01T00:19:23.176Z",
+    "transactionTime": "2026-06-01T00:19:23.128Z",
+    "settlementTime": "2026-06-01T00:19:23.128Z",
+    "source": "INTERNAL_TRANSFER",
+    "status": "SETTLED",
+    "counterPartyType": "CATEGORY",
+    "counterPartyUid": "e2b620f6-2904-4e2f-bb2b-b8e85c8c9fa9",
+    "counterPartyName": "Entertainment",
+    "country": "GB",
+    "spendingCategory": "SAVING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "bf331a51-f2ce-45c7-b60f-dd1f60559318",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 40844
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 40844
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-06-01T00:19:22.556Z",
+    "transactionTime": "2026-06-01T00:19:22.500Z",
+    "settlementTime": "2026-06-01T00:19:22.500Z",
+    "source": "INTERNAL_TRANSFER",
+    "status": "SETTLED",
+    "counterPartyType": "CATEGORY",
+    "counterPartyUid": "e2b9c5c3-45da-4511-b667-7aefa43b61b0",
+    "counterPartyName": "Household",
+    "country": "GB",
+    "spendingCategory": "SAVING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "ae2063e6-a047-47c6-a623-43f8be2c4ece",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 88677
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 88677
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-31T23:59:31.399Z",
+    "transactionTime": "2026-05-31T23:59:31.319Z",
+    "settlementTime": "2026-05-31T23:59:31.341Z",
+    "source": "DIRECT_DEBIT",
+    "status": "SETTLED",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "75417928-bf09-401b-8f25-c20faa511202",
+    "counterPartyName": "M And S Bank Loans",
+    "counterPartySubEntityUid": "bab045cd-1c39-4162-94d6-08da196b07a2",
+    "reference": "40125896401988",
+    "country": "GB",
+    "spendingCategory": "DEBT_REPAYMENT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "b78620ea-29f3-43ba-b55f-368041e05c5d",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 2590
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 2590
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-31T11:40:09.516Z",
+    "transactionTime": "2026-05-30T15:34:31.000Z",
+    "settlementTime": "2026-05-31T11:40:09.409Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ONLINE",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "8a8a2f6d-4393-4095-9e1f-aa8ef5ea9dc1",
+    "counterPartyName": "Omniplex",
+    "counterPartySubEntityUid": "06641a8f-eaf3-4305-b053-83621b94233a",
+    "reference": "Omniplex Antrim",
+    "country": "GB",
+    "spendingCategory": "ENTERTAINMENT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "b6e3b131-8c10-4f9c-b340-0d4df191107b",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 1586
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 1586
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-31T04:57:09.033Z",
+    "transactionTime": "2026-05-30T12:51:28.000Z",
+    "settlementTime": "2026-05-31T04:57:08.966Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CONTACTLESS",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "2532da38-e0c2-478f-95a1-c08d43139c43",
+    "counterPartyName": "Subway",
+    "counterPartySubEntityUid": "d7e6e064-3dc0-4676-b3fd-f8badb2a98c0",
+    "reference": "SUBWAY44942",
+    "country": "GB",
+    "spendingCategory": "EATING_OUT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "b6da024c-a771-4ed6-83c1-64b51883c67d",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 240
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 240
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-31T11:08:42.486Z",
+    "transactionTime": "2026-05-30T12:42:26.000Z",
+    "settlementTime": "2026-05-31T11:08:42.377Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ANDROID_PAY_ONLINE",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "526ee3af-c358-4eb3-b386-18ac8fac2d55",
+    "counterPartyName": "RingGo",
+    "counterPartySubEntityUid": "093bc08a-8386-475b-ba90-796b03ca464a",
+    "reference": "RINGGO PARKING",
+    "country": "GB",
+    "spendingCategory": "TRANSPORT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "b28a1701-633b-4396-b764-c113b7d28183",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 1910
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 1910
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-30T05:26:44.630Z",
+    "transactionTime": "2026-05-29T18:18:58.000Z",
+    "settlementTime": "2026-05-30T05:26:44.441Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CONTACTLESS",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "b2b9bae9-cd6a-4f99-bb02-0a1a406f3e7b",
+    "counterPartyName": "Rolos Traditional Fish",
+    "counterPartySubEntityUid": "b2b95ce8-3cf7-46ac-9920-d3bb303d671e",
+    "reference": "Rolos Traditional Fish",
+    "country": "GB",
+    "spendingCategory": "EATING_OUT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "b0e8f4d4-b793-4880-ab4d-b242c40d719a",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 349500
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 349500
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-29T11:25:44.334Z",
+    "transactionTime": "2026-05-29T11:25:44.210Z",
+    "settlementTime": "2026-05-29T11:25:44.210Z",
+    "source": "FASTER_PAYMENTS_OUT",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "PAYEE",
+    "counterPartyUid": "b0dcdb1e-8546-4e7a-a8be-ab25d5e65100",
+    "counterPartyName": "Fernisky Frames",
+    "counterPartySubEntityUid": "b0dc3867-9dc9-43c8-8ec2-6bd11d8bf17e",
+    "counterPartySubEntityName": "Allied Irish Bank NI account",
+    "counterPartySubEntityIdentifier": "938017",
+    "counterPartySubEntitySubIdentifier": "70197043",
+    "reference": "130 Steeple",
+    "country": "GB",
+    "spendingCategory": "PAYMENTS",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "a682c307-2492-42b9-ad87-31e36956c7d4",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 2699
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 2699
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-29T00:25:30.673Z",
+    "transactionTime": "2026-05-29T00:25:30.441Z",
+    "settlementTime": "2026-05-29T00:25:30.609Z",
+    "source": "DIRECT_DEBIT",
+    "status": "SETTLED",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "23871e16-4b5d-4918-af23-09471696f077",
+    "counterPartyName": "JD Gyms",
+    "counterPartySubEntityUid": "a7854d6c-5185-4768-8492-b62719e2e33b",
+    "reference": "W95740060",
+    "country": "GB",
+    "spendingCategory": "LIFESTYLE",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "a5073824-b842-45e3-ac7d-904b641a0b92",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 951641
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 951641
+    },
+    "direction": "IN",
+    "updatedAt": "2026-05-28T23:10:52.542Z",
+    "transactionTime": "2026-05-28T23:01:00.000Z",
+    "settlementTime": "2026-05-28T23:10:52.470Z",
+    "source": "DIRECT_CREDIT",
+    "status": "SETTLED",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "e2cfe43f-1c8c-4dfc-b893-fe8ca00d563a",
+    "counterPartyName": "Deloitte Llp",
+    "counterPartySubEntityUid": "88e844ad-8061-4a92-be07-c895c121f9e3",
+    "reference": "2143004020",
+    "country": "GB",
+    "spendingCategory": "PAYMENTS",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "ac02ac63-f101-4ee4-83f4-6222431a71c3",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 295
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 295
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-29T04:49:02.276Z",
+    "transactionTime": "2026-05-28T14:26:33.000Z",
+    "settlementTime": "2026-05-29T04:49:02.159Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ANDROID_PAY",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "0d9b237a-600e-4312-bd22-07858cfc3f36",
+    "counterPartyName": "Deloitte Llp - 2 New S",
+    "counterPartySubEntityUid": "0d9be282-fa5c-45c1-a211-6fc908dc39d7",
+    "reference": "DELOITTE LLP - 2 NEW S",
+    "country": "GB",
+    "spendingCategory": "EATING_OUT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "ab9a2d88-e912-4644-8b77-84798f2d6dd8",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 190
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 190
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-29T04:17:31.362Z",
+    "transactionTime": "2026-05-28T12:42:30.000Z",
+    "settlementTime": "2026-05-29T04:17:31.201Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ANDROID_PAY",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "0de23ff2-977a-42d6-bbe6-4365b8bc7b1c",
+    "counterPartyName": "Deloitte Llp - 1 New S",
+    "counterPartySubEntityUid": "0de25f4b-ea44-4d08-90a5-94cecd7684f2",
+    "reference": "DELOITTE LLP - 1 NEW S",
+    "country": "GB",
+    "spendingCategory": "EATING_OUT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "aaf88a5b-80d1-4d90-b7e3-89d8dba07ef9",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 3816
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 3816
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-29T04:52:22.058Z",
+    "transactionTime": "2026-05-28T10:00:00.000Z",
+    "settlementTime": "2026-05-29T04:52:21.891Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CONTACTLESS",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "0ec76c5d-949b-4287-9973-5e4fce0edb79",
+    "counterPartyName": "Pilpel",
+    "counterPartySubEntityUid": "df87f36e-4d17-4f33-90d1-2a50a7fc01b3",
+    "reference": "PILPEL FOR THE PEOPLE",
+    "country": "GB",
+    "spendingCategory": "EXPENSES",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "aa657beb-34c6-4827-a70f-11ed5364fe27",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 503
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 503
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-29T04:49:02.302Z",
+    "transactionTime": "2026-05-28T07:33:32.000Z",
+    "settlementTime": "2026-05-29T04:49:02.224Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CONTACTLESS",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "0d9b237a-600e-4312-bd22-07858cfc3f36",
+    "counterPartyName": "Deloitte Llp - 2 New S",
+    "counterPartySubEntityUid": "0d9be282-fa5c-45c1-a211-6fc908dc39d7",
+    "reference": "DELOITTE LLP - 2 NEW S",
+    "country": "GB",
+    "spendingCategory": "EATING_OUT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "a229ef9d-3190-4844-84c0-6e152a2d8600",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 6249
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 6249
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-27T23:46:34.368Z",
+    "transactionTime": "2026-05-27T23:46:34.219Z",
+    "settlementTime": "2026-05-27T23:46:34.290Z",
+    "source": "DIRECT_DEBIT",
+    "status": "SETTLED",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "7059b0eb-17ab-4344-b181-884c07757dc6",
+    "counterPartyName": "Fibrus Networks",
+    "counterPartySubEntityUid": "98f95dcb-d987-4146-8b77-f0ad6b636735",
+    "reference": "B3Z6YM2",
+    "country": "GB",
+    "spendingCategory": "BILLS_AND_SERVICES",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "a5cbe31e-b289-4c6d-9207-e4e2810ada25",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 2444
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 2444
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-28T16:37:47.343Z",
+    "transactionTime": "2026-05-27T11:55:49.000Z",
+    "settlementTime": "2026-05-28T16:37:46.604Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CONTACTLESS",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "2006d45c-9381-421c-80c8-c65efc889179",
+    "counterPartyName": "Leon",
+    "counterPartySubEntityUid": "f00896e1-2712-4b23-97f8-95865c21302f",
+    "reference": "HORSEFERRY ROAD LEON",
+    "country": "GB",
+    "spendingCategory": "EATING_OUT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "a539f08e-8ce5-430b-b29b-9a17e8cccff1",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 485
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 485
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-28T04:49:57.704Z",
+    "transactionTime": "2026-05-27T09:29:37.000Z",
+    "settlementTime": "2026-05-28T04:49:57.574Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ANDROID_PAY",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "f37da7e0-df71-405e-beaa-bec700e95950",
+    "counterPartyName": "Ravello",
+    "counterPartySubEntityUid": "ffbf1329-e139-4381-a427-82425f368273",
+    "reference": "RAVELLO COFFEE CO LTD",
+    "country": "GB",
+    "spendingCategory": "EATING_OUT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "9b77d0b2-42d8-4695-9a4c-840e4d035a8b",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 7875
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 7875
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-26T01:07:21.727Z",
+    "transactionTime": "2026-05-25T15:51:42.000Z",
+    "settlementTime": "2026-05-26T01:07:21.554Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CONTACTLESS",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "7ca53d26-100c-432c-b3e9-8badf4790e1d",
+    "counterPartyName": "Andhra Bhavan",
+    "counterPartySubEntityUid": "7ca5a140-f965-4e7a-885d-028e5bd9fd6b",
+    "reference": "ANDHRA BHAVAN",
+    "country": "GB",
+    "spendingCategory": "EATING_OUT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "9b41cec4-380d-470a-ba46-8d00b9629c14",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 1770
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 1770
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-26T04:21:15.341Z",
+    "transactionTime": "2026-05-25T14:57:30.000Z",
+    "settlementTime": "2026-05-26T04:21:15.259Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ANDROID_PAY",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "a7b3160e-dca4-415a-9efe-732d2542df27",
+    "counterPartyName": "Boots",
+    "counterPartySubEntityUid": "6a7cfaf2-51b7-4efb-9933-8a70bcb94974",
+    "reference": "BOOTS 0633",
+    "country": "GB",
+    "spendingCategory": "PERSONAL_CARE",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "99df52d8-dea9-4136-bf21-201e757e8329",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 1928
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 1928
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-26T04:44:26.475Z",
+    "transactionTime": "2026-05-25T09:03:28.000Z",
+    "settlementTime": "2026-05-26T04:44:26.325Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CONTACTLESS",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "89d332e3-d4f0-41c4-af73-fbb9bf17dd1e",
+    "counterPartyName": "SPAR",
+    "counterPartySubEntityUid": "5e245875-2592-45e2-b7d6-51323cc7727c",
+    "reference": "SPAR KELLS",
+    "country": "GB",
+    "spendingCategory": "GROCERIES",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "915e22fc-20f3-43f5-bbe9-090199db4114",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 4000
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 4000
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-25T04:04:26.453Z",
+    "transactionTime": "2026-05-23T20:46:21.000Z",
+    "settlementTime": "2026-05-25T04:04:26.354Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ATM",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "d656ecaf-12e1-41c8-83fe-0d467df77b14",
+    "counterPartyName": "Cash Machine",
+    "counterPartySubEntityUid": "c90b03f1-45da-4f29-8193-a4917fdba1cf",
+    "reference": "E07029800000000",
+    "country": "GB",
+    "spendingCategory": "PERSONAL_CARE",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "8ee0bdff-1c44-4f9a-a80f-cf5c922f8053",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 330
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 330
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-24T04:19:58.223Z",
+    "transactionTime": "2026-05-23T10:08:03.000Z",
+    "settlementTime": "2026-05-24T04:19:58.137Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CONTACTLESS",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "bbe07266-44af-4c54-85e7-2d6998613cdf",
+    "counterPartyName": "Vivo Antrim",
+    "counterPartySubEntityUid": "970d1da0-a56a-4e62-9830-3c299d37e3bb",
+    "reference": "VIVO ANTRIM",
+    "country": "GB",
+    "spendingCategory": "GROCERIES",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "8edd9098-e2fa-4400-bd0c-7bcb45c8c30e",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 1565
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 1565
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-24T05:01:10.153Z",
+    "transactionTime": "2026-05-23T10:05:59.000Z",
+    "settlementTime": "2026-05-24T05:01:09.835Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ANDROID_PAY",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "a7b3160e-dca4-415a-9efe-732d2542df27",
+    "counterPartyName": "Boots",
+    "counterPartySubEntityUid": "95462ff1-b45a-4fdb-ad53-3c98a4617900",
+    "reference": "BOOTS 4601",
+    "country": "GB",
+    "spendingCategory": "PERSONAL_CARE",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "8ed11719-ddd5-48d9-bc93-e97d0c51c3d7",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 831
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 831
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-24T04:30:23.927Z",
+    "transactionTime": "2026-05-23T09:53:44.000Z",
+    "settlementTime": "2026-05-24T04:30:23.552Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CONTACTLESS",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "3a46a12e-ed57-4d51-b771-b844980c58fc",
+    "counterPartyName": "Card Factory",
+    "counterPartySubEntityUid": "a395f622-54f5-4af4-81c7-f4595db0b9b3",
+    "reference": "CARD FACTORY",
+    "country": "GB",
+    "spendingCategory": "SHOPPING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "840f3ecf-ba1d-4680-91f3-0da6c7700264",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 975
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 975
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-21T15:02:27.203Z",
+    "transactionTime": "2026-05-21T11:59:07.000Z",
+    "settlementTime": "2026-05-21T15:02:27.010Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ANDROID_PAY",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "83beeb38-6a3c-4179-96cb-900a78eecd7a",
+    "counterPartyName": "Snax",
+    "counterPartySubEntityUid": "9b125a96-7cdc-46d3-b215-db0062f0067c",
+    "reference": "Snax N The City",
+    "country": "GB",
+    "spendingCategory": "EATING_OUT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "830b1df6-7e77-4b13-8736-3094b1009d42",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 460
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 460
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-22T05:18:41.026Z",
+    "transactionTime": "2026-05-21T07:39:01.000Z",
+    "settlementTime": "2026-05-22T05:18:40.875Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ANDROID_PAY",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "3795460e-e15b-4822-9939-21f7b92cce02",
+    "counterPartyName": "Loaf",
+    "counterPartySubEntityUid": "3795352a-ab1f-4cec-ba18-02bdab295c3b",
+    "reference": "Zettle_*Loaf",
+    "country": "GB",
+    "spendingCategory": "EATING_OUT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "806700c7-ccca-4061-a839-aa20907cf8f2",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 10850
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 10850
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-21T10:23:58.572Z",
+    "transactionTime": "2026-05-20T20:23:16.000Z",
+    "settlementTime": "2026-05-21T10:23:58.388Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CHIP_AND_PIN",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "e3a23493-f98a-4e6d-89c6-fc75f1281ba8",
+    "counterPartyName": "Applegreen",
+    "counterPartySubEntityUid": "5bc89ead-10d3-40ad-b7f5-762bed079bbc",
+    "reference": "APPLEGREEN TEMPLEPATRI",
+    "country": "GB",
+    "spendingCategory": "NON_ESSENTIAL_SPEND",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "f51470ae-4fce-417f-a7c5-9edf6bd68a39",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 100000
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 100000
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-20T17:48:05.130Z",
+    "transactionTime": "2026-05-20T17:48:04.651Z",
+    "settlementTime": "2026-05-20T17:48:04.651Z",
+    "source": "ON_US_PAY_ME",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "CATEGORY",
+    "counterPartyUid": "8f91083a-6bfa-48ac-837b-1b60386ebc32",
+    "counterPartyName": "Savings",
+    "reference": "windows",
+    "country": "GB",
+    "spendingCategory": "SAVING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "7ee7c2a5-6142-4ed1-93db-8cfb55223ee5",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 588
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 588
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-21T04:54:27.720Z",
+    "transactionTime": "2026-05-20T13:59:41.000Z",
+    "settlementTime": "2026-05-21T04:54:27.579Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ANDROID_PAY",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "f37da7e0-df71-405e-beaa-bec700e95950",
+    "counterPartyName": "Ravello",
+    "counterPartySubEntityUid": "ffbf1329-e139-4381-a427-82425f368273",
+    "reference": "RAVELLO COFFEE CO LTD",
+    "country": "GB",
+    "spendingCategory": "EATING_OUT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "7e264c50-0104-4ec2-9ee5-12c507a2435d",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 1433
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 1433
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-21T14:38:49.589Z",
+    "transactionTime": "2026-05-20T10:46:11.000Z",
+    "settlementTime": "2026-05-21T14:38:49.454Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ANDROID_PAY",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "2006d45c-9381-421c-80c8-c65efc889179",
+    "counterPartyName": "Leon",
+    "counterPartySubEntityUid": "f00896e1-2712-4b23-97f8-95865c21302f",
+    "reference": "HORSEFERRY ROAD LEON",
+    "country": "GB",
+    "spendingCategory": "EATING_OUT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "7d5dfc4c-4b33-4f3d-bbc8-2eb95fe18fca",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 520
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 520
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-21T04:54:27.759Z",
+    "transactionTime": "2026-05-20T07:25:12.000Z",
+    "settlementTime": "2026-05-21T04:54:27.602Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ANDROID_PAY",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "f37da7e0-df71-405e-beaa-bec700e95950",
+    "counterPartyName": "Ravello",
+    "counterPartySubEntityUid": "ffbf1329-e139-4381-a427-82425f368273",
+    "reference": "RAVELLO COFFEE CO LTD",
+    "country": "GB",
+    "spendingCategory": "EATING_OUT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "743c3aa2-6bf0-4e95-a09a-106176dff76f",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 850
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 850
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-19T23:33:40.511Z",
+    "transactionTime": "2026-05-19T23:33:40.321Z",
+    "settlementTime": "2026-05-19T23:33:40.379Z",
+    "source": "DIRECT_DEBIT",
+    "status": "SETTLED",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "832ce55f-6293-435d-983b-979c70b7fae0",
+    "counterPartyName": "The British Horse Society",
+    "counterPartySubEntityUid": "75e25378-1bca-45f8-9b16-789fb9d622d8",
+    "reference": "12251060",
+    "country": "GB",
+    "spendingCategory": "HOBBY",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "78025826-32eb-41b7-84c1-78c0723a6ffe",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 318
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 318
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-20T04:19:36.141Z",
+    "transactionTime": "2026-05-19T08:34:43.000Z",
+    "settlementTime": "2026-05-20T04:19:35.957Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ANDROID_PAY",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "0de23ff2-977a-42d6-bbe6-4365b8bc7b1c",
+    "counterPartyName": "Deloitte Llp - 1 New S",
+    "counterPartySubEntityUid": "0de25f4b-ea44-4d08-90a5-94cecd7684f2",
+    "reference": "DELOITTE LLP - 1 NEW S",
+    "country": "GB",
+    "spendingCategory": "EATING_OUT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "77b7a0d3-0de2-4a16-9a30-f713611cd158",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 347
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 347
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-20T04:19:36.112Z",
+    "transactionTime": "2026-05-19T07:19:20.000Z",
+    "settlementTime": "2026-05-20T04:19:35.936Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ANDROID_PAY",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "0de23ff2-977a-42d6-bbe6-4365b8bc7b1c",
+    "counterPartyName": "Deloitte Llp - 1 New S",
+    "counterPartySubEntityUid": "0de25f4b-ea44-4d08-90a5-94cecd7684f2",
+    "reference": "DELOITTE LLP - 1 NEW S",
+    "country": "GB",
+    "spendingCategory": "EATING_OUT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "62bc4e8c-ee6d-4c50-a4f9-196b56542e81",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 208049
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 208049
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-19T00:11:45.353Z",
+    "transactionTime": "2026-05-19T00:11:45.253Z",
+    "settlementTime": "2026-05-19T00:11:45.291Z",
+    "source": "DIRECT_DEBIT",
+    "status": "SETTLED",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "fa4cda23-81ad-4899-88a8-c1f87694defc",
+    "counterPartyName": "American Express",
+    "counterPartySubEntityUid": "ebb50a88-526f-4f86-b498-e5621cfc1362",
+    "reference": "37464866132",
+    "country": "GB",
+    "spendingCategory": "PERSONAL_TRANSFERS",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "7519e8ea-17ce-41de-be90-6f05c07ba365",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 579
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 579
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-19T03:12:01.383Z",
+    "transactionTime": "2026-05-18T20:09:31.000Z",
+    "settlementTime": "2026-05-19T03:12:01.268Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ANDROID_PAY",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "a306401a-53a7-4a0c-a9c8-b71294b8e40d",
+    "counterPartyName": "J And R Kiosk",
+    "counterPartySubEntityUid": "a306b868-8882-4ca0-875f-39a29abbe066",
+    "reference": "J and R kiosk",
+    "country": "GB",
+    "spendingCategory": "GROCERIES",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "686fc8c9-37d1-4a54-87c5-bb20e754fe4b",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 14685
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 14685
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-17T09:38:37.046Z",
+    "transactionTime": "2026-05-16T14:07:27.000Z",
+    "settlementTime": "2026-05-17T09:38:36.915Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CHIP_AND_PIN",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "14aa70d6-2f6b-431b-b2f5-9620cbd264e0",
+    "counterPartyName": "Ben Vista Nursery & Ga",
+    "counterPartySubEntityUid": "3a628167-e860-4441-badd-3895a6aefae6",
+    "reference": "BEN VISTA NURSERY & GA",
+    "country": "GB",
+    "spendingCategory": "BILLS_AND_SERVICES",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "637efa9b-4d89-4390-a523-a4b227ceb1f7",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 2175
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 2175
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-16T04:41:56.093Z",
+    "transactionTime": "2026-05-15T17:02:34.000Z",
+    "settlementTime": "2026-05-16T04:41:55.887Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CONTACTLESS",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "129b6a7b-800e-4baa-8090-88e027540f5b",
+    "counterPartyName": "Kennys Hillview",
+    "counterPartySubEntityUid": "129bfa76-bc56-484c-9f9a-35b6468b9729",
+    "reference": "KENNYS HILLVIEW",
+    "country": "GB",
+    "spendingCategory": "GROCERIES",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "11220f85-2ae4-43d0-ab80-a3c6ddc2e773",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 169
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 169
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-15T06:01:35.763Z",
+    "transactionTime": "2026-05-15T06:00:00.000Z",
+    "settlementTime": "2026-05-15T06:00:43.131Z",
+    "source": "INTEREST_PAYMENT",
+    "sourceSubType": "OVERDRAFT",
+    "status": "SETTLED",
+    "counterPartyType": "STARLING",
+    "counterPartyUid": "45df1294-8bfc-4523-8fac-e5210ce5d72d",
+    "counterPartyName": "Starling Bank",
+    "reference": "April Overdraft Charge",
+    "country": "GB",
+    "spendingCategory": "BILLS_AND_SERVICES",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "5ec4d955-0d42-4043-a5ca-a6a924cb7f37",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 2633
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 2633
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-15T04:48:52.475Z",
+    "transactionTime": "2026-05-14T20:52:37.000Z",
+    "settlementTime": "2026-05-15T04:48:52.309Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ANDROID_PAY",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "89d332e3-d4f0-41c4-af73-fbb9bf17dd1e",
+    "counterPartyName": "SPAR",
+    "counterPartySubEntityUid": "5e245875-2592-45e2-b7d6-51323cc7727c",
+    "reference": "SPAR KELLS",
+    "country": "GB",
+    "spendingCategory": "GROCERIES",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "595a14a3-596d-4aa4-98f3-cb8cadc8613a",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 550
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 550
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-15T00:43:51.619Z",
+    "transactionTime": "2026-05-13T21:46:46.000Z",
+    "settlementTime": "2026-05-15T00:43:51.484Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CONTACTLESS",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "bf5e087d-010f-45c7-a387-9e08db94960d",
+    "counterPartyName": "Emerald Airlines",
+    "counterPartySubEntityUid": "bf5e2915-5cc1-45c8-a641-2447657d61f9",
+    "reference": "Emerald Airlines      ",
+    "country": "IE",
+    "spendingCategory": "EXPENSES",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "56d05e20-4fcc-42f1-9e2b-06f95a0e28aa",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 1336
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 1336
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-13T14:55:33.422Z",
+    "transactionTime": "2026-05-13T10:56:30.000Z",
+    "settlementTime": "2026-05-13T14:55:33.083Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ANDROID_PAY",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "623df772-9547-4007-bf45-fd52b4e4673d",
+    "counterPartyName": "German Doner Kebab",
+    "counterPartySubEntityUid": "c98c3d99-0a24-4337-88bc-84427be9d0d1",
+    "reference": "GDK CHELTENHAM",
+    "country": "GB",
+    "spendingCategory": "EATING_OUT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "5662b631-e1fb-4fe2-932a-68520db26d88",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 1390
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 1390
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-14T11:36:58.554Z",
+    "transactionTime": "2026-05-13T09:06:52.000Z",
+    "settlementTime": "2026-05-14T11:36:58.374Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ONLINE",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "e1f57a76-f59b-46e9-9bb5-4785994425cd",
+    "counterPartyName": "Cheltenham Borough Council",
+    "counterPartySubEntityUid": "f53fbb0f-2bdc-49c1-803c-d7c934172921",
+    "reference": "CHELTENHAM BOROUGH COU",
+    "country": "GB",
+    "spendingCategory": "TRANSPORT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "564252bf-94a7-42a4-b291-5ddbd83062d1",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 440
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 440
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-13T15:00:42.488Z",
+    "transactionTime": "2026-05-13T08:34:02.000Z",
+    "settlementTime": "2026-05-13T15:00:42.266Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ANDROID_PAY",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "058c054d-9c97-4461-bdc3-23ca0c6351ec",
+    "counterPartyName": "Black Gold",
+    "counterPartySubEntityUid": "058cbb0b-e12e-4eeb-b063-b475db7c58d7",
+    "reference": "Black Gold",
+    "country": "GB",
+    "spendingCategory": "EATING_OUT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "53341f5c-cb54-4fb0-a9af-303c4428d38b",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 820
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 820
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-14T01:12:28.125Z",
+    "transactionTime": "2026-05-12T19:32:16.000Z",
+    "settlementTime": "2026-05-14T01:12:27.986Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CONTACTLESS",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "bf5d8bfd-e40a-4c63-a4ba-8e6b9c0875df",
+    "counterPartyName": "Emerald Airlines",
+    "counterPartySubEntityUid": "bf5d6505-ee8d-47b4-9ea2-a3a2f24ee838",
+    "reference": "Emerald Airlines      ",
+    "country": "IE",
+    "spendingCategory": "EXPENSES",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "514d374a-94ae-42ee-95a4-0f0a27caa340",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 1005
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 1005
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-13T04:12:23.569Z",
+    "transactionTime": "2026-05-12T11:25:56.000Z",
+    "settlementTime": "2026-05-13T04:12:23.386Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CONTACTLESS",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "10e4b6f2-1630-4b06-b143-1754a082f66f",
+    "counterPartyName": "G4s Facilities Managem",
+    "counterPartySubEntityUid": "10e4e984-7c3f-4e5f-924a-25c96451ce45",
+    "reference": "VMS ELEMENTS",
+    "country": "GB",
+    "spendingCategory": "EATING_OUT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "50ba6bb3-5d89-477a-8aad-9a04cc8b492e",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 430
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 430
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-13T04:12:23.540Z",
+    "transactionTime": "2026-05-12T08:58:12.000Z",
+    "settlementTime": "2026-05-13T04:12:23.351Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CONTACTLESS",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "10e4b6f2-1630-4b06-b143-1754a082f66f",
+    "counterPartyName": "G4s Facilities Managem",
+    "counterPartySubEntityUid": "10e4e984-7c3f-4e5f-924a-25c96451ce45",
+    "reference": "VMS ELEMENTS",
+    "country": "GB",
+    "spendingCategory": "EATING_OUT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "35213e80-515f-42f0-87df-0f913c01564e",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 4589
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 4589
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-10T23:48:54.475Z",
+    "transactionTime": "2026-05-10T23:48:54.362Z",
+    "settlementTime": "2026-05-10T23:48:54.411Z",
+    "source": "DIRECT_DEBIT",
+    "status": "SETTLED",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "c817fb19-ee35-4083-bf2c-9a9a1c139043",
+    "counterPartyName": "Pure Gym",
+    "counterPartySubEntityUid": "81c8af7a-f37c-4cb9-bb5a-348024c43e37",
+    "reference": "01070034100501",
+    "country": "GB",
+    "spendingCategory": "BILLS_AND_SERVICES",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "47e68490-94ef-4460-a14e-e7d61bca15bd",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 150
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 150
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-11T09:48:36.342Z",
+    "transactionTime": "2026-05-10T19:18:15.000Z",
+    "settlementTime": "2026-05-11T09:48:36.223Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CONTACTLESS",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "698ca300-1a05-4943-92a2-1ad6498abeda",
+    "counterPartyName": "Castle Vending",
+    "counterPartySubEntityUid": "eae4d7bd-6de3-40d9-b1b7-aa4113befd1b",
+    "reference": "CASTLE VENDING",
+    "country": "GB",
+    "spendingCategory": "BILLS_AND_SERVICES",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "46c01a02-aedd-46f5-98c1-604e673decb5",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 4673
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 4673
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-11T04:11:57.293Z",
+    "transactionTime": "2026-05-10T14:24:35.000Z",
+    "settlementTime": "2026-05-11T04:11:57.168Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CONTACTLESS",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "2415c313-667f-4855-b255-35028079f4b0",
+    "counterPartyName": "Welcome Break",
+    "counterPartySubEntityUid": "57bba838-1b86-4659-af32-c3b153356d36",
+    "reference": "WELCOME BREAK",
+    "country": "GB",
+    "spendingCategory": "EATING_OUT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "466c1798-a397-4c3c-9cc4-7ac0757a36d8",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 510
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 510
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-11T01:43:33.324Z",
+    "transactionTime": "2026-05-10T13:00:07.000Z",
+    "settlementTime": "2026-05-11T01:43:33.150Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CONTACTLESS",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "058c054d-9c97-4461-bdc3-23ca0c6351ec",
+    "counterPartyName": "Black Gold",
+    "counterPartySubEntityUid": "058cbb0b-e12e-4eeb-b063-b475db7c58d7",
+    "reference": "Black Gold",
+    "country": "GB",
+    "spendingCategory": "EATING_OUT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "45e10c67-ec5a-4e5b-8ca1-f756a4d0e6b8",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 560
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 560
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-11T10:59:42.930Z",
+    "transactionTime": "2026-05-10T10:41:14.000Z",
+    "settlementTime": "2026-05-11T10:59:42.775Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ONLINE",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "e1f57a76-f59b-46e9-9bb5-4785994425cd",
+    "counterPartyName": "Cheltenham Borough Council",
+    "counterPartySubEntityUid": "f53fbb0f-2bdc-49c1-803c-d7c934172921",
+    "reference": "CHELTENHAM BOROUGH COU",
+    "country": "GB",
+    "spendingCategory": "TRANSPORT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "41653834-2943-462d-80a6-31e774673bf7",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 670
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 670
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-10T03:41:13.156Z",
+    "transactionTime": "2026-05-09T15:33:17.000Z",
+    "settlementTime": "2026-05-10T03:41:12.981Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CONTACTLESS",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "f2629aa0-e12a-4a37-9ea4-12307c0975a6",
+    "counterPartyName": "Cec Ice Cream Group Lt",
+    "counterPartySubEntityUid": "f2629b4e-75b0-4435-a0ed-ee7ce4814798",
+    "reference": "CEC ICE CREAM GROUP LT",
+    "country": "GB",
+    "spendingCategory": "EATING_OUT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "4117e543-8a24-4d35-a6cb-b91e32d88da7",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 1300
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 1300
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-10T02:15:21.165Z",
+    "transactionTime": "2026-05-09T14:15:39.000Z",
+    "settlementTime": "2026-05-10T02:15:21.001Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CONTACTLESS",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "e071f83a-7dd2-4cc6-9dd3-9932e9d3663a",
+    "counterPartyName": "Hughes Fresh Fruit",
+    "counterPartySubEntityUid": "e0713757-c852-4db7-bb04-add96bab2009",
+    "reference": "Hughes Fresh Fruit Ltd",
+    "country": "GB",
+    "spendingCategory": "EATING_OUT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "3fe1682e-94d1-42f7-9f2f-92f1f5c58c6f",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 16000
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 16000
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-10T04:19:32.059Z",
+    "transactionTime": "2026-05-09T09:05:55.000Z",
+    "settlementTime": "2026-05-10T04:19:31.949Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CHIP_AND_PIN",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "4f8a7d30-f19f-4cf0-9a5c-3356533f997a",
+    "counterPartyName": "Elm Of Burford",
+    "counterPartySubEntityUid": "4f8a114f-0845-4142-9a69-24665d6e8ee3",
+    "reference": "ELM OF BURFORD",
+    "country": "GB",
+    "spendingCategory": "SHOPPING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "3f72caea-0711-4b35-ac20-91c90ae7b0c7",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 350
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 350
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-10T03:41:13.184Z",
+    "transactionTime": "2026-05-09T07:14:17.000Z",
+    "settlementTime": "2026-05-10T03:41:13.011Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ANDROID_PAY",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "f2629aa0-e12a-4a37-9ea4-12307c0975a6",
+    "counterPartyName": "Cec Ice Cream Group Lt",
+    "counterPartySubEntityUid": "f2629b4e-75b0-4435-a0ed-ee7ce4814798",
+    "reference": "CEC ICE CREAM GROUP LT",
+    "country": "GB",
+    "spendingCategory": "EATING_OUT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "3bff6136-c5f3-46be-8cf0-cdfbe45bb52c",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 2600
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 2600
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-09T11:40:33.242Z",
+    "transactionTime": "2026-05-08T16:31:33.000Z",
+    "settlementTime": "2026-05-09T11:40:33.077Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ANDROID_PAY",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "f887f9ac-bf81-4346-9997-0a445ee974b5",
+    "counterPartyName": "Birmingham Airport",
+    "counterPartySubEntityUid": "8c6089cd-0aeb-48ac-83e1-aff9d883d357",
+    "reference": "BIRMINGHAM AIRPORT - C",
+    "country": "GB",
+    "spendingCategory": "TRANSPORT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "3b9ea92b-5105-4f66-b0cb-d58e28f7a21a",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 180
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 180
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-09T04:16:05.354Z",
+    "transactionTime": "2026-05-08T14:54:47.000Z",
+    "settlementTime": "2026-05-09T04:16:05.183Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CONTACTLESS",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "2415c313-667f-4855-b255-35028079f4b0",
+    "counterPartyName": "Welcome Break",
+    "counterPartySubEntityUid": "57bba838-1b86-4659-af32-c3b153356d36",
+    "reference": "WELCOME BREAK",
+    "country": "GB",
+    "spendingCategory": "EATING_OUT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "3a8aa6da-3d45-4382-89c5-d9c6e872f283",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 374
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 374
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-09T10:43:00.701Z",
+    "transactionTime": "2026-05-08T10:18:44.000Z",
+    "settlementTime": "2026-05-09T10:43:00.522Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ANDROID_PAY",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "528a118c-1516-4d29-90f5-d873f04bd049",
+    "counterPartyName": "Asda",
+    "counterPartySubEntityUid": "b22472cf-cf1d-47c6-b619-6da0f9fb9628",
+    "reference": "ASDA Stores",
+    "country": "GB",
+    "spendingCategory": "EXPENSES",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "3a89b14e-396c-483b-8f38-54b299511c45",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 799
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 799
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-09T10:43:00.610Z",
+    "transactionTime": "2026-05-08T10:17:33.000Z",
+    "settlementTime": "2026-05-09T10:43:00.444Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ANDROID_PAY",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "528a118c-1516-4d29-90f5-d873f04bd049",
+    "counterPartyName": "Asda",
+    "counterPartySubEntityUid": "b22472cf-cf1d-47c6-b619-6da0f9fb9628",
+    "reference": "ASDA Stores",
+    "country": "GB",
+    "spendingCategory": "EXPENSES",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "3a5a2dad-2273-4991-9dbd-f2a7402b9352",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 275
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 275
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-08T14:44:14.547Z",
+    "transactionTime": "2026-05-08T09:30:55.000Z",
+    "settlementTime": "2026-05-08T14:44:14.473Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ANDROID_PAY",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "cd5c928f-8fc9-4ee9-8647-99d111352a95",
+    "counterPartyName": "Nyx*nwukpureoffices",
+    "counterPartySubEntityUid": "cd5c44ac-a3dc-41c0-a5b7-d60b1ac2f785",
+    "reference": "NYX*NWUKPureOffices",
+    "country": "GB",
+    "spendingCategory": "GROCERIES",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "3a176a5c-f1dc-44db-a85c-94fc0c005d3f",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 275
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 275
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-08T14:44:14.550Z",
+    "transactionTime": "2026-05-08T08:23:12.000Z",
+    "settlementTime": "2026-05-08T14:44:14.436Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ANDROID_PAY",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "cd5c928f-8fc9-4ee9-8647-99d111352a95",
+    "counterPartyName": "Nyx*nwukpureoffices",
+    "counterPartySubEntityUid": "cd5c44ac-a3dc-41c0-a5b7-d60b1ac2f785",
+    "reference": "NYX*NWUKPureOffices",
+    "country": "GB",
+    "spendingCategory": "GROCERIES",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "357275e5-3969-4600-b13f-c36fd512c084",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 1025
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 1025
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-08T04:48:48.628Z",
+    "transactionTime": "2026-05-07T12:34:51.000Z",
+    "settlementTime": "2026-05-08T04:48:48.503Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CONTACTLESS",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "10e4b6f2-1630-4b06-b143-1754a082f66f",
+    "counterPartyName": "G4s Facilities Managem",
+    "counterPartySubEntityUid": "10e4e984-7c3f-4e5f-924a-25c96451ce45",
+    "reference": "VMS ELEMENTS",
+    "country": "GB",
+    "spendingCategory": "EATING_OUT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "353981d7-fca5-479c-bff2-586a04fd44e5",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 840
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 840
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-08T04:48:48.633Z",
+    "transactionTime": "2026-05-07T11:37:30.000Z",
+    "settlementTime": "2026-05-08T04:48:48.485Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CONTACTLESS",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "10e4b6f2-1630-4b06-b143-1754a082f66f",
+    "counterPartyName": "G4s Facilities Managem",
+    "counterPartySubEntityUid": "10e4e984-7c3f-4e5f-924a-25c96451ce45",
+    "reference": "VMS ELEMENTS",
+    "country": "GB",
+    "spendingCategory": "EATING_OUT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "349b5c0c-a5b4-4614-be14-5b7e57f5d8ba",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 430
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 430
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-08T04:48:48.667Z",
+    "transactionTime": "2026-05-07T08:59:38.000Z",
+    "settlementTime": "2026-05-08T04:48:48.537Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CONTACTLESS",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "10e4b6f2-1630-4b06-b143-1754a082f66f",
+    "counterPartyName": "G4s Facilities Managem",
+    "counterPartySubEntityUid": "10e4e984-7c3f-4e5f-924a-25c96451ce45",
+    "reference": "VMS ELEMENTS",
+    "country": "GB",
+    "spendingCategory": "EATING_OUT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "30cec2a7-f08f-49c9-b2ea-3b8b198fff2b",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 560
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 560
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-07T11:38:48.973Z",
+    "transactionTime": "2026-05-06T16:46:30.000Z",
+    "settlementTime": "2026-05-07T11:38:48.834Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ONLINE",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "e1f57a76-f59b-46e9-9bb5-4785994425cd",
+    "counterPartyName": "Cheltenham Borough Council",
+    "counterPartySubEntityUid": "f53fbb0f-2bdc-49c1-803c-d7c934172921",
+    "reference": "CHELTENHAM BOROUGH COU",
+    "country": "GB",
+    "spendingCategory": "TRANSPORT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "3049462f-7fa1-44de-acf2-198da11b0cc0",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 550
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 550
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-08T01:11:43.003Z",
+    "transactionTime": "2026-05-06T14:33:07.000Z",
+    "settlementTime": "2026-05-08T01:11:42.928Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CONTACTLESS",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "bf5d8bfd-e40a-4c63-a4ba-8e6b9c0875df",
+    "counterPartyName": "Emerald Airlines",
+    "counterPartySubEntityUid": "bf5d6505-ee8d-47b4-9ea2-a3a2f24ee838",
+    "reference": "Emerald Airlines      ",
+    "country": "IE",
+    "spendingCategory": "EXPENSES",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "30219bf5-23ee-4e0a-b362-de609b0e9c30",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 135
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 135
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-07T11:00:18.038Z",
+    "transactionTime": "2026-05-06T13:53:37.000Z",
+    "settlementTime": "2026-05-07T11:00:17.897Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CONTACTLESS",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "c9f76616-ff25-4759-839a-6a0b08f30caf",
+    "counterPartyName": "Greggs",
+    "counterPartySubEntityUid": "2c0e00a9-fece-4967-a754-b943021e1112",
+    "reference": "GREGGS",
+    "country": "GB",
+    "spendingCategory": "EXPENSES",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "2f7d5adf-36b0-4330-b171-5b707f663183",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 690
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 690
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-07T04:15:35.828Z",
+    "transactionTime": "2026-05-06T11:09:27.000Z",
+    "settlementTime": "2026-05-07T04:15:35.743Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CONTACTLESS",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "10e4b6f2-1630-4b06-b143-1754a082f66f",
+    "counterPartyName": "G4s Facilities Managem",
+    "counterPartySubEntityUid": "10e4e984-7c3f-4e5f-924a-25c96451ce45",
+    "reference": "VMS ELEMENTS",
+    "country": "GB",
+    "spendingCategory": "EATING_OUT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "163149c8-8cb2-496e-b802-600d3920c2eb",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 160558
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 160558
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-06T00:07:00.480Z",
+    "transactionTime": "2026-05-06T00:07:00.330Z",
+    "settlementTime": "2026-05-06T00:07:00.389Z",
+    "source": "DIRECT_DEBIT",
+    "status": "SETTLED",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "a7cb5b27-bc32-49d3-9fae-00cc530cf2ec",
+    "counterPartyName": "Progressive Building Society",
+    "counterPartySubEntityUid": "875e4783-1dfe-4113-9778-9b71ddacbd64",
+    "reference": "70100319174/301442",
+    "country": "GB",
+    "spendingCategory": "MORTGAGE",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "2afca6f9-4f59-4d75-a7b7-e2291d5ac7e7",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 4000
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 4000
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-06T05:14:23.743Z",
+    "transactionTime": "2026-05-05T15:56:10.000Z",
+    "settlementTime": "2026-05-06T05:14:23.603Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ATM",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "d656ecaf-12e1-41c8-83fe-0d467df77b14",
+    "counterPartyName": "Cash Machine",
+    "counterPartySubEntityUid": "c3a36363-f142-4ee2-8c1c-708ea1d8d71f",
+    "reference": "Notemachine ATM",
+    "country": "GB",
+    "spendingCategory": "PERSONAL_CARE",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "0da39309-485e-4695-b8c8-5f8cec3f53a3",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 5907
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 5907
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-05T00:00:30.415Z",
+    "transactionTime": "2026-05-05T00:00:30.321Z",
+    "settlementTime": "2026-05-05T00:00:30.358Z",
+    "source": "DIRECT_DEBIT",
+    "status": "SETTLED",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "430b4909-7576-4930-aac1-48ce86c40564",
+    "counterPartyName": "Bupa",
+    "counterPartySubEntityUid": "5cf9dab5-ff0f-46ae-a1d8-2368e245b1db",
+    "reference": "0912791838",
+    "country": "GB",
+    "spendingCategory": "BILLS_AND_SERVICES",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "0d1c9e01-b62c-411b-a05a-b7db74518651",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 543
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 543
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-04T23:39:32.680Z",
+    "transactionTime": "2026-05-04T23:39:32.593Z",
+    "settlementTime": "2026-05-04T23:39:32.631Z",
+    "source": "DIRECT_DEBIT",
+    "status": "SETTLED",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "4bd19233-0b9b-4d25-8d9e-86c8b96e36c1",
+    "counterPartyName": "Barclaycard",
+    "counterPartySubEntityUid": "388153ac-db0f-44d5-8bc5-4cc015398526",
+    "reference": "4929105506083002",
+    "country": "GB",
+    "spendingCategory": "BILLS_AND_SERVICES",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "23f86cc0-94c8-49de-b7c9-a4c60cd1dc01",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 1299
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 1299
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-05T04:55:25.341Z",
+    "transactionTime": "2026-05-04T10:00:23.000Z",
+    "settlementTime": "2026-05-05T04:55:25.233Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CONTACTLESS",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "3a46a12e-ed57-4d51-b771-b844980c58fc",
+    "counterPartyName": "Card Factory",
+    "counterPartySubEntityUid": "1c8c8580-ef40-42ee-8396-91cb065e07b3",
+    "reference": "CARD FACTORY",
+    "country": "GB",
+    "spendingCategory": "SHOPPING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "23f33ad3-e56e-4211-8035-2843344e3959",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 5000
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 5000
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-06T01:10:50.592Z",
+    "transactionTime": "2026-05-04T09:55:47.000Z",
+    "settlementTime": "2026-05-06T01:10:50.441Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CONTACTLESS",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "11ed2914-adf8-4585-9b67-5bbc8b69122d",
+    "counterPartyName": "Primark",
+    "counterPartySubEntityUid": "93d29a3c-8611-4865-8f0c-aed1e536c5bb",
+    "reference": "PRIMARK 471           ",
+    "country": "GB",
+    "spendingCategory": "SHOPPING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "23ef35ce-4312-4689-b1ad-1b735a9c493f",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 5000
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 5000
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-05T04:53:53.729Z",
+    "transactionTime": "2026-05-04T09:51:07.000Z",
+    "settlementTime": "2026-05-05T04:53:53.611Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CONTACTLESS",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "a7b3160e-dca4-415a-9efe-732d2542df27",
+    "counterPartyName": "Boots",
+    "counterPartySubEntityUid": "da6d77ae-609c-4ac4-a10a-8883168ae8fe",
+    "reference": "BOOTS 1557",
+    "country": "GB",
+    "spendingCategory": "PERSONAL_CARE",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "23c4d9fd-2cef-405c-8afb-820fc6a82854",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 375
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 375
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-04T16:03:56.742Z",
+    "transactionTime": "2026-05-04T09:08:40.000Z",
+    "settlementTime": "2026-05-04T16:03:56.577Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CONTACTLESS",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "6017c45d-02ba-4d5a-8ca7-6c33862ff2fe",
+    "counterPartyName": "Bridge Hug 'a' Mug Abi",
+    "counterPartySubEntityUid": "6017ba3b-6e7a-4431-a170-4cad8fab18e9",
+    "reference": "Bridge Hug 'A' Mug Ab",
+    "country": "GB",
+    "spendingCategory": "EATING_OUT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "23bf39b4-6e8c-400a-9861-474bc3735cbf",
+    "categoryUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 149
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 149
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-05T04:21:24.726Z",
+    "transactionTime": "2026-05-04T09:03:12.000Z",
+    "settlementTime": "2026-05-05T04:21:24.572Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CONTACTLESS",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "3a46a12e-ed57-4d51-b771-b844980c58fc",
+    "counterPartyName": "Card Factory",
+    "counterPartySubEntityUid": "a395f622-54f5-4af4-81c7-f4595db0b9b3",
+    "reference": "CARD FACTORY",
+    "country": "GB",
+    "spendingCategory": "SHOPPING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  }
+]

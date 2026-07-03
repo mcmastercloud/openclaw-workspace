@@ -1,0 +1,152 @@
+[
+  {
+    "firefly_transaction_id": "9807",
+    "amount": "15.930000000000",
+    "date": "2026-05-19T12:31:18+01:00",
+    "external_id": "75e8d06d-71ac-4bf0-885d-7bc8c3a0d86c",
+    "description": "OPENROUTER, INC",
+    "type": "withdrawal",
+    "source_id": "5",
+    "destination_id": "542"
+  },
+  {
+    "firefly_transaction_id": "9805",
+    "amount": "12.990000000000",
+    "date": "2026-05-19T12:04:37+01:00",
+    "external_id": "76402492-e51a-42b0-a2c3-3fde2161fb38",
+    "description": "Netflix.com",
+    "type": "withdrawal",
+    "source_id": "5",
+    "destination_id": "464"
+  },
+  {
+    "firefly_transaction_id": "9806",
+    "amount": "41.880000000000",
+    "date": "2026-05-19T00:49:37+01:00",
+    "external_id": "62bca611-512d-416e-986a-1fac1ca573d5",
+    "description": "Q35196443",
+    "type": "withdrawal",
+    "source_id": "5",
+    "destination_id": "394"
+  },
+  {
+    "firefly_transaction_id": "9808",
+    "amount": "15.920000000000",
+    "date": "2026-05-17T02:47:49+01:00",
+    "external_id": "68f29ee7-af6c-40a0-9884-36e0128b8749",
+    "description": "OPENROUTER, INC",
+    "type": "withdrawal",
+    "source_id": "5",
+    "destination_id": "542"
+  },
+  {
+    "firefly_transaction_id": "9809",
+    "amount": "5.990000000000",
+    "date": "2026-05-16T13:10:54+01:00",
+    "external_id": "6508faeb-5a3b-4891-b7ab-57cab0bf7910",
+    "description": "ITVX PREMIUM",
+    "type": "withdrawal",
+    "source_id": "5",
+    "destination_id": "864"
+  },
+  {
+    "firefly_transaction_id": "9810",
+    "amount": "4.690000000000",
+    "date": "2026-05-14T06:03:15+01:00",
+    "external_id": "53d46425-7d2e-44a9-a9df-665a46449fb0",
+    "description": "GITHUB, INC.",
+    "type": "deposit",
+    "source_id": "849",
+    "destination_id": "5"
+  },
+  {
+    "firefly_transaction_id": "9812",
+    "amount": "17.780000000000",
+    "date": "2026-05-13T12:43:19+01:00",
+    "external_id": "535b9870-3144-495d-9872-dceb939520ef",
+    "description": "WWW.PERPLEXITY.AI",
+    "type": "withdrawal",
+    "source_id": "5",
+    "destination_id": "544"
+  },
+  {
+    "firefly_transaction_id": "9813",
+    "amount": "6.490000000000",
+    "date": "2026-05-13T02:52:43+01:00",
+    "external_id": "532e7255-94d5-4a83-8335-8b0c65c7f8dd",
+    "description": "Google Play Apps",
+    "type": "withdrawal",
+    "source_id": "5",
+    "destination_id": "258"
+  },
+  {
+    "firefly_transaction_id": "9811",
+    "amount": "9.990000000000",
+    "date": "2026-05-13T02:46:25+01:00",
+    "external_id": "53ab5ab3-f476-4123-aec8-9d81e076919f",
+    "description": "Disney Plus",
+    "type": "withdrawal",
+    "source_id": "5",
+    "destination_id": "537"
+  },
+  {
+    "firefly_transaction_id": "9814",
+    "amount": "15.630000000000",
+    "date": "2026-05-12T05:59:28+01:00",
+    "external_id": "4df3e515-c7fe-4258-ad88-38086d0df2b0",
+    "description": "OPENROUTER, INC",
+    "type": "withdrawal",
+    "source_id": "5",
+    "destination_id": "542"
+  },
+  {
+    "firefly_transaction_id": "9815",
+    "amount": "24.620000000000",
+    "date": "2026-05-11T05:52:52+01:00",
+    "external_id": "48733905-5cc7-4551-a53c-58c0ed4aa8c3",
+    "description": "Paypro 448003688867",
+    "type": "withdrawal",
+    "source_id": "5",
+    "destination_id": "519"
+  },
+  {
+    "firefly_transaction_id": "9763",
+    "amount": "20.000000000000",
+    "date": "2026-05-10T09:07:49+01:00",
+    "external_id": "454746dd-a716-4786-815b-2f24999d365e",
+    "description": "HBR*SUBSCRIPTION",
+    "type": "withdrawal",
+    "source_id": "5",
+    "destination_id": "459"
+  },
+  {
+    "firefly_transaction_id": "9764",
+    "amount": "15.690000000000",
+    "date": "2026-05-05T22:06:59+01:00",
+    "external_id": "2c32f016-6cc5-4bb9-8ac7-9b395b41d660",
+    "description": "OPENROUTER, INC",
+    "type": "withdrawal",
+    "source_id": "5",
+    "destination_id": "542"
+  },
+  {
+    "firefly_transaction_id": "9765",
+    "amount": "18.990000000000",
+    "date": "2026-05-05T22:04:17+01:00",
+    "external_id": "2c3058da-2c95-4c2d-ad52-942bfbb29d5d",
+    "description": "Google One",
+    "type": "withdrawal",
+    "source_id": "5",
+    "destination_id": "258"
+  },
+  {
+    "firefly_transaction_id": "9766",
+    "amount": "11.990000000000",
+    "date": "2026-05-04T03:04:05+01:00",
+    "external_id": "221cd399-7eef-4c46-aead-7881d820eafd",
+    "description": "TRESORIT.COM",
+    "type": "withdrawal",
+    "source_id": "5",
+    "destination_id": "536"
+  }
+]

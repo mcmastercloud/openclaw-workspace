@@ -1,0 +1,32 @@
+[
+  {
+    "feedItemUid": "7a333fd8-64f1-42ee-b87a-abbcb7cbbb74",
+    "categoryUid": "e2b620f6-2904-4e2f-bb2b-b8e85c8c9fa9",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 1099
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 1099
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-20T01:31:28.678Z",
+    "transactionTime": "2026-05-19T17:55:34.000Z",
+    "settlementTime": "2026-05-20T01:31:28.575Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CARD_SUBSCRIPTION",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "fa68d691-995d-4333-a843-049755ee7440",
+    "counterPartyName": "Google Play",
+    "counterPartySubEntityUid": "a79dd079-75ac-4870-a248-4988e8c9646f",
+    "reference": "Google Play Apps",
+    "country": "GB",
+    "spendingCategory": "ENTERTAINMENT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  }
+]

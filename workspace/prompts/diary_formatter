@@ -1,0 +1,39 @@
+Merge the new health and activity data into the existing diary entry provided. 
+
+* STRUCTURE:
+# Diary Entry: {{date}}
+
+## Health
+- Sleep Summary: {{sleep_duration}} ({{deep_sleep}} deep)
+- Summary: {{sleep_summary}}
+
+## Exercise
+- {{workout_name}}: {{details}}
+
+## Journal
+
+### Family
+{{family_content}}
+
+### Work
+{{work_content}}
+
+### Personal
+{{personal_content}}
+
+### Technology
+{{tech_content}}
+
+* GUIDELINES:
+- If `existing_content` is provided, preserve its text and merge new information into the corresponding sections. 
+- Do not repeat or duplicate bullet points.
+- If a section is empty in both existing and new data, leave it as is or with a placeholder.
+- Use solid British English.
+- Tone: Reflective, sharp, and professional.
+
+* OUTPUT FORMAT:
+Output MUST be a valid JSON object with a single key: "response". 
+The value should be the full Markdown content of the diary.
+
+* INPUT DATA:
+{{input}}

@@ -1,0 +1,292 @@
+[
+  {
+    "firefly_transaction_id": "2719",
+    "amount": "337.050000000000",
+    "date": "2024-06-25T02:57:57+01:00",
+    "external_id": "3a76e76a-d654-4305-9dfa-eddfd19a5694",
+    "description": "Amazon",
+    "type": "withdrawal",
+    "source_id": "4",
+    "destination_id": "285"
+  },
+  {
+    "firefly_transaction_id": "3859",
+    "amount": "100.000000000000",
+    "date": "2024-04-05T02:28:16+01:00",
+    "external_id": "74980b47-c4c7-4880-94ee-1e2c3ac6e7af",
+    "description": "Self",
+    "type": "transfer",
+    "source_id": "4",
+    "destination_id": "1"
+  },
+  {
+    "firefly_transaction_id": "3845",
+    "amount": "177.050000000000",
+    "date": "2024-03-27T23:41:39+00:00",
+    "external_id": "472d5518-46e0-4c30-b4b2-0f7100cc45f4",
+    "description": "Self",
+    "type": "transfer",
+    "source_id": "1",
+    "destination_id": "4"
+  },
+  {
+    "firefly_transaction_id": "3842",
+    "amount": "260.000000000000",
+    "date": "2024-03-25T12:52:42+00:00",
+    "external_id": "39644b60-5424-4073-9f9a-3b650054952e",
+    "description": "Self",
+    "type": "transfer",
+    "source_id": "1",
+    "destination_id": "4"
+  },
+  {
+    "firefly_transaction_id": "3844",
+    "amount": "47.800000000000",
+    "date": "2024-03-23T15:39:17+00:00",
+    "external_id": "2ecbe7f2-a99c-47fa-916c-c4cdea355f9b",
+    "description": "Self",
+    "type": "transfer",
+    "source_id": "4",
+    "destination_id": "1"
+  },
+  {
+    "firefly_transaction_id": "2584",
+    "amount": "452.200000000000",
+    "date": "2024-03-05T05:36:38+00:00",
+    "external_id": "c41b1baf-00ed-49a0-a328-4670f7fd28c9",
+    "description": "Loake",
+    "type": "withdrawal",
+    "source_id": "4",
+    "destination_id": "504"
+  },
+  {
+    "firefly_transaction_id": "3786",
+    "amount": "500.000000000000",
+    "date": "2024-03-01T01:28:47+00:00",
+    "external_id": "afb88c8e-a0ea-4aa7-a806-6edc699c3093",
+    "description": "Self",
+    "type": "transfer",
+    "source_id": "1",
+    "destination_id": "4"
+  },
+  {
+    "firefly_transaction_id": "3768",
+    "amount": "375.010000000000",
+    "date": "2024-02-23T18:51:20+00:00",
+    "external_id": "8c6b0776-8960-4fbe-9eb3-01a95440a71b",
+    "description": "Self",
+    "type": "transfer",
+    "source_id": "4",
+    "destination_id": "1"
+  },
+  {
+    "firefly_transaction_id": "2544",
+    "amount": "1.000000000000",
+    "date": "2024-02-06T04:31:22+00:00",
+    "external_id": "1fb9373d-9838-4f87-9eb2-534773fdf693",
+    "description": "British Airways",
+    "type": "withdrawal",
+    "source_id": "4",
+    "destination_id": "102"
+  },
+  {
+    "firefly_transaction_id": "2543",
+    "amount": "2.000000000000",
+    "date": "2024-02-06T04:31:22+00:00",
+    "external_id": "296fc30d-b8f9-4b27-bf09-6f7b45a72fc7",
+    "description": "British Airways",
+    "type": "withdrawal",
+    "source_id": "4",
+    "destination_id": "102"
+  },
+  {
+    "firefly_transaction_id": "2542",
+    "amount": "2.000000000000",
+    "date": "2024-02-06T04:31:22+00:00",
+    "external_id": "1f9e1477-bd58-475b-9a17-e6b06839af6c",
+    "description": "British Airways",
+    "type": "withdrawal",
+    "source_id": "4",
+    "destination_id": "102"
+  },
+  {
+    "firefly_transaction_id": "2546",
+    "amount": "119.990000000000",
+    "date": "2024-02-05T16:28:41+00:00",
+    "external_id": "20672c56-8334-4639-9e61-7af77f228037",
+    "description": "Currys",
+    "type": "withdrawal",
+    "source_id": "4",
+    "destination_id": "127"
+  },
+  {
+    "firefly_transaction_id": "3699",
+    "amount": "500.000000000000",
+    "date": "2024-02-01T01:21:46+00:00",
+    "external_id": "0c91d8f9-c317-44e9-848d-d6bbc7fb38b2",
+    "description": "Self",
+    "type": "transfer",
+    "source_id": "1",
+    "destination_id": "4"
+  },
+  {
+    "firefly_transaction_id": "3618",
+    "amount": "500.000000000000",
+    "date": "2024-01-02T00:37:58+00:00",
+    "external_id": "63a5b7c1-2eed-404e-9a51-e29536b6bf84",
+    "description": "Self",
+    "type": "transfer",
+    "source_id": "4",
+    "destination_id": "1"
+  },
+  {
+    "firefly_transaction_id": "3610",
+    "amount": "500.000000000000",
+    "date": "2024-01-01T01:30:31+00:00",
+    "external_id": "5e3aaaa0-0c2d-4192-9696-565b2fb19727",
+    "description": "Self",
+    "type": "transfer",
+    "source_id": "1",
+    "destination_id": "4"
+  },
+  {
+    "firefly_transaction_id": "2442",
+    "amount": "320.220000000000",
+    "date": "2023-12-04T02:15:57+00:00",
+    "external_id": "ba77708d-0ffc-4a93-8ab3-63b6e9a5e118",
+    "description": "Paige Las Vegas",
+    "type": "withdrawal",
+    "source_id": "4",
+    "destination_id": "476"
+  },
+  {
+    "firefly_transaction_id": "2443",
+    "amount": "21.480000000000",
+    "date": "2023-12-03T15:01:22+00:00",
+    "external_id": "ba7cb2a2-1dd8-4d25-ada0-2d401315b10c",
+    "description": "Saks O5 Lasvegas N 820",
+    "type": "withdrawal",
+    "source_id": "4",
+    "destination_id": "477"
+  },
+  {
+    "firefly_transaction_id": "2444",
+    "amount": "59.310000000000",
+    "date": "2023-12-03T05:21:27+00:00",
+    "external_id": "ba914f33-a0da-44b1-962a-3d3723fb68bc",
+    "description": "Hugo Boss Retail Inc",
+    "type": "withdrawal",
+    "source_id": "4",
+    "destination_id": "478"
+  },
+  {
+    "firefly_transaction_id": "2441",
+    "amount": "92.920000000000",
+    "date": "2023-12-03T05:21:27+00:00",
+    "external_id": "ba2ac37a-2ffb-4601-a5a2-a284fb93f87f",
+    "description": "Calvin Klein",
+    "type": "withdrawal",
+    "source_id": "4",
+    "destination_id": "475"
+  },
+  {
+    "firefly_transaction_id": "3528",
+    "amount": "550.030000000000",
+    "date": "2023-12-02T23:43:57+00:00",
+    "external_id": "baaf83e2-bac5-49cd-9120-423e273fc7bc",
+    "description": "Self",
+    "type": "transfer",
+    "source_id": "4",
+    "destination_id": "1"
+  },
+  {
+    "firefly_transaction_id": "2435",
+    "amount": "0.790000000000",
+    "date": "2023-12-02T04:53:52+00:00",
+    "external_id": "b4d1cfb7-4e37-425f-b5bd-06fba73d5c85",
+    "description": "Ralph Lauren Corporate New York",
+    "type": "withdrawal",
+    "source_id": "4",
+    "destination_id": "411"
+  },
+  {
+    "firefly_transaction_id": "2434",
+    "amount": "207.770000000000",
+    "date": "2023-12-02T04:53:51+00:00",
+    "external_id": "b4d01480-5490-46d2-abd5-4b5ba789d701",
+    "description": "Polo Factory Store Las Las Vegas",
+    "type": "withdrawal",
+    "source_id": "4",
+    "destination_id": "474"
+  },
+  {
+    "firefly_transaction_id": "3516",
+    "amount": "500.000000000000",
+    "date": "2023-12-01T02:01:21+00:00",
+    "external_id": "aff95b75-49e4-430b-8d98-8478f898aae5",
+    "description": "Self",
+    "type": "transfer",
+    "source_id": "1",
+    "destination_id": "4"
+  },
+  {
+    "firefly_transaction_id": "3513",
+    "amount": "500.000000000000",
+    "date": "2023-12-01T01:33:00+00:00",
+    "external_id": "afdd1798-2532-46c8-85fb-9b87f4f7fc1b",
+    "description": "Self",
+    "type": "transfer",
+    "source_id": "1",
+    "destination_id": "4"
+  },
+  {
+    "firefly_transaction_id": "5812",
+    "amount": "45.590000000000",
+    "date": "2023-11-12T12:59:49+00:00",
+    "external_id": "4150cae8-57f4-4aac-a098-d87f13110117",
+    "description": "CEF",
+    "type": "withdrawal",
+    "source_id": "4",
+    "destination_id": "460"
+  },
+  {
+    "firefly_transaction_id": "5815",
+    "amount": "22.570000000000",
+    "date": "2023-11-12T12:13:36+00:00",
+    "external_id": "41b2e6cb-8f29-42f4-b14e-92b9e871bf13",
+    "description": "Screwfix",
+    "type": "withdrawal",
+    "source_id": "4",
+    "destination_id": "203"
+  },
+  {
+    "firefly_transaction_id": "5814",
+    "amount": "146.350000000000",
+    "date": "2023-11-12T05:25:11+00:00",
+    "external_id": "416677c8-2882-4fb1-8cd0-c70732d360c9",
+    "description": "Fane Valley Lim County Antrim Gbr",
+    "type": "withdrawal",
+    "source_id": "4",
+    "destination_id": "265"
+  },
+  {
+    "firefly_transaction_id": "5779",
+    "amount": "32.970000000000",
+    "date": "2023-11-04T15:04:34+00:00",
+    "external_id": "15ef7ff8-d3ee-43de-8c65-710439483607",
+    "description": "TK Maxx",
+    "type": "withdrawal",
+    "source_id": "4",
+    "destination_id": "454"
+  },
+  {
+    "firefly_transaction_id": "5761",
+    "amount": "500.000000000000",
+    "date": "2023-11-01T01:38:11+00:00",
+    "external_id": "0722e308-52c5-4097-98ca-a5aed7df73bf",
+    "description": "Incidentals",
+    "type": "transfer",
+    "source_id": "1",
+    "destination_id": "4"
+  }
+]

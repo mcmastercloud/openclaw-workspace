@@ -1,0 +1,32 @@
+[
+  {
+    "feedItemUid": "c6bb4460-eb24-4683-a5d4-a2d806923b54",
+    "categoryUid": "f28bcad2-245c-4c17-beee-ba794c569cdc",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 16890
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 16890
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-06-02T08:27:08.374Z",
+    "transactionTime": "2026-06-02T08:27:07.000Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "MANUAL_KEY_ENTRY",
+    "status": "PENDING",
+    "transactingApplicationUserUid": "74b92663-79b4-4b8b-afd2-5f145297ed4f",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "7fd8863f-bcf7-461e-962c-8fb4699deefe",
+    "counterPartyName": "Letters Plumbing And H",
+    "counterPartySubEntityUid": "7fd8bd80-cb35-4ce4-85b5-69c7046ffc36",
+    "reference": "LETTERS PLUMBING AND H",
+    "country": "GB",
+    "spendingCategory": "BILLS_AND_SERVICES",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null,
+    "IGNORE_REASON": "Pending transaction included for Check 3 balance reconciliation"
+  }
+]

@@ -1,0 +1,214 @@
+[
+  {
+    "feedItemUid": "e3da7402-d2ff-4267-a0c9-90d580bf727b",
+    "categoryUid": "f28bcad2-245c-4c17-beee-ba794c569cdc",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 500
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 500
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-06-08T01:39:34.304Z",
+    "transactionTime": "2026-06-07T12:42:14.000Z",
+    "settlementTime": "2026-06-08T01:39:34.220Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CONTACTLESS",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "74b92663-79b4-4b8b-afd2-5f145297ed4f",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "4efcb212-6649-4fa2-81b9-4a72635d8a1c",
+    "counterPartyName": "Jollyes The Pet Superstore",
+    "counterPartySubEntityUid": "a18a0589-7088-46a9-9405-e70d256615f8",
+    "reference": "Jollyes - The Pet Supe",
+    "country": "GB",
+    "spendingCategory": "GENERAL",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "e3d52a82-203e-43b1-821a-10a96d9eabf6",
+    "categoryUid": "f28bcad2-245c-4c17-beee-ba794c569cdc",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 3095
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 3095
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-06-08T01:39:34.303Z",
+    "transactionTime": "2026-06-07T12:37:17.000Z",
+    "settlementTime": "2026-06-08T01:39:34.199Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CONTACTLESS",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "74b92663-79b4-4b8b-afd2-5f145297ed4f",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "4efcb212-6649-4fa2-81b9-4a72635d8a1c",
+    "counterPartyName": "Jollyes The Pet Superstore",
+    "counterPartySubEntityUid": "a18a0589-7088-46a9-9405-e70d256615f8",
+    "reference": "Jollyes - The Pet Supe",
+    "country": "GB",
+    "spendingCategory": "GENERAL",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "e327e418-ee33-49fc-a86b-27f075ed3fe3",
+    "categoryUid": "f28bcad2-245c-4c17-beee-ba794c569cdc",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 330
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 330
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-06-08T04:42:23.424Z",
+    "transactionTime": "2026-06-07T09:43:05.000Z",
+    "settlementTime": "2026-06-08T04:42:23.311Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CONTACTLESS",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "74b92663-79b4-4b8b-afd2-5f145297ed4f",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "89d332e3-d4f0-41c4-af73-fbb9bf17dd1e",
+    "counterPartyName": "SPAR",
+    "counterPartySubEntityUid": "5e245875-2592-45e2-b7d6-51323cc7727c",
+    "reference": "SPAR KELLS",
+    "country": "GB",
+    "spendingCategory": "GROCERIES",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "dfe31055-b7b0-42fd-8728-9b719aa7d003",
+    "categoryUid": "f28bcad2-245c-4c17-beee-ba794c569cdc",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 1549
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 1549
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-06-07T10:23:23.538Z",
+    "transactionTime": "2026-06-06T19:47:58.000Z",
+    "settlementTime": "2026-06-07T10:23:23.363Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CONTACTLESS",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "74b92663-79b4-4b8b-afd2-5f145297ed4f",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "19a3144e-7408-4b28-b105-0e6a80cbdc70",
+    "counterPartyName": "SuperValu",
+    "counterPartySubEntityUid": "e5ef4804-601d-402b-b1da-e20b5bde900e",
+    "reference": "SUPERVALU KELLS",
+    "country": "GB",
+    "spendingCategory": "GROCERIES",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "d9d75a3a-d4cb-4186-aee7-57f02c20e407",
+    "categoryUid": "f28bcad2-245c-4c17-beee-ba794c569cdc",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 2210
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 2210
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-06-06T03:40:01.670Z",
+    "transactionTime": "2026-06-05T17:59:53.000Z",
+    "settlementTime": "2026-06-06T03:40:01.473Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CONTACTLESS",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "74b92663-79b4-4b8b-afd2-5f145297ed4f",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "56f14643-3a5e-42b0-89e6-573471bd07e1",
+    "counterPartyName": "Cape Cod",
+    "counterPartySubEntityUid": "56f1ec88-073d-4d1c-8da0-51973417ac51",
+    "reference": "CAPE COD",
+    "country": "GB",
+    "spendingCategory": "EATING_OUT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "d9b7f78f-ce76-4445-aadd-8e71343aa1df",
+    "categoryUid": "f28bcad2-245c-4c17-beee-ba794c569cdc",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 1293
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 1293
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-06-06T11:05:27.229Z",
+    "transactionTime": "2026-06-05T17:27:39.000Z",
+    "settlementTime": "2026-06-06T11:05:27.067Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CONTACTLESS",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "74b92663-79b4-4b8b-afd2-5f145297ed4f",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "19a3144e-7408-4b28-b105-0e6a80cbdc70",
+    "counterPartyName": "SuperValu",
+    "counterPartySubEntityUid": "80cfb49c-f86d-4db9-a063-a7250f3551de",
+    "reference": "SUPERVALU",
+    "country": "GB",
+    "spendingCategory": "GROCERIES",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "d80bbfbc-0ae6-4ddf-b165-b2176b477e16",
+    "categoryUid": "f28bcad2-245c-4c17-beee-ba794c569cdc",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 3000
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 3000
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-06-05T10:19:35.122Z",
+    "transactionTime": "2026-06-05T10:19:35.030Z",
+    "settlementTime": "2026-06-05T10:19:35.030Z",
+    "source": "FASTER_PAYMENTS_OUT",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "74b92663-79b4-4b8b-afd2-5f145297ed4f",
+    "counterPartyType": "PAYEE",
+    "counterPartyUid": "a12f6f6e-f8ae-4c57-b37f-df610c3673cb",
+    "counterPartyName": "Jamie McGall",
+    "counterPartySubEntityUid": "a12f9af6-d23d-4de5-9c92-080fc99f958e",
+    "counterPartySubEntityName": "Monzo account",
+    "counterPartySubEntityIdentifier": "040005",
+    "counterPartySubEntitySubIdentifier": "75765969",
+    "reference": "steeple road windo",
+    "country": "GB",
+    "spendingCategory": "PAYMENTS",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  }
+]

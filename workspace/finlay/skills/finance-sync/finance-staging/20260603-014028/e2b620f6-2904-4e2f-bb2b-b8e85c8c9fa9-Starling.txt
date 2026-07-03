@@ -1,0 +1,896 @@
+[
+  {
+    "feedItemUid": "bff22030-f13e-4b3f-8d63-0aadd7b51425",
+    "categoryUid": "e2b620f6-2904-4e2f-bb2b-b8e85c8c9fa9",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 895
+    },
+    "sourceAmount": {
+      "currency": "USD",
+      "minorUnits": 1200
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-06-01T12:04:36.635Z",
+    "transactionTime": "2026-06-01T03:30:22.000Z",
+    "settlementTime": "2026-06-01T12:04:36.476Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ONLINE",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "73bb8d93-9a44-45d9-8a93-09bb64689f3d",
+    "counterPartyName": "Kagi",
+    "counterPartySubEntityUid": "73bb8fba-2e4e-4e86-b917-ef1f407facc3",
+    "reference": "RCH-KAGI.COM",
+    "country": "US",
+    "spendingCategory": "SHOPPING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "bf33bf99-9ca4-4ca8-9369-29053e9bee76",
+    "categoryUid": "e2b620f6-2904-4e2f-bb2b-b8e85c8c9fa9",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 31244
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 31244
+    },
+    "direction": "IN",
+    "updatedAt": "2026-06-01T00:19:23.192Z",
+    "transactionTime": "2026-06-01T00:19:23.128Z",
+    "settlementTime": "2026-06-01T00:19:23.128Z",
+    "source": "INTERNAL_TRANSFER",
+    "status": "SETTLED",
+    "counterPartyType": "CATEGORY",
+    "counterPartyUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "counterPartyName": "Current (GBP)",
+    "country": "GB",
+    "spendingCategory": "SAVING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null,
+    "HOLDING_IGNORE": true,
+    "MATCHING_UID": "bf33b0e8-6d61-4f8a-b9a9-47613b57b468"
+  },
+  {
+    "feedItemUid": "be08a88f-a30e-40b6-a28e-64f98c1d2a84",
+    "categoryUid": "e2b620f6-2904-4e2f-bb2b-b8e85c8c9fa9",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 1581
+    },
+    "sourceAmount": {
+      "currency": "USD",
+      "minorUnits": 2119
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-06-01T01:30:54.763Z",
+    "transactionTime": "2026-05-31T19:20:40.000Z",
+    "settlementTime": "2026-06-01T01:30:54.617Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ONLINE",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "73f29ab8-6117-420c-9838-0e7c2be8b1a3",
+    "counterPartyName": "Openrouter Inc",
+    "counterPartySubEntityUid": "73f22694-e527-4b13-97ce-89bb689244d0",
+    "reference": "OPENROUTER, INC",
+    "country": "US",
+    "spendingCategory": "SHOPPING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "ab4af87e-f408-416d-8a43-d966ad68459c",
+    "categoryUid": "e2b620f6-2904-4e2f-bb2b-b8e85c8c9fa9",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 373
+    },
+    "sourceAmount": {
+      "currency": "USD",
+      "minorUnits": 500
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-28T16:47:45.305Z",
+    "transactionTime": "2026-05-28T11:22:33.000Z",
+    "settlementTime": "2026-05-28T16:47:45.227Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ONLINE",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "71d589c5-fd3f-47f2-9812-4e4d9fd93ddc",
+    "counterPartyName": "Medium Monthly",
+    "counterPartySubEntityUid": "71d5b232-8fbe-4892-99d7-85c6e4ad8218",
+    "reference": "MEDIUM MONTHLY",
+    "country": "US",
+    "spendingCategory": "SHOPPING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "9875d56a-765d-41c5-8b90-f9039b89e501",
+    "categoryUid": "e2b620f6-2904-4e2f-bb2b-b8e85c8c9fa9",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 1582
+    },
+    "sourceAmount": {
+      "currency": "USD",
+      "minorUnits": 2119
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-25T11:35:12.259Z",
+    "transactionTime": "2026-05-25T03:01:08.000Z",
+    "settlementTime": "2026-05-25T11:35:12.025Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ONLINE",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "73f29ab8-6117-420c-9838-0e7c2be8b1a3",
+    "counterPartyName": "Openrouter Inc",
+    "counterPartySubEntityUid": "73f22694-e527-4b13-97ce-89bb689244d0",
+    "reference": "OPENROUTER, INC",
+    "country": "US",
+    "spendingCategory": "SHOPPING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "93c8694f-4481-4ab9-8d40-1769f25eeb01",
+    "categoryUid": "e2b620f6-2904-4e2f-bb2b-b8e85c8c9fa9",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 999
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 999
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-24T14:56:34.192Z",
+    "transactionTime": "2026-05-24T07:04:43.000Z",
+    "settlementTime": "2026-05-24T14:56:34.026Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CARD_SUBSCRIPTION",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "6ea702df-2719-4186-a835-8675bb874f7d",
+    "counterPartyName": "NOW TV",
+    "counterPartySubEntityUid": "a7c672cb-554b-4541-9001-0a8ec4ab0f85",
+    "reference": "NOW X1256 UK HBO M",
+    "country": "GB",
+    "spendingCategory": "ENTERTAINMENT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "869a9dd2-b63f-4e12-83b0-788e75c82440",
+    "categoryUid": "e2b620f6-2904-4e2f-bb2b-b8e85c8c9fa9",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 799
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 799
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-24T05:24:57.381Z",
+    "transactionTime": "2026-05-21T22:50:53.000Z",
+    "settlementTime": "2026-05-24T05:24:57.193Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CARD_SUBSCRIPTION",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "fa68d691-995d-4333-a843-049755ee7440",
+    "counterPartyName": "Google Play",
+    "counterPartySubEntityUid": "a79dd079-75ac-4870-a248-4988e8c9646f",
+    "reference": "Google Play Apps",
+    "country": "GB",
+    "spendingCategory": "ENTERTAINMENT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "7a333fd8-64f1-42ee-b87a-abbcb7cbbb74",
+    "categoryUid": "e2b620f6-2904-4e2f-bb2b-b8e85c8c9fa9",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 1099
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 1099
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-20T01:31:28.678Z",
+    "transactionTime": "2026-05-19T17:55:34.000Z",
+    "settlementTime": "2026-05-20T01:31:28.575Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CARD_SUBSCRIPTION",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "fa68d691-995d-4333-a843-049755ee7440",
+    "counterPartyName": "Google Play",
+    "counterPartySubEntityUid": "a79dd079-75ac-4870-a248-4988e8c9646f",
+    "reference": "Google Play Apps",
+    "country": "GB",
+    "spendingCategory": "ENTERTAINMENT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "76402492-e51a-42b0-a2c3-3fde2161fb38",
+    "categoryUid": "e2b620f6-2904-4e2f-bb2b-b8e85c8c9fa9",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 1299
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 1299
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-19T11:04:37.732Z",
+    "transactionTime": "2026-05-19T01:04:17.000Z",
+    "settlementTime": "2026-05-19T11:04:37.639Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CARD_SUBSCRIPTION",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "2a53669e-7e4c-4153-94a3-2eeaa6c21d92",
+    "counterPartyName": "Netflix",
+    "counterPartySubEntityUid": "62e26aa8-2b8f-4e03-97cf-fc71845fa94a",
+    "reference": "Netflix.com",
+    "country": "GB",
+    "spendingCategory": "ENTERTAINMENT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "62bca611-512d-416e-986a-1fac1ca573d5",
+    "categoryUid": "e2b620f6-2904-4e2f-bb2b-b8e85c8c9fa9",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 4188
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 4188
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-18T23:49:37.297Z",
+    "transactionTime": "2026-05-18T23:49:37.200Z",
+    "settlementTime": "2026-05-18T23:49:37.240Z",
+    "source": "DIRECT_DEBIT",
+    "status": "SETTLED",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "bed7d2d5-4859-4710-8d75-369600e87c30",
+    "counterPartyName": "EE",
+    "counterPartySubEntityUid": "b1d40e32-9e52-493a-9efb-3b3360c79474",
+    "reference": "Q35196443",
+    "country": "GB",
+    "spendingCategory": "ENTERTAINMENT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "75e8d06d-71ac-4bf0-885d-7bc8c3a0d86c",
+    "categoryUid": "e2b620f6-2904-4e2f-bb2b-b8e85c8c9fa9",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 1593
+    },
+    "sourceAmount": {
+      "currency": "USD",
+      "minorUnits": 2119
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-19T11:31:18.706Z",
+    "transactionTime": "2026-05-18T23:36:31.000Z",
+    "settlementTime": "2026-05-19T11:31:18.561Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ONLINE",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "73f29ab8-6117-420c-9838-0e7c2be8b1a3",
+    "counterPartyName": "Openrouter Inc",
+    "counterPartySubEntityUid": "73f22694-e527-4b13-97ce-89bb689244d0",
+    "reference": "OPENROUTER, INC",
+    "country": "US",
+    "spendingCategory": "SHOPPING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "68f29ee7-af6c-40a0-9884-36e0128b8749",
+    "categoryUid": "e2b620f6-2904-4e2f-bb2b-b8e85c8c9fa9",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 1592
+    },
+    "sourceAmount": {
+      "currency": "USD",
+      "minorUnits": 2119
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-17T01:47:49.599Z",
+    "transactionTime": "2026-05-16T16:18:07.000Z",
+    "settlementTime": "2026-05-17T01:47:49.509Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ONLINE",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "73f29ab8-6117-420c-9838-0e7c2be8b1a3",
+    "counterPartyName": "Openrouter Inc",
+    "counterPartySubEntityUid": "73f22694-e527-4b13-97ce-89bb689244d0",
+    "reference": "OPENROUTER, INC",
+    "country": "US",
+    "spendingCategory": "SHOPPING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "6508faeb-5a3b-4891-b7ab-57cab0bf7910",
+    "categoryUid": "e2b620f6-2904-4e2f-bb2b-b8e85c8c9fa9",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 599
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 599
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-16T12:10:54.674Z",
+    "transactionTime": "2026-05-15T23:36:32.000Z",
+    "settlementTime": "2026-05-16T12:10:54.598Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CARD_SUBSCRIPTION",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "6ca685ca-f6f3-4728-9f8d-767554a590c5",
+    "counterPartyName": "ITVX",
+    "counterPartySubEntityUid": "6ca68527-bb56-44b7-a1e0-26182894d111",
+    "reference": "ITVX PREMIUM",
+    "country": "GB",
+    "spendingCategory": "SHOPPING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "53d46425-7d2e-44a9-a9df-665a46449fb0",
+    "categoryUid": "e2b620f6-2904-4e2f-bb2b-b8e85c8c9fa9",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 469
+    },
+    "sourceAmount": {
+      "currency": "USD",
+      "minorUnits": 633
+    },
+    "direction": "IN",
+    "updatedAt": "2026-05-14T05:03:15.948Z",
+    "transactionTime": "2026-05-14T05:03:14.761Z",
+    "settlementTime": "2026-05-14T05:03:15.826Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ONLINE",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "4389ce13-f6a6-49a1-a297-6ac7fe8f7226",
+    "counterPartyName": "GitHub",
+    "counterPartySubEntityUid": "6b9a615a-70c9-4a50-ad28-0ae8969b13ca",
+    "reference": "GITHUB, INC.",
+    "country": "US",
+    "spendingCategory": "SUBSCRIPTIONS",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "53ab5ab3-f476-4123-aec8-9d81e076919f",
+    "categoryUid": "e2b620f6-2904-4e2f-bb2b-b8e85c8c9fa9",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 999
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 999
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-13T01:46:25.277Z",
+    "transactionTime": "2026-05-12T21:31:41.000Z",
+    "settlementTime": "2026-05-13T01:46:25.167Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CARD_SUBSCRIPTION",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "8369e448-1dd1-40b5-a233-d4f6e9f79950",
+    "counterPartyName": "Disney Plus",
+    "counterPartySubEntityUid": "66da5ed8-f1e6-4dfe-950e-2abe304b089a",
+    "reference": "Disney Plus",
+    "country": "GB",
+    "spendingCategory": "ENTERTAINMENT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "535b9870-3144-495d-9872-dceb939520ef",
+    "categoryUid": "e2b620f6-2904-4e2f-bb2b-b8e85c8c9fa9",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 1778
+    },
+    "sourceAmount": {
+      "currency": "USD",
+      "minorUnits": 2400
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-13T11:43:19.881Z",
+    "transactionTime": "2026-05-12T20:11:10.000Z",
+    "settlementTime": "2026-05-13T11:43:19.700Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ONLINE",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "6fc2fbe2-9db5-4921-aa74-6ccac48b4e7f",
+    "counterPartyName": "Perplexity.Ai",
+    "counterPartySubEntityUid": "6fc26258-f630-4730-b812-c34f85f6ae06",
+    "reference": "WWW.PERPLEXITY.AI",
+    "country": "US",
+    "spendingCategory": "SHOPPING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "532e7255-94d5-4a83-8335-8b0c65c7f8dd",
+    "categoryUid": "e2b620f6-2904-4e2f-bb2b-b8e85c8c9fa9",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 649
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 649
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-13T01:52:43.762Z",
+    "transactionTime": "2026-05-12T19:26:17.000Z",
+    "settlementTime": "2026-05-13T01:52:43.648Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CARD_SUBSCRIPTION",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "fa68d691-995d-4333-a843-049755ee7440",
+    "counterPartyName": "Google Play",
+    "counterPartySubEntityUid": "a79dd079-75ac-4870-a248-4988e8c9646f",
+    "reference": "Google Play Apps",
+    "country": "GB",
+    "spendingCategory": "ENTERTAINMENT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "4df3e515-c7fe-4258-ad88-38086d0df2b0",
+    "categoryUid": "e2b620f6-2904-4e2f-bb2b-b8e85c8c9fa9",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 1563
+    },
+    "sourceAmount": {
+      "currency": "USD",
+      "minorUnits": 2119
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-12T04:59:28.997Z",
+    "transactionTime": "2026-05-11T21:07:07.000Z",
+    "settlementTime": "2026-05-12T04:59:28.860Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ONLINE",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "73f29ab8-6117-420c-9838-0e7c2be8b1a3",
+    "counterPartyName": "Openrouter Inc",
+    "counterPartySubEntityUid": "73f22694-e527-4b13-97ce-89bb689244d0",
+    "reference": "OPENROUTER, INC",
+    "country": "US",
+    "spendingCategory": "SHOPPING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "48733905-5cc7-4551-a53c-58c0ed4aa8c3",
+    "categoryUid": "e2b620f6-2904-4e2f-bb2b-b8e85c8c9fa9",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 2462
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 2462
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-11T04:52:52.211Z",
+    "transactionTime": "2026-05-10T21:39:48.000Z",
+    "settlementTime": "2026-05-11T04:52:52.085Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CARD_SUBSCRIPTION",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "1dc09d9f-27bd-4eff-a2a3-b9c094eac7b5",
+    "counterPartyName": "Paypro",
+    "counterPartySubEntityUid": "7cbc4f8c-688c-44b5-9103-1ccff9a77114",
+    "reference": "Paypro 448003688867",
+    "country": "GB",
+    "spendingCategory": "SUBSCRIPTIONS",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "454746dd-a716-4786-815b-2f24999d365e",
+    "categoryUid": "e2b620f6-2904-4e2f-bb2b-b8e85c8c9fa9",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 2000
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 2000
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-11T01:14:30.452Z",
+    "transactionTime": "2026-05-10T08:07:49.000Z",
+    "settlementTime": "2026-05-11T01:14:30.381Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CARD_SUBSCRIPTION",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "4a6cf71f-6c25-4011-82a9-d05324528805",
+    "counterPartyName": "Hbrsubscription",
+    "counterPartySubEntityUid": "4a6c5db9-b402-4980-a541-db014c4e2007",
+    "reference": "HBR*SUBSCRIPTION      ",
+    "country": "US",
+    "spendingCategory": "SHOPPING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "2c32f016-6cc5-4bb9-8ac7-9b395b41d660",
+    "categoryUid": "e2b620f6-2904-4e2f-bb2b-b8e85c8c9fa9",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 1569
+    },
+    "sourceAmount": {
+      "currency": "USD",
+      "minorUnits": 2119
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-06T05:17:18.553Z",
+    "transactionTime": "2026-05-05T21:06:59.000Z",
+    "settlementTime": "2026-05-06T05:17:18.484Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ONLINE",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "73f29ab8-6117-420c-9838-0e7c2be8b1a3",
+    "counterPartyName": "Openrouter Inc",
+    "counterPartySubEntityUid": "73f22694-e527-4b13-97ce-89bb689244d0",
+    "reference": "OPENROUTER, INC",
+    "country": "US",
+    "spendingCategory": "SHOPPING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "2c3058da-2c95-4c2d-ad52-942bfbb29d5d",
+    "categoryUid": "e2b620f6-2904-4e2f-bb2b-b8e85c8c9fa9",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 1899
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 1899
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-07T02:00:53.890Z",
+    "transactionTime": "2026-05-05T21:04:17.000Z",
+    "settlementTime": "2026-05-07T02:00:53.770Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CARD_SUBSCRIPTION",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "fa68d691-995d-4333-a843-049755ee7440",
+    "counterPartyName": "Google Play",
+    "counterPartySubEntityUid": "a79dd079-75ac-4870-a248-4988e8c9646f",
+    "reference": "Google One",
+    "country": "GB",
+    "spendingCategory": "ENTERTAINMENT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "221cd399-7eef-4c46-aead-7881d820eafd",
+    "categoryUid": "e2b620f6-2904-4e2f-bb2b-b8e85c8c9fa9",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 1199
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 1199
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-04T12:37:20.635Z",
+    "transactionTime": "2026-05-04T02:04:05.000Z",
+    "settlementTime": "2026-05-04T12:37:20.408Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CARD_SUBSCRIPTION",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "73baa1fb-96d8-42c3-9f29-f8a8e0946619",
+    "counterPartyName": "Tresorit",
+    "counterPartySubEntityUid": "73bab979-e712-4545-8ac8-348c0fb225c0",
+    "reference": "TRESORIT.COM",
+    "country": "CH",
+    "spendingCategory": "SHOPPING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "1b7d7714-3340-4823-9fbf-ad6e97f8cca9",
+    "categoryUid": "e2b620f6-2904-4e2f-bb2b-b8e85c8c9fa9",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 999
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 999
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-04T02:11:43.545Z",
+    "transactionTime": "2026-05-02T21:49:15.000Z",
+    "settlementTime": "2026-05-04T02:11:43.394Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CARD_SUBSCRIPTION",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "fa68d691-995d-4333-a843-049755ee7440",
+    "counterPartyName": "Google Play",
+    "counterPartySubEntityUid": "a7a2ee0b-06a5-43dd-a0ee-490a793680e4",
+    "reference": "Google Play Apps",
+    "country": "GB",
+    "spendingCategory": "ENTERTAINMENT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "1195617c-c2ad-41fc-810e-92ef741ebce3",
+    "categoryUid": "e2b620f6-2904-4e2f-bb2b-b8e85c8c9fa9",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 892
+    },
+    "sourceAmount": {
+      "currency": "USD",
+      "minorUnits": 1200
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-01T15:28:58.013Z",
+    "transactionTime": "2026-05-01T03:33:40.000Z",
+    "settlementTime": "2026-05-01T15:28:57.907Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ONLINE",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "73bb8d93-9a44-45d9-8a93-09bb64689f3d",
+    "counterPartyName": "Kagi",
+    "counterPartySubEntityUid": "73bb8fba-2e4e-4e86-b917-ef1f407facc3",
+    "reference": "RCH-KAGI.COM",
+    "country": "US",
+    "spendingCategory": "SHOPPING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "10d69ba0-a0ec-47dd-9dda-8ccaca975033",
+    "categoryUid": "e2b620f6-2904-4e2f-bb2b-b8e85c8c9fa9",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 34329
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 34329
+    },
+    "direction": "IN",
+    "updatedAt": "2026-05-01T00:22:11.346Z",
+    "transactionTime": "2026-05-01T00:22:11.262Z",
+    "settlementTime": "2026-05-01T00:22:11.262Z",
+    "source": "INTERNAL_TRANSFER",
+    "status": "SETTLED",
+    "counterPartyType": "CATEGORY",
+    "counterPartyUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "counterPartyName": "Current (GBP)",
+    "country": "GB",
+    "spendingCategory": "SAVING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null,
+    "HOLDING_IGNORE": true,
+    "MATCHING_UID": "10d6b37b-3546-403a-a6c6-f948c5230e6c"
+  },
+  {
+    "feedItemUid": "0f13e3c9-e9c6-4ff8-b1bb-851f3a5352b4",
+    "categoryUid": "e2b620f6-2904-4e2f-bb2b-b8e85c8c9fa9",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 799
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 799
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-01T01:53:40.017Z",
+    "transactionTime": "2026-04-30T16:51:22.000Z",
+    "settlementTime": "2026-05-01T01:53:39.908Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ANDROID_PAY_ONLINE",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "fa68d691-995d-4333-a843-049755ee7440",
+    "counterPartyName": "Google Play",
+    "counterPartySubEntityUid": "16e75569-b717-4219-aae3-7e788a9e4ff9",
+    "reference": "GOOGLE *Google Play Ap",
+    "country": "GB",
+    "spendingCategory": "ENTERTAINMENT",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "0e3af420-0fd5-416e-babe-704922233c46",
+    "categoryUid": "e2b620f6-2904-4e2f-bb2b-b8e85c8c9fa9",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 1573
+    },
+    "sourceAmount": {
+      "currency": "USD",
+      "minorUnits": 2119
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-01T01:51:40.465Z",
+    "transactionTime": "2026-04-30T13:14:36.000Z",
+    "settlementTime": "2026-05-01T01:51:40.391Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ONLINE",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "73f29ab8-6117-420c-9838-0e7c2be8b1a3",
+    "counterPartyName": "Openrouter Inc",
+    "counterPartySubEntityUid": "73f22694-e527-4b13-97ce-89bb689244d0",
+    "reference": "OPENROUTER, INC",
+    "country": "US",
+    "spendingCategory": "SHOPPING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "ff001750-d8b9-484f-841c-49f202da146c",
+    "categoryUid": "e2b620f6-2904-4e2f-bb2b-b8e85c8c9fa9",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 272
+    },
+    "sourceAmount": {
+      "currency": "USD",
+      "minorUnits": 367
+    },
+    "direction": "IN",
+    "updatedAt": "2026-04-29T01:26:19.221Z",
+    "transactionTime": "2026-04-29T01:26:18.628Z",
+    "settlementTime": "2026-04-29T01:26:19.132Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ONLINE",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "4389ce13-f6a6-49a1-a297-6ac7fe8f7226",
+    "counterPartyName": "GitHub",
+    "counterPartySubEntityUid": "6b9a615a-70c9-4a50-ad28-0ae8969b13ca",
+    "reference": "GITHUB, INC.",
+    "country": "US",
+    "spendingCategory": "SUBSCRIPTIONS",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "04d7cb44-70f1-4767-8a35-f84a3d3e152e",
+    "categoryUid": "e2b620f6-2904-4e2f-bb2b-b8e85c8c9fa9",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 3139
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 3139
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-04-29T01:07:56.727Z",
+    "transactionTime": "2026-04-28T21:11:55.000Z",
+    "settlementTime": "2026-04-29T01:07:56.619Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ONLINE",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "0e743923-f380-45cc-b071-7126e7555a91",
+    "counterPartyName": "NordVPN",
+    "counterPartySubEntityUid": "70504744-a407-489d-aed9-0909d541a16a",
+    "reference": "SM.NORD* PASSCOM",
+    "country": "GB",
+    "spendingCategory": "SUBSCRIPTIONS",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "feedItemUid": "7ebafcc6-1d2a-4d5d-8976-43028e078320",
+    "categoryUid": "f28bcad2-245c-4c17-beee-ba794c569cdc",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 1629
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 1629
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-20T13:14:23.129Z",
+    "transactionTime": "2026-05-20T13:14:22.000Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CHIP_AND_PIN",
+    "status": "PENDING",
+    "transactingApplicationUserUid": "74b92663-79b4-4b8b-afd2-5f145297ed4f",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "784991ce-704c-4fcc-8be7-6d7e7002f3e7",
+    "counterPartyName": "B&M",
+    "counterPartySubEntityUid": "71c92105-56af-43a1-b630-ced805ea52b0",
+    "reference": "B&M 911 ANTRIM",
+    "country": "GB",
+    "spendingCategory": "GROCERIES",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null,
+    "IGNORE_REASON": "Pending transaction included for Check 3 balance reconciliation"
+  },
+  {
+    "feedItemUid": "7a40effc-bde7-463f-b12c-a3bced65f74b",
+    "categoryUid": "f28bcad2-245c-4c17-beee-ba794c569cdc",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 1683
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 1683
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-20T10:25:35.026Z",
+    "transactionTime": "2026-05-19T18:08:03.000Z",
+    "settlementTime": "2026-05-20T10:25:34.928Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CONTACTLESS",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "74b92663-79b4-4b8b-afd2-5f145297ed4f",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "19a3144e-7408-4b28-b105-0e6a80cbdc70",
+    "counterPartyName": "SuperValu",
+    "counterPartySubEntityUid": "e5ef4804-601d-402b-b1da-e20b5bde900e",
+    "reference": "SUPERVALU KELLS",
+    "country": "GB",
+    "spendingCategory": "GROCERIES",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  }
+]

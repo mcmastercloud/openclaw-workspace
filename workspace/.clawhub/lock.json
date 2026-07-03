@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "skills": {
+    "ontology": {
+      "version": "1.0.4",
+      "installedAt": 1780354734204,
+      "registry": "https://clawhub.ai"
+    },
+    "obsidian-notesmd-cli": {
+      "version": "1.0.0",
+      "installedAt": 1780757463251,
+      "registry": "https://clawhub.ai"
+    },
+    "self-improving-agent": {
+      "version": "3.0.23",
+      "installedAt": 1781399076460,
+      "registry": "https://clawhub.ai"
+    },
+    "publer-api": {
+      "version": "1.0.0",
+      "installedAt": 1781451308692,
+      "registry": "https://clawhub.ai"
+    },
+    "postiz": {
+      "version": "1.0.15",
+      "installedAt": 1781470074869,
+      "registry": "https://clawhub.ai"
+    }
+  }
+}

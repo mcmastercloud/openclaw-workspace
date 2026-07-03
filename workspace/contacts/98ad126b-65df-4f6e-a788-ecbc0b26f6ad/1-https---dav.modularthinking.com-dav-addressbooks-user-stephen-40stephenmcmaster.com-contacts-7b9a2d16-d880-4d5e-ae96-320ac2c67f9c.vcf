@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:+//IDN bitfire.at//DAVx5/4.5.7.1-gplay ez-vcard/0.12.1 (ez-vcard/0.1
+ 2.1)
+UID:1-https---dav.modularthinking.com-dav-addressbooks-user-stephen-40steph
+ enmcmaster.com-contacts-7b9a2d16-d880-4d5e-ae96-320ac2c67f9c
+ADR;TYPE=home:;;171 Moat Road;Ballymena;;BT42 4AA;
+BDAY:1953-05-26
+FN:Mrs Helen McMaster
+N:McMaster;Helen;;Mrs;
+REV:2026-01-14T14:59:01Z
+TEL;TYPE=cell:+44 7762 378843
+TEL;TYPE=home:+442825642919
+END:VCARD

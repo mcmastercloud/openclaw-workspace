@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Sabre//Sabre VObject 4.5.6//EN
+UID:c3de5fa8-0e17-4d88-8450-f6b295978fbc
+FN:Andy Cotterill
+N:Cotterill;Andy;;;
+ORG:Deloitte
+REV:20260128T193002Z
+TEL;TYPE=cell:+447795961287
+END:VCARD

@@ -1,0 +1,172 @@
+[
+  {
+    "firefly_transaction_id": "9904",
+    "amount": "0.010000000000",
+    "date": "2026-06-01T22:56:40+01:00",
+    "external_id": "c44499ca-7d21-4e4e-8573-cc042333ee95",
+    "description": "43VTVDGMIVPIY4EQS4",
+    "type": "deposit",
+    "source_id": "870",
+    "destination_id": "550"
+  },
+  {
+    "firefly_transaction_id": "9905",
+    "amount": "0.010000000000",
+    "date": "2026-06-01T22:55:37+01:00",
+    "external_id": "c443ea3b-878a-47e4-9dec-96040a7a4d92",
+    "description": "43VTVDGMIVPIY4EQS4",
+    "type": "withdrawal",
+    "source_id": "550",
+    "destination_id": "784"
+  },
+  {
+    "firefly_transaction_id": "9906",
+    "amount": "0.010000000000",
+    "date": "2026-06-01T22:52:45+01:00",
+    "external_id": "c440f2c1-f00f-45d8-958c-5b0a6da62485",
+    "description": "2RBJ2EQ4B55C7USBO2",
+    "type": "deposit",
+    "source_id": "870",
+    "destination_id": "550"
+  },
+  {
+    "firefly_transaction_id": "9907",
+    "amount": "0.010000000000",
+    "date": "2026-06-01T22:50:39+01:00",
+    "external_id": "c43e4592-2eab-499b-be32-c35021a1eff1",
+    "description": "2RBJ2EQ4B55C7USBO2",
+    "type": "withdrawal",
+    "source_id": "550",
+    "destination_id": "784"
+  },
+  {
+    "firefly_transaction_id": "9908",
+    "amount": "0.010000000000",
+    "date": "2026-06-01T22:44:56+01:00",
+    "external_id": "c43875cd-6b1d-4611-a4f4-73d87822d083",
+    "description": "SE1KNBW1WST9PLB311",
+    "type": "withdrawal",
+    "source_id": "550",
+    "destination_id": "784"
+  },
+  {
+    "firefly_transaction_id": "9909",
+    "amount": "0.010000000000",
+    "date": "2026-06-01T22:43:28+01:00",
+    "external_id": "c437f37d-dcca-4b8b-a559-42636e287036",
+    "description": "4A6AA9P2SUJBIQSW9Q",
+    "type": "withdrawal",
+    "source_id": "550",
+    "destination_id": "784"
+  },
+  {
+    "firefly_transaction_id": "9910",
+    "amount": "8.330000000000",
+    "date": "2026-06-01T02:47:47+01:00",
+    "external_id": "bf8b13c4-7e1b-4ff1-9344-f4867b7be8ab",
+    "description": "SNUGINES",
+    "type": "deposit",
+    "source_id": "777",
+    "destination_id": "550"
+  },
+  {
+    "firefly_transaction_id": "9911",
+    "amount": "19.980000000000",
+    "date": "2026-06-01T02:10:49+01:00",
+    "external_id": "bf667031-16e4-44f4-9323-8ee400502a86",
+    "description": "A1 COM",
+    "type": "deposit",
+    "source_id": "780",
+    "destination_id": "550"
+  },
+  {
+    "firefly_transaction_id": "9912",
+    "amount": "9.990000000000",
+    "date": "2026-06-01T01:41:39+01:00",
+    "external_id": "bf4964a8-0bf8-42e5-84d7-4341d5786045",
+    "description": "JJ & P EMBLETON",
+    "type": "deposit",
+    "source_id": "779",
+    "destination_id": "550"
+  },
+  {
+    "firefly_transaction_id": "9913",
+    "amount": "24.530000000000",
+    "date": "2026-06-01T01:34:02+01:00",
+    "external_id": "aa34d12a-02f5-48f9-9752-a2bbdbce9420",
+    "description": "DDIT2827203",
+    "type": "withdrawal",
+    "source_id": "550",
+    "destination_id": "778"
+  },
+  {
+    "firefly_transaction_id": "9867",
+    "amount": "157.200000000000",
+    "date": "2026-05-28T00:54:59+01:00",
+    "external_id": "a0ac2186-5727-441a-be46-00b1c976855b",
+    "description": "STEPHENMCM",
+    "type": "withdrawal",
+    "source_id": "550",
+    "destination_id": "804"
+  },
+  {
+    "firefly_transaction_id": "9869",
+    "amount": "1480.000000000000",
+    "date": "2026-05-26T14:28:57+01:00",
+    "external_id": "a0882530-2aad-4232-86a9-0c64d4828e82",
+    "description": "Cash Deposit at 9 13 Main Street Ballymena BT42 3JH GB",
+    "type": "deposit",
+    "source_id": "277",
+    "destination_id": "550"
+  },
+  {
+    "firefly_transaction_id": "9868",
+    "amount": "10.360000000000",
+    "date": "2026-05-26T14:28:57+01:00",
+    "external_id": "a088ee70-d6ab-4f70-94e7-015a063f3b32",
+    "description": "Cash Deposit Charge",
+    "type": "withdrawal",
+    "source_id": "550",
+    "destination_id": "26"
+  },
+  {
+    "firefly_transaction_id": "9870",
+    "amount": "1000.000000000000",
+    "date": "2026-05-26T01:01:19+01:00",
+    "external_id": "978541f4-4419-459d-8a7e-c3b876261edd",
+    "description": "BIS-SALARY",
+    "type": "withdrawal",
+    "source_id": "550",
+    "destination_id": "785"
+  },
+  {
+    "firefly_transaction_id": "9871",
+    "amount": "45.600000000000",
+    "date": "2026-05-24T15:51:36+01:00",
+    "external_id": "94bc4bed-2311-4089-bab5-ed75fdc1b07b",
+    "description": "INTUIT *QBooks Online",
+    "type": "withdrawal",
+    "source_id": "550",
+    "destination_id": "811"
+  },
+  {
+    "firefly_transaction_id": "9799",
+    "amount": "20.000000000000",
+    "date": "2026-05-09T01:13:15+01:00",
+    "external_id": "3dcd6b96-1bd6-4d52-b33e-89b0612bc46d",
+    "description": "Software and Email",
+    "type": "transfer",
+    "source_id": "550",
+    "destination_id": "772"
+  },
+  {
+    "firefly_transaction_id": "9800",
+    "amount": "200.000000000000",
+    "date": "2026-05-07T00:42:37+01:00",
+    "external_id": "293098c8-25fc-49ac-ab9c-f59a3b80c48a",
+    "description": "01C0374762970001",
+    "type": "withdrawal",
+    "source_id": "550",
+    "destination_id": "305"
+  }
+]

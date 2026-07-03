@@ -1,0 +1,242 @@
+[
+  {
+    "feedItemUid": "c1ef6c65-78c6-459b-9466-7df2b058eb7a",
+    "categoryUid": "f28bcad2-245c-4c17-beee-ba794c569cdc",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 4100
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 4100
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-06-02T05:21:02.134Z",
+    "transactionTime": "2026-06-01T11:59:23.000Z",
+    "settlementTime": "2026-06-02T05:21:01.983Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CHIP_AND_PIN",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "74b92663-79b4-4b8b-afd2-5f145297ed4f",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "89d332e3-d4f0-41c4-af73-fbb9bf17dd1e",
+    "counterPartyName": "SPAR",
+    "counterPartySubEntityUid": "5e245875-2592-45e2-b7d6-51323cc7727c",
+    "reference": "SPAR KELLS",
+    "country": "GB",
+    "spendingCategory": "GROCERIES",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "c1ea3918-ea19-4d9f-9073-c91c03ed2a1e",
+    "categoryUid": "f28bcad2-245c-4c17-beee-ba794c569cdc",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 865
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 865
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-06-02T11:06:53.796Z",
+    "transactionTime": "2026-06-01T11:54:44.000Z",
+    "settlementTime": "2026-06-02T11:06:53.712Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CONTACTLESS",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "74b92663-79b4-4b8b-afd2-5f145297ed4f",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "19a3144e-7408-4b28-b105-0e6a80cbdc70",
+    "counterPartyName": "SuperValu",
+    "counterPartySubEntityUid": "e5ef4804-601d-402b-b1da-e20b5bde900e",
+    "reference": "SUPERVALU KELLS",
+    "country": "GB",
+    "spendingCategory": "GROCERIES",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "bf8e2f58-bcf6-4517-a391-c8a6905f3b35",
+    "categoryUid": "f28bcad2-245c-4c17-beee-ba794c569cdc",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 3499
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 3499
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-06-01T11:43:10.115Z",
+    "transactionTime": "2026-06-01T01:50:25.000Z",
+    "settlementTime": "2026-06-01T11:43:10.024Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CARD_SUBSCRIPTION",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "74b92663-79b4-4b8b-afd2-5f145297ed4f",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "838976ca-9151-4d52-adfa-961a1021a587",
+    "counterPartyName": "Duality Healthcare",
+    "counterPartySubEntityUid": "838957ec-a367-4870-a7e2-5fd64bff5294",
+    "reference": "DUALITY HEALTHCARE",
+    "country": "GB",
+    "spendingCategory": "BILLS_AND_SERVICES",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "b70e35ff-e085-460c-9d3d-de5f5fffcd13",
+    "categoryUid": "f28bcad2-245c-4c17-beee-ba794c569cdc",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 550
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 550
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-31T11:20:42.496Z",
+    "transactionTime": "2026-05-30T13:34:07.000Z",
+    "settlementTime": "2026-05-31T11:20:42.414Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CONTACTLESS",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "74b92663-79b4-4b8b-afd2-5f145297ed4f",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "d3cb02b4-aaa2-44b0-9766-f4bb4d35063f",
+    "counterPartyName": "Marks & Spencer",
+    "counterPartySubEntityUid": "d27e6c76-b758-4e9f-b207-a1c31f0b5bba",
+    "reference": "MARKS&SPENCER PLC",
+    "country": "GB",
+    "spendingCategory": "GROCERIES",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "b1462b44-1d33-4476-ad84-396d6214446f",
+    "categoryUid": "f28bcad2-245c-4c17-beee-ba794c569cdc",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 3348
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 3348
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-30T11:58:23.345Z",
+    "transactionTime": "2026-05-29T12:54:01.000Z",
+    "settlementTime": "2026-05-30T11:58:23.240Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CONTACTLESS",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "74b92663-79b4-4b8b-afd2-5f145297ed4f",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "d3cb02b4-aaa2-44b0-9766-f4bb4d35063f",
+    "counterPartyName": "Marks & Spencer",
+    "counterPartySubEntityUid": "d27e6c76-b758-4e9f-b207-a1c31f0b5bba",
+    "reference": "MARKS&SPENCER PLC",
+    "country": "GB",
+    "spendingCategory": "GROCERIES",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "b11abb7e-af90-4923-a0a6-2d3954e161cd",
+    "categoryUid": "f28bcad2-245c-4c17-beee-ba794c569cdc",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 3145
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 3145
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-30T11:00:29.897Z",
+    "transactionTime": "2026-05-29T12:10:33.000Z",
+    "settlementTime": "2026-05-30T11:00:29.799Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CONTACTLESS",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "74b92663-79b4-4b8b-afd2-5f145297ed4f",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "ac6e87fc-b067-4376-b7c7-44b472ff4998",
+    "counterPartyName": "Sainsbury's",
+    "counterPartySubEntityUid": "e92e4902-1644-4558-abed-670d71283e4c",
+    "reference": "SAINSBURYS S/MKTS",
+    "country": "GB",
+    "spendingCategory": "GROCERIES",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "ad4c0be5-1efa-4fa9-ac38-5623efe5b881",
+    "categoryUid": "f28bcad2-245c-4c17-beee-ba794c569cdc",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 1651
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 1651
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-29T04:03:16.135Z",
+    "transactionTime": "2026-05-28T19:56:51.000Z",
+    "settlementTime": "2026-05-29T04:03:15.700Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "CONTACTLESS",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "74b92663-79b4-4b8b-afd2-5f145297ed4f",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "528a118c-1516-4d29-90f5-d873f04bd049",
+    "counterPartyName": "Asda",
+    "counterPartySubEntityUid": "0365485f-a301-4542-b738-b92259c9f687",
+    "reference": "ANTRIM 311",
+    "country": "GB",
+    "spendingCategory": "GROCERIES",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "a83e85eb-9d36-4f14-b6a1-33051864aca4",
+    "categoryUid": "f28bcad2-245c-4c17-beee-ba794c569cdc",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 4420
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 4420
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-28T05:04:22.110Z",
+    "transactionTime": "2026-05-27T21:40:23.000Z",
+    "settlementTime": "2026-05-28T05:04:21.990Z",
+    "source": "MASTER_CARD",
+    "sourceSubType": "ONLINE",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "74b92663-79b4-4b8b-afd2-5f145297ed4f",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "c6244c85-933b-49d4-9aa4-ff985a0f4c01",
+    "counterPartyName": "Huel",
+    "counterPartySubEntityUid": "6877cce0-df39-4ffd-80ec-fcf38d58e188",
+    "reference": "WWW.HUEL.COM",
+    "country": "GB",
+    "spendingCategory": "GROCERIES",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  }
+]

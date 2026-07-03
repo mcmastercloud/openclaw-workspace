@@ -1,0 +1,947 @@
+[
+  {
+    "feedItemUid": "636cb342-ffeb-4470-82d6-eb1f6e07514b",
+    "categoryUid": "b9413f04-1536-43b4-b974-78f278818f86",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 105000
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 105000
+    },
+    "direction": "OUT",
+    "updatedAt": "2024-11-15T13:32:50.336Z",
+    "transactionTime": "2024-11-15T13:32:50.224Z",
+    "settlementTime": "2024-11-15T13:32:50.224Z",
+    "source": "INTERNAL_TRANSFER",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "CATEGORY",
+    "counterPartyUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "counterPartyName": "Current (GBP)",
+    "country": "GB",
+    "spendingCategory": "SAVING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "21f71870-8b2a-41a1-9c6f-b0b1e72643ae",
+    "categoryUid": "b9413f04-1536-43b4-b974-78f278818f86",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 20543
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 20543
+    },
+    "direction": "OUT",
+    "updatedAt": "2024-11-03T22:15:15.770Z",
+    "transactionTime": "2024-11-03T22:15:15.719Z",
+    "settlementTime": "2024-11-03T22:15:15.719Z",
+    "source": "INTERNAL_TRANSFER",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "CATEGORY",
+    "counterPartyUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "counterPartyName": "Current (GBP)",
+    "country": "GB",
+    "spendingCategory": "SAVING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "0de2f196-ce21-402f-ad57-191ca3825377",
+    "categoryUid": "b9413f04-1536-43b4-b974-78f278818f86",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 100000
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 100000
+    },
+    "direction": "IN",
+    "updatedAt": "2024-10-31T08:34:10.524Z",
+    "transactionTime": "2024-10-31T08:34:10.432Z",
+    "settlementTime": "2024-10-31T08:34:10.432Z",
+    "source": "INTERNAL_TRANSFER",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "CATEGORY",
+    "counterPartyUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "counterPartyName": "Current (GBP)",
+    "country": "GB",
+    "spendingCategory": "SAVING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "fdbf3ad3-9600-4061-9c2c-9ca5e8ba0849",
+    "categoryUid": "b9413f04-1536-43b4-b974-78f278818f86",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 263000
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 263000
+    },
+    "direction": "OUT",
+    "updatedAt": "2024-10-28T11:43:44.224Z",
+    "transactionTime": "2024-10-28T11:43:44.154Z",
+    "settlementTime": "2024-10-28T11:43:44.154Z",
+    "source": "INTERNAL_TRANSFER",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "CATEGORY",
+    "counterPartyUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "counterPartyName": "Current (GBP)",
+    "country": "GB",
+    "spendingCategory": "SAVING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "f8adfbdd-2527-44c7-ac15-7e454b84485c",
+    "categoryUid": "b9413f04-1536-43b4-b974-78f278818f86",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 80000
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 80000
+    },
+    "direction": "OUT",
+    "updatedAt": "2024-10-27T14:05:39.981Z",
+    "transactionTime": "2024-10-27T14:05:39.889Z",
+    "settlementTime": "2024-10-27T14:05:39.889Z",
+    "source": "INTERNAL_TRANSFER",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "CATEGORY",
+    "counterPartyUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "counterPartyName": "Current (GBP)",
+    "country": "GB",
+    "spendingCategory": "SAVING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "e18e4b40-ab06-49f9-9c4f-f9f6004200f9",
+    "categoryUid": "b9413f04-1536-43b4-b974-78f278818f86",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 50000
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 50000
+    },
+    "direction": "OUT",
+    "updatedAt": "2024-10-23T11:26:29.997Z",
+    "transactionTime": "2024-10-23T11:26:29.941Z",
+    "settlementTime": "2024-10-23T11:26:29.941Z",
+    "source": "INTERNAL_TRANSFER",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "CATEGORY",
+    "counterPartyUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "counterPartyName": "Current (GBP)",
+    "country": "GB",
+    "spendingCategory": "SAVING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "de5590c8-2554-4d62-8e45-2c1efbff57af",
+    "categoryUid": "b9413f04-1536-43b4-b974-78f278818f86",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 50000
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 50000
+    },
+    "direction": "OUT",
+    "updatedAt": "2024-10-22T21:41:17.965Z",
+    "transactionTime": "2024-10-22T21:41:17.752Z",
+    "settlementTime": "2024-10-22T21:41:17.752Z",
+    "source": "INTERNAL_TRANSFER",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "CATEGORY",
+    "counterPartyUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "counterPartyName": "Current (GBP)",
+    "country": "GB",
+    "spendingCategory": "SAVING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "d684bfb0-340c-40b7-8bd3-56f2c7f39020",
+    "categoryUid": "b9413f04-1536-43b4-b974-78f278818f86",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 56000
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 56000
+    },
+    "direction": "OUT",
+    "updatedAt": "2024-10-21T12:20:42.189Z",
+    "transactionTime": "2024-10-21T12:20:42.133Z",
+    "settlementTime": "2024-10-21T12:20:42.133Z",
+    "source": "INTERNAL_TRANSFER",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "CATEGORY",
+    "counterPartyUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "counterPartyName": "Current (GBP)",
+    "country": "GB",
+    "spendingCategory": "SAVING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "d2870290-0b89-4db2-b691-aae189a10679",
+    "categoryUid": "b9413f04-1536-43b4-b974-78f278818f86",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 22800
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 22800
+    },
+    "direction": "OUT",
+    "updatedAt": "2024-10-20T19:19:28.553Z",
+    "transactionTime": "2024-10-20T19:19:28.287Z",
+    "settlementTime": "2024-10-20T19:19:28.287Z",
+    "source": "INTERNAL_TRANSFER",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "CATEGORY",
+    "counterPartyUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "counterPartyName": "Current (GBP)",
+    "country": "GB",
+    "spendingCategory": "SAVING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "bc8e0e92-a743-4d32-907f-69a7cb01660f",
+    "categoryUid": "b9413f04-1536-43b4-b974-78f278818f86",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 110823
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 110823
+    },
+    "direction": "IN",
+    "updatedAt": "2024-10-16T21:34:20.960Z",
+    "transactionTime": "2024-10-16T21:34:20.919Z",
+    "settlementTime": "2024-10-16T21:34:20.919Z",
+    "source": "INTERNAL_TRANSFER",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "CATEGORY",
+    "counterPartyUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "counterPartyName": "Current (GBP)",
+    "country": "GB",
+    "spendingCategory": "SAVING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "b184262d-8f33-412f-b8e4-fa677f138db8",
+    "categoryUid": "b9413f04-1536-43b4-b974-78f278818f86",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 200000
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 200000
+    },
+    "direction": "OUT",
+    "updatedAt": "2024-10-14T22:28:35.638Z",
+    "transactionTime": "2024-10-14T22:28:35.233Z",
+    "settlementTime": "2024-10-14T22:28:35.233Z",
+    "source": "INTERNAL_TRANSFER",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "CATEGORY",
+    "counterPartyUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "counterPartyName": "Current (GBP)",
+    "country": "GB",
+    "spendingCategory": "SAVING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "9a46613d-c9aa-4c32-ba5a-127342cf8dd8",
+    "categoryUid": "b9413f04-1536-43b4-b974-78f278818f86",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 142000
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 142000
+    },
+    "direction": "OUT",
+    "updatedAt": "2024-10-10T19:18:34.858Z",
+    "transactionTime": "2024-10-10T19:18:34.681Z",
+    "settlementTime": "2024-10-10T19:18:34.681Z",
+    "source": "INTERNAL_TRANSFER",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "CATEGORY",
+    "counterPartyUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "counterPartyName": "Current (GBP)",
+    "country": "GB",
+    "spendingCategory": "SAVING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "900b20a2-657c-4fbd-809a-0e5fb1b7a45e",
+    "categoryUid": "b9413f04-1536-43b4-b974-78f278818f86",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 128930
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 128930
+    },
+    "direction": "OUT",
+    "updatedAt": "2024-10-08T23:39:14.089Z",
+    "transactionTime": "2024-10-08T23:39:13.994Z",
+    "settlementTime": "2024-10-08T23:39:13.994Z",
+    "source": "INTERNAL_TRANSFER",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "CATEGORY",
+    "counterPartyUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "counterPartyName": "Current (GBP)",
+    "country": "GB",
+    "spendingCategory": "SAVING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "5ef77e4e-d233-46fa-bb2c-c123f0bf5843",
+    "categoryUid": "b9413f04-1536-43b4-b974-78f278818f86",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 629955
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 629955
+    },
+    "direction": "IN",
+    "updatedAt": "2024-09-30T06:15:53.949Z",
+    "transactionTime": "2024-09-30T06:15:53.819Z",
+    "settlementTime": "2024-09-30T06:15:53.819Z",
+    "source": "INTERNAL_TRANSFER",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "CATEGORY",
+    "counterPartyUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "counterPartyName": "Current (GBP)",
+    "country": "GB",
+    "spendingCategory": "SAVING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "38cfc7d5-85b1-4f4d-abd0-99e63649febd",
+    "categoryUid": "b9413f04-1536-43b4-b974-78f278818f86",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 100000
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 100000
+    },
+    "direction": "OUT",
+    "updatedAt": "2024-09-23T11:27:32.249Z",
+    "transactionTime": "2024-09-23T11:27:32.079Z",
+    "settlementTime": "2024-09-23T11:27:32.079Z",
+    "source": "INTERNAL_TRANSFER",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "CATEGORY",
+    "counterPartyUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "counterPartyName": "Current (GBP)",
+    "country": "GB",
+    "spendingCategory": "SAVING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "f7aab753-6741-405b-bf18-4f1e989c831d",
+    "categoryUid": "b9413f04-1536-43b4-b974-78f278818f86",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 1092000
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 1092000
+    },
+    "direction": "OUT",
+    "updatedAt": "2024-09-11T21:30:07.433Z",
+    "transactionTime": "2024-09-11T21:30:07.388Z",
+    "settlementTime": "2024-09-11T21:30:07.388Z",
+    "source": "INTERNAL_TRANSFER",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "CATEGORY",
+    "counterPartyUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "counterPartyName": "Current (GBP)",
+    "country": "GB",
+    "spendingCategory": "SAVING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "aef1d343-1a17-45b7-8146-3ca0e0500c6d",
+    "categoryUid": "b9413f04-1536-43b4-b974-78f278818f86",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 100000
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 100000
+    },
+    "direction": "IN",
+    "updatedAt": "2024-08-29T23:13:54.165Z",
+    "transactionTime": "2024-08-29T23:13:54.079Z",
+    "settlementTime": "2024-08-29T23:13:54.079Z",
+    "source": "INTERNAL_TRANSFER",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "CATEGORY",
+    "counterPartyUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "counterPartyName": "Current (GBP)",
+    "country": "GB",
+    "spendingCategory": "SAVING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "aef10d27-71ad-4563-87b1-6efc0701b668",
+    "categoryUid": "b9413f04-1536-43b4-b974-78f278818f86",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 4715
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 4715
+    },
+    "direction": "IN",
+    "updatedAt": "2024-08-29T23:13:46.111Z",
+    "transactionTime": "2024-08-29T23:13:45.867Z",
+    "settlementTime": "2024-08-29T23:13:45.867Z",
+    "source": "INTERNAL_TRANSFER",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "CATEGORY",
+    "counterPartyUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "counterPartyName": "Current (GBP)",
+    "country": "GB",
+    "spendingCategory": "SAVING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "aef1438b-ca63-4657-97e4-ef4ec7a19b0c",
+    "categoryUid": "b9413f04-1536-43b4-b974-78f278818f86",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 4295
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 4295
+    },
+    "direction": "IN",
+    "updatedAt": "2024-08-29T23:13:21.557Z",
+    "transactionTime": "2024-08-29T23:13:21.437Z",
+    "settlementTime": "2024-08-29T23:13:21.437Z",
+    "source": "INTERNAL_TRANSFER",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "CATEGORY",
+    "counterPartyUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "counterPartyName": "Current (GBP)",
+    "country": "GB",
+    "spendingCategory": "SAVING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "85627dce-5bee-4c73-9782-b5386af8417e",
+    "categoryUid": "b9413f04-1536-43b4-b974-78f278818f86",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 45000
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 45000
+    },
+    "direction": "OUT",
+    "updatedAt": "2024-08-22T13:54:56.119Z",
+    "transactionTime": "2024-08-22T13:54:56.043Z",
+    "settlementTime": "2024-08-22T13:54:56.043Z",
+    "source": "INTERNAL_TRANSFER",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "CATEGORY",
+    "counterPartyUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "counterPartyName": "Current (GBP)",
+    "country": "GB",
+    "spendingCategory": "SAVING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "85625cec-1ee1-4215-987a-af474eadc137",
+    "categoryUid": "b9413f04-1536-43b4-b974-78f278818f86",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 5000
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 5000
+    },
+    "direction": "OUT",
+    "updatedAt": "2024-08-22T13:54:46.137Z",
+    "transactionTime": "2024-08-22T13:54:46.062Z",
+    "settlementTime": "2024-08-22T13:54:46.062Z",
+    "source": "INTERNAL_TRANSFER",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "CATEGORY",
+    "counterPartyUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "counterPartyName": "Current (GBP)",
+    "country": "GB",
+    "spendingCategory": "SAVING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "76b10b05-fee1-42b3-a573-2b3d029e0815",
+    "categoryUid": "b9413f04-1536-43b4-b974-78f278818f86",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 267050
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 267050
+    },
+    "direction": "IN",
+    "updatedAt": "2024-08-19T23:13:33.383Z",
+    "transactionTime": "2024-08-19T23:13:33.310Z",
+    "settlementTime": "2024-08-19T23:13:33.310Z",
+    "source": "INTERNAL_TRANSFER",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "CATEGORY",
+    "counterPartyUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "counterPartyName": "Current (GBP)",
+    "country": "GB",
+    "spendingCategory": "SAVING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "484856fd-e375-417e-a94c-0c28005bb455",
+    "categoryUid": "b9413f04-1536-43b4-b974-78f278818f86",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 61125
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 61125
+    },
+    "direction": "OUT",
+    "updatedAt": "2024-08-11T17:12:45.567Z",
+    "transactionTime": "2024-08-11T17:12:45.364Z",
+    "settlementTime": "2024-08-11T17:12:45.364Z",
+    "source": "INTERNAL_TRANSFER",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "CATEGORY",
+    "counterPartyUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "counterPartyName": "Current (GBP)",
+    "country": "GB",
+    "spendingCategory": "SAVING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "43b58284-33f7-44f4-928b-d1fa927bb403",
+    "categoryUid": "b9413f04-1536-43b4-b974-78f278818f86",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 277440
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 277440
+    },
+    "direction": "OUT",
+    "updatedAt": "2024-08-10T21:41:45.069Z",
+    "transactionTime": "2024-08-10T21:41:45.020Z",
+    "settlementTime": "2024-08-10T21:41:45.020Z",
+    "source": "INTERNAL_TRANSFER",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "CATEGORY",
+    "counterPartyUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "counterPartyName": "Current (GBP)",
+    "country": "GB",
+    "spendingCategory": "SAVING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "40a6dd6a-9e54-445d-afe9-fcd8bd644270",
+    "categoryUid": "b9413f04-1536-43b4-b974-78f278818f86",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 468000
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 468000
+    },
+    "direction": "OUT",
+    "updatedAt": "2024-08-10T08:38:51.656Z",
+    "transactionTime": "2024-08-10T08:38:51.432Z",
+    "settlementTime": "2024-08-10T08:38:51.432Z",
+    "source": "INTERNAL_TRANSFER",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "CATEGORY",
+    "counterPartyUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "counterPartyName": "Current (GBP)",
+    "country": "GB",
+    "spendingCategory": "SAVING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "25d5a1e0-3221-4816-824b-6dc853ddeba3",
+    "categoryUid": "b9413f04-1536-43b4-b974-78f278818f86",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 1950000
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 1950000
+    },
+    "direction": "IN",
+    "updatedAt": "2024-08-05T14:13:01.881Z",
+    "transactionTime": "2024-08-05T14:13:01.795Z",
+    "settlementTime": "2024-08-05T14:13:01.795Z",
+    "source": "INTERNAL_TRANSFER",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "CATEGORY",
+    "counterPartyUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "counterPartyName": "Current (GBP)",
+    "country": "GB",
+    "spendingCategory": "SAVING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "062cbbf4-725b-4115-9d5c-11d65ee27f69",
+    "categoryUid": "b9413f04-1536-43b4-b974-78f278818f86",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 1342250
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 1342250
+    },
+    "direction": "OUT",
+    "updatedAt": "2024-07-30T23:08:29.652Z",
+    "transactionTime": "2024-07-30T23:08:29.507Z",
+    "settlementTime": "2024-07-30T23:08:29.507Z",
+    "source": "INTERNAL_TRANSFER",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "CATEGORY",
+    "counterPartyUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "counterPartyName": "Current (GBP)",
+    "country": "GB",
+    "spendingCategory": "SAVING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "022da3ed-6e40-4abd-9524-b4c6d568c2c9",
+    "categoryUid": "b9413f04-1536-43b4-b974-78f278818f86",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 50
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 50
+    },
+    "direction": "IN",
+    "updatedAt": "2024-07-30T06:05:58.052Z",
+    "transactionTime": "2024-07-30T06:05:57.965Z",
+    "settlementTime": "2024-07-30T06:05:57.965Z",
+    "source": "INTERNAL_TRANSFER",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "CATEGORY",
+    "counterPartyUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "counterPartyName": "Current (GBP)",
+    "country": "GB",
+    "spendingCategory": "SAVING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "022d5dfb-f043-446e-8012-c89ca8702b90",
+    "categoryUid": "b9413f04-1536-43b4-b974-78f278818f86",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 30390
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 30390
+    },
+    "direction": "OUT",
+    "updatedAt": "2024-07-30T06:05:33.891Z",
+    "transactionTime": "2024-07-30T06:05:33.825Z",
+    "settlementTime": "2024-07-30T06:05:33.825Z",
+    "source": "INTERNAL_TRANSFER",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "CATEGORY",
+    "counterPartyUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "counterPartyName": "Current (GBP)",
+    "country": "GB",
+    "spendingCategory": "SAVING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "e2524c59-f11d-493b-ba85-cd73a84f4d6d",
+    "categoryUid": "b9413f04-1536-43b4-b974-78f278818f86",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 505312
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 505312
+    },
+    "direction": "IN",
+    "updatedAt": "2024-07-24T14:10:41.028Z",
+    "transactionTime": "2024-07-24T14:10:40.953Z",
+    "settlementTime": "2024-07-24T14:10:40.953Z",
+    "source": "INTERNAL_TRANSFER",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "CATEGORY",
+    "counterPartyUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "counterPartyName": "Current (GBP)",
+    "country": "GB",
+    "spendingCategory": "SAVING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "c6272ff1-55ec-47d9-bd78-3ad7abf2415f",
+    "categoryUid": "b9413f04-1536-43b4-b974-78f278818f86",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 25750
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 25750
+    },
+    "direction": "IN",
+    "updatedAt": "2024-07-19T13:59:44.642Z",
+    "transactionTime": "2024-07-19T13:59:44.534Z",
+    "settlementTime": "2024-07-19T13:59:44.534Z",
+    "source": "INTERNAL_TRANSFER",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "CATEGORY",
+    "counterPartyUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "counterPartyName": "Current (GBP)",
+    "country": "GB",
+    "spendingCategory": "SAVING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "c4b33a66-fbef-4201-b5b4-be12d53d3563",
+    "categoryUid": "b9413f04-1536-43b4-b974-78f278818f86",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 600000
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 600000
+    },
+    "direction": "OUT",
+    "updatedAt": "2024-07-19T07:47:18.015Z",
+    "transactionTime": "2024-07-19T07:47:17.951Z",
+    "settlementTime": "2024-07-19T07:47:17.951Z",
+    "source": "INTERNAL_TRANSFER",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "CATEGORY",
+    "counterPartyUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "counterPartyName": "Current (GBP)",
+    "country": "GB",
+    "spendingCategory": "SAVING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "996b6bb2-c1a8-4c95-b47d-d5c81b65306e",
+    "categoryUid": "b9413f04-1536-43b4-b974-78f278818f86",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 525000
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 525000
+    },
+    "direction": "IN",
+    "updatedAt": "2024-07-11T15:07:29.834Z",
+    "transactionTime": "2024-07-11T15:07:29.726Z",
+    "settlementTime": "2024-07-11T15:07:29.726Z",
+    "source": "INTERNAL_TRANSFER",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "CATEGORY",
+    "counterPartyUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "counterPartyName": "Current (GBP)",
+    "country": "GB",
+    "spendingCategory": "SAVING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "4c929dbd-b08d-486f-84b7-3e2d850e57ec",
+    "categoryUid": "b9413f04-1536-43b4-b974-78f278818f86",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 900000
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 900000
+    },
+    "direction": "IN",
+    "updatedAt": "2024-06-27T23:14:35.089Z",
+    "transactionTime": "2024-06-27T23:14:34.974Z",
+    "settlementTime": "2024-06-27T23:14:34.974Z",
+    "source": "INTERNAL_TRANSFER",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "CATEGORY",
+    "counterPartyUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "counterPartyName": "Current (GBP)",
+    "country": "GB",
+    "spendingCategory": "SAVING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "4bb47c06-fd73-4588-b6c7-e8b3774cb8f1",
+    "categoryUid": "b9413f04-1536-43b4-b974-78f278818f86",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 16528
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 16528
+    },
+    "direction": "IN",
+    "updatedAt": "2024-06-27T19:32:12.964Z",
+    "transactionTime": "2024-06-27T19:32:12.871Z",
+    "settlementTime": "2024-06-27T19:32:12.871Z",
+    "source": "INTERNAL_TRANSFER",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "CATEGORY",
+    "counterPartyUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "counterPartyName": "Current (GBP)",
+    "country": "GB",
+    "spendingCategory": "SAVING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  }
+]

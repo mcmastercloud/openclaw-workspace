@@ -1,0 +1,226 @@
+[
+  {
+    "feedItemUid": "c291fe5d-ad89-43d2-b945-2df104f8c75e",
+    "categoryUid": "e2b9c5c3-45da-4511-b667-7aefa43b61b0",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 1297
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 1297
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-06-03T00:12:15.745Z",
+    "transactionTime": "2026-06-03T00:12:15.620Z",
+    "settlementTime": "2026-06-03T00:12:15.672Z",
+    "source": "DIRECT_DEBIT",
+    "status": "SETTLED",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "4cf0ab41-c59b-4e05-bd9b-aaa5805bcb21",
+    "counterPartyName": "BT",
+    "counterPartySubEntityUid": "714f5370-3d54-4b00-aa85-94c4631875a2",
+    "reference": "GB06337813",
+    "country": "GB",
+    "spendingCategory": "BILLS_AND_SERVICES",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "a91981d9-0094-4f13-a2cf-ef7dfbd4deb7",
+    "categoryUid": "e2b9c5c3-45da-4511-b667-7aefa43b61b0",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 17013
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 17013
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-06-01T01:13:13.231Z",
+    "transactionTime": "2026-06-01T01:13:13.099Z",
+    "settlementTime": "2026-06-01T01:13:13.151Z",
+    "source": "DIRECT_DEBIT",
+    "status": "SETTLED",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "ab2e45ea-f640-4014-a2c2-0b1065d70928",
+    "counterPartyName": "LV=",
+    "counterPartySubEntityUid": "1f0b0510-1712-46e6-ad54-250f7a84fe84",
+    "reference": "2504591541001",
+    "country": "GB",
+    "spendingCategory": "BILLS_AND_SERVICES",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "aaac8d06-7ab9-47d1-94d3-01da808c34e9",
+    "categoryUid": "e2b9c5c3-45da-4511-b667-7aefa43b61b0",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 3211
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 3211
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-06-01T01:12:50.740Z",
+    "transactionTime": "2026-06-01T01:12:50.601Z",
+    "settlementTime": "2026-06-01T01:12:50.661Z",
+    "source": "DIRECT_DEBIT",
+    "status": "SETTLED",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "aac1a974-eb22-4378-8366-bf3555882579",
+    "counterPartyName": "Legal & General",
+    "counterPartySubEntityUid": "db92b881-19c7-41f1-94f8-2eb7a791233f",
+    "reference": "0S03372206",
+    "country": "GB",
+    "spendingCategory": "INSURANCE",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "aaac1788-57ac-4177-81d6-6731399d2462",
+    "categoryUid": "e2b9c5c3-45da-4511-b667-7aefa43b61b0",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 5011
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 5011
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-06-01T01:11:22.437Z",
+    "transactionTime": "2026-06-01T01:11:22.330Z",
+    "settlementTime": "2026-06-01T01:11:22.377Z",
+    "source": "DIRECT_DEBIT",
+    "status": "SETTLED",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "aac1a974-eb22-4378-8366-bf3555882579",
+    "counterPartyName": "Legal & General",
+    "counterPartySubEntityUid": "db92b881-19c7-41f1-94f8-2eb7a791233f",
+    "reference": "0231138728",
+    "country": "GB",
+    "spendingCategory": "INSURANCE",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "aa11131b-66ac-47c0-9519-e789a9797fec",
+    "categoryUid": "e2b9c5c3-45da-4511-b667-7aefa43b61b0",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 4755
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 4755
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-06-01T01:10:45.197Z",
+    "transactionTime": "2026-06-01T01:10:45.072Z",
+    "settlementTime": "2026-06-01T01:10:45.111Z",
+    "source": "DIRECT_DEBIT",
+    "status": "SETTLED",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "e6222666-0563-4c7e-8da1-43a161534370",
+    "counterPartyName": "Benenden Health",
+    "counterPartySubEntityUid": "1caa5a34-9aca-452a-83c5-6ed367989884",
+    "reference": "01046053503",
+    "country": "GB",
+    "spendingCategory": "MEDICAL",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "a9194073-36e7-4800-a49a-45818756ab3b",
+    "categoryUid": "e2b9c5c3-45da-4511-b667-7aefa43b61b0",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 6427
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 6427
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-06-01T00:22:35.618Z",
+    "transactionTime": "2026-06-01T00:22:35.545Z",
+    "settlementTime": "2026-06-01T00:22:35.568Z",
+    "source": "DIRECT_DEBIT",
+    "status": "SETTLED",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "ab2e45ea-f640-4014-a2c2-0b1065d70928",
+    "counterPartyName": "LV=",
+    "counterPartySubEntityUid": "1f0b0510-1712-46e6-ad54-250f7a84fe84",
+    "reference": "2501744330202",
+    "country": "GB",
+    "spendingCategory": "BILLS_AND_SERVICES",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "bf334e93-7db3-4b4e-91ed-2dcdecff155b",
+    "categoryUid": "e2b9c5c3-45da-4511-b667-7aefa43b61b0",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 40844
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 40844
+    },
+    "direction": "IN",
+    "updatedAt": "2026-06-01T00:19:22.577Z",
+    "transactionTime": "2026-06-01T00:19:22.500Z",
+    "settlementTime": "2026-06-01T00:19:22.500Z",
+    "source": "INTERNAL_TRANSFER",
+    "status": "SETTLED",
+    "counterPartyType": "CATEGORY",
+    "counterPartyUid": "d95e94ce-124e-4d7e-87d3-34f132d911b5",
+    "counterPartyName": "Current (GBP)",
+    "country": "GB",
+    "spendingCategory": "SAVING",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null,
+    "HOLDING_IGNORE": true,
+    "MATCHING_UID": "bf331a51-f2ce-45c7-b60f-dd1f60559318"
+  },
+  {
+    "feedItemUid": "a9162613-79cc-4539-9cfc-98b65c16fd1a",
+    "categoryUid": "e2b9c5c3-45da-4511-b667-7aefa43b61b0",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 1545
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 1545
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-05-31T23:33:13.916Z",
+    "transactionTime": "2026-05-31T23:33:13.823Z",
+    "settlementTime": "2026-05-31T23:33:13.846Z",
+    "source": "DIRECT_DEBIT",
+    "status": "SETTLED",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "1eec0e69-e5b9-413c-97a5-59ced9384397",
+    "counterPartyName": "TV Licensing",
+    "counterPartySubEntityUid": "852e3874-3421-42b1-84ed-7937eedded25",
+    "reference": "3257370518",
+    "country": "GB",
+    "spendingCategory": "BILLS_AND_SERVICES",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  }
+]

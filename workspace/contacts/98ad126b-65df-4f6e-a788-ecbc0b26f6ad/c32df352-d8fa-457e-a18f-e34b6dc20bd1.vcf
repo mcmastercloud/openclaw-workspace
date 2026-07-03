@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Sabre//Sabre VObject 4.5.6//EN
+UID:c32df352-d8fa-457e-a18f-e34b6dc20bd1
+ADR;TYPE=home:;;22 Kilmakevit Road;Cullybackey;;BT42 1NH;
+FN:Margaret
+N:;Margaret;;;
+REV:20260128T192740Z
+TEL;TYPE=cell:075-616-50896
+END:VCARD

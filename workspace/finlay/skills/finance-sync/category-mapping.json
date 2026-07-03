@@ -1,0 +1,55 @@
+{
+  "comment": "Audit-compliant mapping from Starling Account/Category GUIDs to Firefly III Asset Account IDs. Corrected for Ledger-accurate account names.",
+  "mappings": {
+    "d95e649e-43fa-4b4e-b29d-c68ab2b70f8a": {
+      "firefly_id": 1,
+      "firefly_name": "Starling Personal",
+      "type": "transfer"
+    },
+    "f28a43b2-4216-4915-8639-1489b9a9045f": {
+      "firefly_id": 549,
+      "firefly_name": "Starling Joint",
+      "type": "transfer"
+    },
+    "c23b5d36-db64-43c5-88d5-858eaab291db": {
+      "firefly_id": 550,
+      "firefly_name": "Starling Business",
+      "type": "transfer"
+    },
+    "e2b9c5c3-45da-4511-b667-7aefa43b61b0": {
+      "firefly_id": 3,
+      "firefly_name": "Starling Space: Household",
+      "type": "transfer"
+    },
+    "e2b620f6-2904-4e2f-bb2b-b8e85c8c9fa9": {
+      "firefly_id": 5,
+      "firefly_name": "Starling Space: Entertainment",
+      "type": "transfer"
+    },
+    "8f91083a-6bfa-48ac-837b-1b60386ebc32": {
+      "firefly_id": 2,
+      "firefly_name": "Starling Easy Saver",
+      "type": "transfer"
+    },
+    "af64dad5-2092-42b7-955b-ddea135fa0ca": {
+      "firefly_id": 4,
+      "firefly_name": "Starling Space: Self",
+      "type": "transfer"
+    },
+    "55727041-6082-4237-a0f8-cacb6fe43a7c": {
+      "firefly_id": 6,
+      "firefly_name": "Starling Space: Investments",
+      "type": "transfer"
+    },
+    "b9413f04-1536-43b4-b974-78f278818f86": {
+      "firefly_id": 7,
+      "firefly_name": "Starling Space: 🚗",
+      "type": "transfer"
+    },
+    "c460de91-cf0d-4617-8a89-9b59f6527742": {
+      "firefly_id": 772,
+      "firefly_name": "Starling Business Space: Software and Email",
+      "type": "transfer"
+    }
+  }
+}

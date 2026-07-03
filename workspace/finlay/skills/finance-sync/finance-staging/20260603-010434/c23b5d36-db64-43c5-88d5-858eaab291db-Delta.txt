@@ -1,0 +1,338 @@
+[
+  {
+    "feedItemUid": "c44499ca-7d21-4e4e-8573-cc042333ee95",
+    "categoryUid": "14ee82f9-751c-4f00-9a66-8adec93cf70a",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 1
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 1
+    },
+    "direction": "IN",
+    "updatedAt": "2026-06-01T21:56:40.919Z",
+    "transactionTime": "2026-06-01T21:56:40.624Z",
+    "settlementTime": "2026-06-01T21:56:40.624Z",
+    "source": "FASTER_PAYMENTS_IN",
+    "status": "SETTLED",
+    "counterPartyType": "PAYEE",
+    "counterPartyUid": "c4378d02-9177-486f-b164-119270b80720",
+    "counterPartyName": "Amazon Web Services",
+    "counterPartySubEntityUid": "c4373e4a-3323-41b2-b23c-8b7a703020ea",
+    "counterPartySubEntityName": "Account",
+    "counterPartySubEntityIdentifier": "041910",
+    "counterPartySubEntitySubIdentifier": "00000021",
+    "reference": "43VTVDGMIVPIY4EQS4",
+    "country": "GB",
+    "spendingCategory": "REVENUE",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "c443ea3b-878a-47e4-9dec-96040a7a4d92",
+    "categoryUid": "14ee82f9-751c-4f00-9a66-8adec93cf70a",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 1
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 1
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-06-01T21:55:38.170Z",
+    "transactionTime": "2026-06-01T21:55:37.987Z",
+    "settlementTime": "2026-06-01T21:55:37.987Z",
+    "source": "FASTER_PAYMENTS_OUT",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "PAYEE",
+    "counterPartyUid": "c4378d02-9177-486f-b164-119270b80720",
+    "counterPartyName": "Amazon Web Services",
+    "counterPartySubEntityUid": "c4373e4a-3323-41b2-b23c-8b7a703020ea",
+    "counterPartySubEntityName": "Account",
+    "counterPartySubEntityIdentifier": "041910",
+    "counterPartySubEntitySubIdentifier": "00000021",
+    "reference": "43VTVDGMIVPIY4EQS4",
+    "country": "GB",
+    "spendingCategory": "NONE",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "c440f2c1-f00f-45d8-958c-5b0a6da62485",
+    "categoryUid": "14ee82f9-751c-4f00-9a66-8adec93cf70a",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 1
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 1
+    },
+    "direction": "IN",
+    "updatedAt": "2026-06-01T21:52:45.944Z",
+    "transactionTime": "2026-06-01T21:52:45.850Z",
+    "settlementTime": "2026-06-01T21:52:45.850Z",
+    "source": "FASTER_PAYMENTS_IN",
+    "status": "SETTLED",
+    "counterPartyType": "PAYEE",
+    "counterPartyUid": "c4378d02-9177-486f-b164-119270b80720",
+    "counterPartyName": "Amazon Web Services",
+    "counterPartySubEntityUid": "c4373e4a-3323-41b2-b23c-8b7a703020ea",
+    "counterPartySubEntityName": "Account",
+    "counterPartySubEntityIdentifier": "041910",
+    "counterPartySubEntitySubIdentifier": "00000021",
+    "reference": "2RBJ2EQ4B55C7USBO2",
+    "country": "GB",
+    "spendingCategory": "REVENUE",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "c43e4592-2eab-499b-be32-c35021a1eff1",
+    "categoryUid": "14ee82f9-751c-4f00-9a66-8adec93cf70a",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 1
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 1
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-06-01T21:50:39.996Z",
+    "transactionTime": "2026-06-01T21:50:39.771Z",
+    "settlementTime": "2026-06-01T21:50:39.771Z",
+    "source": "FASTER_PAYMENTS_OUT",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "PAYEE",
+    "counterPartyUid": "c4378d02-9177-486f-b164-119270b80720",
+    "counterPartyName": "Amazon Web Services",
+    "counterPartySubEntityUid": "c4373e4a-3323-41b2-b23c-8b7a703020ea",
+    "counterPartySubEntityName": "Account",
+    "counterPartySubEntityIdentifier": "041910",
+    "counterPartySubEntitySubIdentifier": "00000021",
+    "reference": "2RBJ2EQ4B55C7USBO2",
+    "country": "GB",
+    "spendingCategory": "NONE",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "c43875cd-6b1d-4611-a4f4-73d87822d083",
+    "categoryUid": "14ee82f9-751c-4f00-9a66-8adec93cf70a",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 1
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 1
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-06-01T21:44:56.999Z",
+    "transactionTime": "2026-06-01T21:44:56.757Z",
+    "settlementTime": "2026-06-01T21:44:56.757Z",
+    "source": "FASTER_PAYMENTS_OUT",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "PAYEE",
+    "counterPartyUid": "c4378d02-9177-486f-b164-119270b80720",
+    "counterPartyName": "Amazon Web Services",
+    "counterPartySubEntityUid": "c4373e4a-3323-41b2-b23c-8b7a703020ea",
+    "counterPartySubEntityName": "Account",
+    "counterPartySubEntityIdentifier": "041910",
+    "counterPartySubEntitySubIdentifier": "00000021",
+    "reference": "SE1KNBW1WST9PLB311",
+    "country": "GB",
+    "spendingCategory": "NONE",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "c437f37d-dcca-4b8b-a559-42636e287036",
+    "categoryUid": "14ee82f9-751c-4f00-9a66-8adec93cf70a",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 1
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 1
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-06-01T21:43:28.854Z",
+    "transactionTime": "2026-06-01T21:43:28.678Z",
+    "settlementTime": "2026-06-01T21:43:28.678Z",
+    "source": "FASTER_PAYMENTS_OUT",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "PAYEE",
+    "counterPartyUid": "c4378d02-9177-486f-b164-119270b80720",
+    "counterPartyName": "Amazon Web Services",
+    "counterPartySubEntityUid": "c4373e4a-3323-41b2-b23c-8b7a703020ea",
+    "counterPartySubEntityName": "Account",
+    "counterPartySubEntityIdentifier": "041910",
+    "counterPartySubEntitySubIdentifier": "00000021",
+    "reference": "4A6AA9P2SUJBIQSW9Q",
+    "country": "GB",
+    "spendingCategory": "NONE",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "c0eeaede-8481-45b1-84c6-b7fe6a6ea5da",
+    "categoryUid": "14ee82f9-751c-4f00-9a66-8adec93cf70a",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 45000
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 45000
+    },
+    "direction": "IN",
+    "updatedAt": "2026-06-01T07:42:06.353Z",
+    "transactionTime": "2026-06-01T07:42:06.219Z",
+    "settlementTime": "2026-06-01T07:42:06.219Z",
+    "source": "ON_US_PAY_ME",
+    "sourceSubType": "TRANSFER_SAME_CURRENCY",
+    "status": "SETTLED",
+    "transactingApplicationUserUid": "42e50dff-5862-4d75-be29-100f0f2307db",
+    "counterPartyType": "CUSTOMER",
+    "counterPartyUid": "d95e7fee-0a84-440a-9c39-b531ff0841fe",
+    "counterPartyName": "Stephen McMaster",
+    "reference": "Cash",
+    "country": "GB",
+    "spendingCategory": "REVENUE",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null,
+    "HOLDING_IGNORE": true,
+    "MATCHING_UID": "86fe6556-79bd-41d0-9b51-ceb1d735b357"
+  },
+  {
+    "feedItemUid": "bf8b13c4-7e1b-4ff1-9344-f4867b7be8ab",
+    "categoryUid": "14ee82f9-751c-4f00-9a66-8adec93cf70a",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 833
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 833
+    },
+    "direction": "IN",
+    "updatedAt": "2026-06-01T01:47:47.292Z",
+    "transactionTime": "2026-06-01T01:47:47.215Z",
+    "settlementTime": "2026-06-01T01:47:47.215Z",
+    "source": "FASTER_PAYMENTS_IN",
+    "status": "SETTLED",
+    "counterPartyType": "SENDER",
+    "counterPartyName": "MCVEA A",
+    "counterPartySubEntityName": "",
+    "counterPartySubEntityIdentifier": "206223",
+    "counterPartySubEntitySubIdentifier": "13044858",
+    "reference": "SNUGINES",
+    "country": "GB",
+    "spendingCategory": "REVENUE",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "bf667031-16e4-44f4-9323-8ee400502a86",
+    "categoryUid": "14ee82f9-751c-4f00-9a66-8adec93cf70a",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 1998
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 1998
+    },
+    "direction": "IN",
+    "updatedAt": "2026-06-01T01:10:49.664Z",
+    "transactionTime": "2026-06-01T01:10:49.520Z",
+    "settlementTime": "2026-06-01T01:10:49.520Z",
+    "source": "FASTER_PAYMENTS_IN",
+    "status": "SETTLED",
+    "counterPartyType": "SENDER",
+    "counterPartyName": "STEWART B & W",
+    "counterPartySubEntityName": "",
+    "counterPartySubEntityIdentifier": "980280",
+    "counterPartySubEntitySubIdentifier": "10192957",
+    "reference": "A1 COM",
+    "country": "GB",
+    "spendingCategory": "REVENUE",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "bf4964a8-0bf8-42e5-84d7-4341d5786045",
+    "categoryUid": "14ee82f9-751c-4f00-9a66-8adec93cf70a",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 999
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 999
+    },
+    "direction": "IN",
+    "updatedAt": "2026-06-01T00:41:39.754Z",
+    "transactionTime": "2026-06-01T00:41:39.645Z",
+    "settlementTime": "2026-06-01T00:41:39.645Z",
+    "source": "FASTER_PAYMENTS_IN",
+    "status": "SETTLED",
+    "counterPartyType": "SENDER",
+    "counterPartyName": "EMBLETON P & JJ",
+    "counterPartySubEntityName": "",
+    "counterPartySubEntityIdentifier": "980440",
+    "counterPartySubEntitySubIdentifier": "77629096",
+    "reference": "JJ & P EMBLETON",
+    "country": "GB",
+    "spendingCategory": "REVENUE",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  },
+  {
+    "feedItemUid": "aa34d12a-02f5-48f9-9752-a2bbdbce9420",
+    "categoryUid": "14ee82f9-751c-4f00-9a66-8adec93cf70a",
+    "amount": {
+      "currency": "GBP",
+      "minorUnits": 2453
+    },
+    "sourceAmount": {
+      "currency": "GBP",
+      "minorUnits": 2453
+    },
+    "direction": "OUT",
+    "updatedAt": "2026-06-01T00:34:02.362Z",
+    "transactionTime": "2026-06-01T00:34:02.225Z",
+    "settlementTime": "2026-06-01T00:34:02.271Z",
+    "source": "DIRECT_DEBIT",
+    "status": "SETTLED",
+    "counterPartyType": "MERCHANT",
+    "counterPartyUid": "db719373-28d6-4a5a-872b-303e16f61875",
+    "counterPartyName": "Sportscover Direct T/a Protecivity",
+    "counterPartySubEntityUid": "85dc0855-ae1c-4249-bf33-611a3d3357e0",
+    "reference": "DDIT2827203",
+    "country": "GB",
+    "spendingCategory": "WORKPLACE",
+    "hasAttachment": false,
+    "hasReceipt": false,
+    "batchPaymentDetails": null
+  }
+]
