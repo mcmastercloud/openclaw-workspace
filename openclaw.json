@@ -1,0 +1,973 @@
+{
+  "gateway": {
+    "bind": "auto",
+    "port": 18789,
+    "mode": "local",
+    "auth": {
+      "mode": "token",
+      "token": "${OPENCLAW_GATEWAY_TOKEN}"
+    },
+    "trustedProxies": [
+      "127.0.0.1/32",
+      "172.16.0.0/12"
+    ],
+    "controlUi": {
+      "allowedOrigins": [
+        "http://192.168.30.3:18789",
+        "http://192.168.30.15:18789",
+        "https://openclaw.mcmaster.cloud",
+        "https://openclaw.mcmaster.cloud:18789"
+      ],
+      "allowInsecureAuth": true,
+      "dangerouslyDisableDeviceAuth": true
+    }
+  },
+  "logging": {
+    "file": "~/.openclaw/logs/gateway.log",
+    "level": "warn",
+    "consoleLevel": "warn",
+    "consoleStyle": "pretty"
+  },
+  "models": {
+    "mode": "replace",
+    "providers": {
+      "ollama": {
+        "api": "ollama",
+        "baseUrl": "http://192.168.30.3:11434",
+        "apiKey": "ollama-local",
+        "models": [
+          {
+            "id": "gemma3:4b",
+            "name": "Gemma 3 4b (HPC)",
+            "reasoning": false,
+            "input": [
+              "text"
+            ],
+            "contextWindow": 64000,
+            "maxTokens": 4096,
+            "params": {
+              "num_ctx": 64000
+            }
+          }
+        ]
+      },
+      "openai": {
+        "baseUrl": "https://api.openai.com/v1",
+        "apiKey": "${OPENAI_API_KEY}",
+        "models": [
+          {
+            "id": "gpt-4.5-mini",
+            "name": "GPT‑4.5 Mini (OpenAI)",
+            "contextWindow": 128000,
+            "maxTokens": 4096
+          },
+          {
+            "id": "text-embedding-3-small",
+            "name": "Text Embedding 3 Small",
+            "contextWindow": 8192
+          }
+        ]
+      },
+      "openrouter": {
+        "baseUrl": "https://openrouter.ai/api/v1",
+        "apiKey": "${OPENROUTER_API_KEY}",
+        "models": [
+          {
+            "id": "google/gemini-3.1-pro-preview",
+            "name": "Gemini 3.1 Pro Preview (OR)",
+            "reasoning": true,
+            "input": [
+              "text",
+              "image"
+            ],
+            "cost": {
+              "input": 2,
+              "output": 12,
+              "cacheRead": 0.2,
+              "cacheWrite": 0.375
+            }
+          },
+          {
+            "id": "google/gemini-3.1-flash-lite",
+            "name": "Gemini 3.1 Flash Lite (OR)",
+            "reasoning": false,
+            "input": [
+              "text",
+              "image"
+            ],
+            "cost": {
+              "input": 0.25,
+              "output": 1.5,
+              "cacheRead": 0.025,
+              "cacheWrite": 0.08333
+            },
+            "contextWindow": 1048576,
+            "maxTokens": 8192
+          },
+          {
+            "id": "google/gemini-3-flash-preview",
+            "name": "Gemini 3 Flash Preview (OR)",
+            "reasoning": false,
+            "input": [
+              "text"
+            ],
+            "cost": {
+              "input": 0.5,
+              "output": 3,
+              "cacheRead": 0.05,
+              "cacheWrite": 0
+            },
+            "contextWindow": 1048576,
+            "maxTokens": 8192
+          },
+          {
+            "id": "deepseek/deepseek-v4-pro",
+            "name": "Deepseek v4 Pro (OR)",
+            "reasoning": true,
+            "input": [
+              "text"
+            ],
+            "cost": {
+              "input": 0.435,
+              "output": 0.87
+            },
+            "contextWindow": 1045876,
+            "maxTokens": 8192
+          },
+          {
+            "id": "deepseek/deepseek-v4-flash",
+            "name": "Deepseek v4 Flash (OR)",
+            "input": [
+              "text"
+            ],
+            "cost": {
+              "input": 0.09,
+              "output": 0.18
+            }
+          },
+          {
+            "id": "openai/gpt-5.4-mini",
+            "name": "GPT 5.4 Mini (OR)",
+            "cost": {
+              "input": 0.4,
+              "output": 1.6
+            }
+          },
+          {
+            "id": "meta-llama/llama-3.3-70b-instruct",
+            "name": "Llama 3.3 70b Instruct (OR)",
+            "input": [
+              "text"
+            ],
+            "cost": {
+              "input": 0.1,
+              "output": 0.32
+            },
+            "contextWindow": 131000
+          },
+          {
+            "id": "google/gemini-3.5-flash",
+            "name": "Gemini 3.5 Flash FLEX (OR)",
+            "input": [
+              "text"
+            ],
+            "params": {
+              "service_tier": "flex"
+            },
+            "cost": {
+              "input": 0.75,
+              "output": 4.5,
+              "cacheRead": 0.075,
+              "cacheWrite": 0.04167
+            },
+            "contextWindow": 1048576,
+            "maxTokens": 8192
+          },
+          {
+            "id": "openai/text-embedding-3-small",
+            "name": "Open AI Text Embedding 3 - Small (OR)",
+            "cost": {
+              "input": 0.02
+            },
+            "contextWindow": 8000
+          }
+        ]
+      }
+    },
+    "pricing": {
+      "enabled": true
+    }
+  },
+  "agents": {
+    "defaults": {
+      "sandbox": {
+        "mode": "off",
+        "backend": "docker",
+        "scope": "agent",
+        "workspaceAccess": "rw",
+        "browser": {
+          "network": "openclaw_stack_openclaw_net"
+        },
+        "workspaceRoot": "/home/openclaw/.openclaw/sandboxes",
+        "docker": {
+          "network": "openclaw_stack_openclaw_net",
+          "user": "1001:1001",
+          "readOnlyRoot": false,
+          "workdir": "/workspace",
+          "tmpfs": [
+            "/tmp",
+            "/var/tmp",
+            "/run"
+          ],
+          "dns": [
+            "192.168.60.2",
+            "8.8.8.8"
+          ],
+          "env": {
+            "OPENCLAW_GATEWAY_TOKEN": "${OPENCLAW_GATEWAY_TOKEN}",
+            "OPENCLAW_URL": "${OPENCLAW_URL}",
+            "WORKSPACE_HOME": "/workspace"
+          }
+        }
+      },
+      "workspace": "/home/openclaw/.openclaw/workspace",
+      "model": {
+        "primary": "openrouter/google/gemini-3.1-flash-lite"
+      },
+      "skills": [
+        "ontology",
+        "self-improvement",
+        "obsidian",
+        "skill-vetter",
+        "skill-creator"
+      ],
+      "models": {
+        "openrouter/google/gemini-3.1-pro-preview": {},
+        "openrouter/google/gemini-3.1-flash-lite": {},
+        "openrouter/google/gemini-3-1-flash-preview": {},
+        "openrouter/google/gemini-3.5-flash": {},
+        "openrouter/deepseek/deepseek-v4-pro": {},
+        "openrouter/deepseek/deepseek-v4-flash": {},
+        "openrouter/meta-llama/llama-3.3-70b-instruct": {},
+        "openai/gpt-4.5-mini": {},
+        "openai/text-embedding-3-small": {},
+        "ollama/gemma3:4b": {}
+      },
+      "timeoutSeconds": 10000,
+      "memorySearch": {
+        "enabled": true,
+        "provider": "openai",
+        "model": "text-embedding-3-small",
+        "extraPaths": [
+          "/home/openclaw/.openclaw/memory-shared"
+        ],
+        "store": {
+          "vector": {
+            "enabled": true
+          },
+          "fts": {
+            "tokenizer": "unicode61"
+          }
+        },
+        "sync": {
+          "onSessionStart": true,
+          "watch": true
+        },
+        "query": {
+          "hybrid": {
+            "enabled": true,
+            "vectorWeight": 0.7,
+            "textWeight": 0.3,
+            "candidateMultiplier": 4,
+            "mmr": {
+              "enabled": true
+            },
+            "temporalDecay": {
+              "enabled": false
+            }
+          }
+        },
+        "cache": {
+          "enabled": true,
+          "maxEntries": 50000
+        }
+      }
+    },
+    "list": [
+      {
+        "id": "main",
+        "model": "openrouter/google/gemini-3.1-flash-lite",
+        "params": {
+          "temperature": 0.1
+        },
+        "skills": [
+          "clawhub",
+          "github",
+          "himalaya",
+          "session-logs",
+          "skill-creator",
+          "taskflow",
+          "taskflow-inbox-triage",
+          "weather",
+          "withings-family",
+          "paperless-ngx",
+          "hevy",
+          "diary",
+          "monthly-diary-summary"
+        ],
+        "tools": {
+          "alsoAllow": [
+            "lobster",
+            "llm-task"
+          ],
+          "deny": [
+            "video_generate",
+            "music_generate",
+            "x_search",
+            "dir_fetch",
+            "file_fetch",
+            "code_execution",
+            "write",
+            "read",
+            "edit"
+          ]
+        }
+      },
+      {
+        "id": "kent",
+        "name": "kent",
+        "workspace": "/home/openclaw/.openclaw/workspace/kent",
+        "agentDir": "/home/openclaw/.openclaw/agents/kent/agent",
+        "skills": [
+          "blogwatcher",
+          "diagram-maker",
+          "nano-pdf",
+          "summarize",
+          "taskflow",
+          "inoreader",
+          "postiz",
+          "obsidian",
+          "ontology",
+          "self-improvement",
+          "skill-vetter",
+          "lossless-claw"
+        ],
+        "model": "openrouter/google/gemini-3.1-flash-lite",
+        "tools": {
+          "deny": [
+            "exec",
+            "code_execution",
+            "edit",
+            "write",
+            "music_generate",
+            "video_generate",
+            "workboard_attachment_add",
+            "workboard_attachment_read",
+            "workboard_board_archive",
+            "workboard_board_delete",
+            "workboard_claim",
+            "workboard_complete",
+            "workboard_decompose",
+            "workboard_heartbeat",
+            "workboard_list",
+            "workboard_notify_events",
+            "workboard_notify_subscribe",
+            "workboard_promote",
+            "workboard_protocol_violation",
+            "workboard_reassign",
+            "workboard_release",
+            "workboard_specify",
+            "workboard_unblock",
+            "workboard_worker_log",
+            "workboard_stats",
+            "workboard_runs",
+            "workboard_reclaim",
+            "workboard_read",
+            "workboard_proof",
+            "workboard_notify_unsubscribe",
+            "workboard_notify_list",
+            "workboard_notify_advance",
+            "workboard_link",
+            "workboard_dispatch",
+            "workboard_create",
+            "workboard_comment",
+            "workboard_boards",
+            "workboard_board_create",
+            "workboard_block",
+            "workboard_attachment_delete",
+            "read",
+            "skill_workshop"
+          ]
+        }
+      },
+      {
+        "id": "nathaniel",
+        "name": "nathaniel",
+        "workspace": "/home/openclaw/.openclaw/workspace/nathaniel",
+        "agentDir": "/home/openclaw/.openclaw/agents/nathaniel/agent",
+        "tools": {
+          "deny": [
+            "music_generate",
+            "video_generate",
+            "nodes",
+            "x_search",
+            "code_execution"
+          ]
+        }
+      },
+      {
+        "id": "archer",
+        "name": "archer",
+        "workspace": "/home/openclaw/.openclaw/workspace/archer",
+        "agentDir": "/home/openclaw/.openclaw/agents/archer/agent",
+        "skills": [
+          "notion",
+          "skill-creator"
+        ]
+      },
+      {
+        "id": "finlay",
+        "name": "finlay",
+        "workspace": "/home/openclaw/.openclaw/workspace/finlay",
+        "agentDir": "/home/openclaw/.openclaw/agents/finlay/agent",
+        "tools": {
+          "profile": "minimal",
+          "alsoAllow": [
+            "write",
+            "edit",
+            "exec",
+            "memory_get",
+            "memory_search",
+            "web_fetch",
+            "web_search",
+            "sessions_history",
+            "sessions_list",
+            "sessions_spawn",
+            "sessions_yield",
+            "subagents",
+            "cron",
+            "agents_list",
+            "process",
+            "paperless-ngx"
+          ],
+          "deny": [
+            "code_execution"
+          ]
+        },
+        "skills": [
+          "paperless-ngx",
+          "ontology",
+          "obsidian",
+          "finance-sync-master",
+          "firefly-iii"
+        ]
+      },
+      {
+        "id": "test",
+        "name": "test",
+        "workspace": "/home/openclaw/.openclaw/workspace/test",
+        "agentDir": "/home/openclaw/.openclaw/agents/test/agent",
+        "sandbox": {
+          "docker": {
+            "image": "containers.mcmaster.cloud/modular-thinking/openclaw/sandboxes/sebastian:0.0.1",
+            "env": {
+              "BWS_ACCESS_TOKEN": "${BWS_ACCESS_TOKEN_SEBASTIEN}",
+              "BWS_SERVER_URL": "${BWS_SERVER_URL}",
+              "HEVY_API_KEY": "${HEVY_API_KEY}",
+              "WITHINGS_CLIENT_ID": "${WITHINGS_CLIENT_ID}",
+              "WITHINGS_CLIENT_SECRET": "${WITHINGS_CLIENT_SECRET}",
+              "OPENCLAW_GATEWAY_TOKEN": "${OPENCLAW_GATEWAY_TOKEN}",
+              "OPENCLAW_URL": "http://openclaw-gateway:18789",
+              "WORKSPACE_HOME": "/workspace"
+            },
+            "binds": [
+              "/home/openclaw/.openclaw/workspace/test/config/withings-family/tokens-stephen.json:/home/openclaw/.config/withings-family/tokens-stephen.json:rw"
+            ]
+          },
+          "mode": "all"
+        },
+        "skills": [
+          "hevy",
+          "obsidian",
+          "ontology",
+          "withings-family",
+          "diary"
+        ],
+        "tools": {
+          "deny": [
+            "read",
+            "write",
+            "edit",
+            "apply_patch",
+            "web_search",
+            "web_fetch",
+            "x_search",
+            "browser",
+            "canvas",
+            "heartbeat_respond",
+            "cron",
+            "gateway",
+            "nodes",
+            "agents_list",
+            "get_goal",
+            "create_goal",
+            "update_goal",
+            "update_plan",
+            "skill_workshop",
+            "image",
+            "image_generate",
+            "music_generate",
+            "video_generate",
+            "tts",
+            "complete_research_task",
+            "deep_research_ping",
+            "read_rss",
+            "start_research_task",
+            "wiki_apply",
+            "wiki_get",
+            "wiki_lint",
+            "wiki_search",
+            "wiki_status",
+            "tavily_extract",
+            "tavily_search",
+            "workboard_attachment_add",
+            "workboard_attachment_delete",
+            "workboard_attachment_read",
+            "workboard_block",
+            "workboard_board_archive",
+            "workboard_board_create",
+            "workboard_board_delete",
+            "workboard_boards",
+            "workboard_claim",
+            "workboard_comment",
+            "workboard_complete",
+            "workboard_create",
+            "workboard_decompose",
+            "workboard_dispatch",
+            "workboard_heartbeat",
+            "workboard_link",
+            "workboard_list",
+            "workboard_notify_advance",
+            "workboard_notify_events",
+            "workboard_notify_list",
+            "workboard_notify_subscribe",
+            "workboard_notify_unsubscribe",
+            "workboard_promote",
+            "workboard_proof",
+            "workboard_protocol_violation",
+            "workboard_read",
+            "workboard_reassign",
+            "workboard_reclaim",
+            "workboard_release",
+            "workboard_runs",
+            "workboard_specify",
+            "workboard_stats",
+            "workboard_unblock",
+            "workboard_worker_log"
+          ]
+        }
+      }
+    ]
+  },
+  "meta": {
+    "lastTouchedVersion": "2026.6.10",
+    "lastTouchedAt": "2026-06-28T20:51:12.254Z"
+  },
+  "tools": {
+    "sandbox": {
+      "tools": {
+        "allow": [
+          "lobster",
+          "llm-task",
+          "exec",
+          "process",
+          "read",
+          "write",
+          "edit",
+          "apply_patch",
+          "sessions_list",
+          "sessions_history",
+          "sessions_send",
+          "sessions_spawn",
+          "session_status"
+        ]
+      }
+    },
+    "exec": {
+      "mode": "auto",
+      "safeBins": [
+        "curl",
+        "ls",
+        "grep",
+        "cat",
+        "python3",
+        "node",
+        "hevy",
+        "lobster",
+        "obsidian"
+      ],
+      "safeBinProfiles": {
+        "cat": {},
+        "curl": {},
+        "grep": {},
+        "ls": {},
+        "python3": {},
+        "node": {},
+        "hevy": {},
+        "lobster": {},
+        "obsidian": {}
+      }
+    }
+  },
+  "skills": {
+    "entries": {
+      "1password": {
+        "enabled": false
+      },
+      "apple-notes": {
+        "enabled": false
+      },
+      "apple-reminders": {
+        "enabled": false
+      },
+      "bear-notes": {
+        "enabled": false
+      },
+      "blogwatcher": {
+        "enabled": false
+      },
+      "blucli": {
+        "enabled": false
+      },
+      "camsnap": {
+        "enabled": false
+      },
+      "canvas": {
+        "enabled": false
+      },
+      "clawhub": {
+        "enabled": false
+      },
+      "coding-agent": {
+        "enabled": false
+      },
+      "discord": {
+        "enabled": false
+      },
+      "eightctl": {
+        "enabled": false
+      },
+      "gemini": {
+        "enabled": false
+      },
+      "gh-issues": {
+        "enabled": false
+      },
+      "gifgrep": {
+        "enabled": false
+      },
+      "gog": {
+        "enabled": false
+      },
+      "goplaces": {
+        "enabled": false
+      },
+      "imsg": {
+        "enabled": false
+      },
+      "mcporter": {
+        "enabled": false
+      },
+      "model-usage": {
+        "enabled": false
+      },
+      "node-connect": {
+        "enabled": false
+      },
+      "node-inspect-debugger": {
+        "enabled": false
+      },
+      "obsidian": {
+        "enabled": true
+      },
+      "openai-whisper": {
+        "enabled": false
+      },
+      "openai-whisper-api": {
+        "enabled": false
+      },
+      "openhue": {
+        "enabled": false
+      },
+      "oracle": {
+        "enabled": false
+      },
+      "ordercli": {
+        "enabled": false
+      },
+      "peekaboo": {
+        "enabled": false
+      },
+      "python-debugpy": {
+        "enabled": true
+      },
+      "sag": {
+        "enabled": false
+      },
+      "session-logs": {
+        "enabled": false
+      },
+      "sherpa-onnx-tts": {
+        "enabled": false
+      },
+      "slack": {
+        "enabled": false
+      },
+      "songsee": {
+        "enabled": false
+      },
+      "sonoscli": {
+        "enabled": false
+      },
+      "spike": {
+        "enabled": false
+      },
+      "spotify-player": {
+        "enabled": false
+      },
+      "things-mac": {
+        "enabled": false
+      },
+      "tmux": {
+        "enabled": false
+      },
+      "trello": {
+        "enabled": false
+      },
+      "video-frames": {
+        "enabled": false
+      },
+      "voice-call": {
+        "enabled": false
+      },
+      "wacli": {
+        "enabled": false
+      },
+      "xurl": {
+        "enabled": false
+      },
+      "nano-pdf": {
+        "enabled": false
+      },
+      "summarize": {
+        "enabled": false
+      },
+      "github": {
+        "enabled": false
+      },
+      "skill-vetter": {
+        "enabled": true
+      },
+      "withings-family": {
+        "enabled": true
+      },
+      "inoreader": {
+        "enabled": true
+      },
+      "hevy": {
+        "enabled": true
+      },
+      "diary": {
+        "enabled": true
+      },
+      "diagram-maker": {
+        "enabled": false
+      },
+      "taskflow-inbox-triage": {
+        "enabled": false
+      },
+      "weather": {
+        "enabled": false
+      },
+      "browser-automation": {
+        "enabled": false
+      },
+      "obsidian-vault-maintainer": {
+        "enabled": false
+      },
+      "wiki-maintainer": {
+        "enabled": false
+      }
+    }
+  },
+  "plugins": {
+    "allow": [
+      "codex",
+      "lobster",
+      "file-tools"
+    ],
+    "slots": {
+      "memory": "memory-core"
+    },
+    "entries": {
+      "tavily": {
+        "enabled": true,
+        "config": {
+          "webSearch": {
+            "apiKey": "${TAVILY_API_KEY}"
+          }
+        }
+      },
+      "lobster": {
+        "enabled": true
+      },
+      "llm-task": {
+        "enabled": true
+      },
+      "openrouter": {
+        "enabled": true
+      },
+      "openai": {
+        "enabled": true
+      },
+      "workboard": {
+        "enabled": true
+      },
+      "file-transfer": {
+        "enabled": false
+      },
+      "memory-core": {
+        "enabled": true,
+        "config": {
+          "dreaming": {
+            "enabled": true
+          }
+        }
+      },
+      "memory-wiki": {
+        "enabled": true,
+        "config": {
+          "vaultMode": "bridge",
+          "vault": {
+            "path": "/home/openclaw/.openclaw/wiki",
+            "renderMode": "obsidian"
+          },
+          "obsidian": {
+            "enabled": true,
+            "useOfficialCli": false,
+            "vaultName": "Openclaw Wiki",
+            "openAfterWrites": false
+          },
+          "bridge": {
+            "enabled": true,
+            "readMemoryArtifacts": true,
+            "indexDreamReports": false,
+            "indexDailyNotes": true,
+            "indexMemoryRoot": true,
+            "followMemoryEvents": true
+          },
+          "ingest": {
+            "autoCompile": true,
+            "maxConcurrentJobs": 1,
+            "allowUrlIngest": true
+          },
+          "search": {
+            "backend": "shared",
+            "corpus": "wiki"
+          },
+          "context": {
+            "includeCompiledDigestPrompt": false
+          },
+          "render": {
+            "preserveHumanBlocks": true,
+            "createBacklinks": true,
+            "createDashboards": true
+          }
+        }
+      },
+      "deep-research-local": {
+        "enabled": true
+      },
+      "file-tools": {
+        "enabled": true,
+        "config": {
+          "default": {
+            "allowedFolders": [
+              "/home/openclaw/.openclaw/wiki",
+              "/home/openclaw/.openclaw/skills"
+            ]
+          },
+          "main": {
+            "allowedFolders": [
+              "/home/openclaw/.openclaw/workspace",
+              "/usr/local/lib/node_modules/openclaw/skills"
+            ]
+          },
+          "kent": {
+            "allowedFolders": [
+              "/home/openclaw/.openclaw/workspace/kent"
+            ]
+          }
+        }
+      },
+      "codex": {
+        "enabled": true
+      },
+      "ollama": {
+        "enabled": true
+      }
+    },
+    "load": {
+      "paths": [
+        "/opt/dev/plugins/deep-research",
+        "/opt/dev/plugins/file-tools"
+      ]
+    }
+  },
+  "channels": {
+    "signal": {
+      "enabled": true,
+      "account": "+447594610512",
+      "httpUrl": "http://signal-api:8080",
+      "autoStart": false,
+      "apiMode": "container",
+      "dmPolicy": "pairing",
+      "allowFrom": [
+        447738375172,
+        447595082672
+      ],
+      "groupAllowFrom": [
+        447738375172,
+        447595082672
+      ],
+      "blockStreaming": false
+    }
+  },
+  "approvals": {
+    "exec": {
+      "enabled": true,
+      "mode": "session"
+    },
+    "plugin": {
+      "enabled": true,
+      "mode": "session"
+    }
+  },
+  "wizard": {
+    "lastRunAt": "2026-06-13T23:04:15.177Z",
+    "lastRunVersion": "2026.6.6",
+    "lastRunCommand": "doctor",
+    "lastRunMode": "local"
+  },
+  "commands": {
+    "ownerAllowFrom": [
+      "signal:uuid:6830e5f4-8f14-4a35-abd1-82cfa4b71715"
+    ]
+  },
+  "session": {
+    "dmScope": "per-channel-peer"
+  },
+  "cron": {
+    "enabled": true
+  }
+}
