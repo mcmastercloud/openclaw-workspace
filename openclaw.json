@@ -982,14 +982,16 @@
 	"enabled": true,
 	"config": {
 	  "routes": {
-	    "path": "/plugins/webhooks/finance-sync",
-	    "sessionKey": "agent:finlay:main",
-	    "controllerId": "wwebhooks/finance-sync",
-	    "description": "Managed Taskflow ingress for Finance Sync",
-	    "secret": {
-	      "source": "env",
-	      "provider": "default",
-	      "id": "OPENCLAW_FINANCE_SYNC_SECRET"
+	    "finance-sync": {
+	      "path": "/plugins/webhooks/finance-sync",
+	      "sessionKey": "agent:finlay:main",
+	      "controllerId": "wwebhooks/finance-sync",
+	      "description": "Managed Taskflow ingress for Finance Sync",
+	      "secret": {
+	        "source": "env",
+	        "provider": "default",
+	        "id": "OPENCLAW_FINANCE_SYNC_SECRET"
+	      }
 	    }
 	  }
 	}
