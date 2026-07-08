@@ -184,6 +184,20 @@
             "maxTokens": 8192
           },
           {
+            "id": "z-ai/glm-5.2",
+            "name": "Z.ai GLM 5.2 (OR)",
+            "input": [
+              "text"
+            ],
+            "cost": {
+              "input": 0.77,
+              "output": 2.42,
+              "cacheRead": 0.26,
+              "cacheWrite": 0
+            },
+            "contextWindow": 1048576
+          },
+          {
             "id": "openai/text-embedding-3-small",
             "name": "Open AI Text Embedding 3 - Small (OR)",
             "cost": {
@@ -206,11 +220,11 @@
         "scope": "agent",
         "workspaceAccess": "rw",
         "browser": {
-          "network": "openclaw_stack_openclaw_net"
+          "network": "openclaw_openclaw_net"
         },
         "workspaceRoot": "/home/openclaw/.openclaw/sandboxes",
         "docker": {
-          "network": "openclaw_stack_openclaw_net",
+          "network": "openclaw_openclaw_net",
           "user": "1001:1001",
           "readOnlyRoot": false,
           "workdir": "/workspace",
@@ -232,7 +246,7 @@
       },
       "workspace": "/home/openclaw/.openclaw/workspace",
       "model": {
-        "primary": "openrouter/google/gemini-3.1-flash-lite"
+        "primary": "openrouter/deepseek/deepseek-v4-flash"
       },
       "skills": [
         "ontology",
@@ -249,6 +263,7 @@
         "openrouter/deepseek/deepseek-v4-pro": {},
         "openrouter/deepseek/deepseek-v4-flash": {},
         "openrouter/meta-llama/llama-3.3-70b-instruct": {},
+        "openrouter/z-ai/glm-5.2": {},
         "openai/gpt-4.5-mini": {},
         "openai/text-embedding-3-small": {},
         "ollama/gemma3:4b": {}
@@ -296,7 +311,7 @@
     "list": [
       {
         "id": "main",
-        "model": "openrouter/google/gemini-3.1-flash-lite",
+        "model": "openrouter/deepseek/deepseek-v4-flash",
         "params": {
           "temperature": 0.1
         },
@@ -309,15 +324,12 @@
           "taskflow",
           "taskflow-inbox-triage",
           "weather",
-          "withings-family",
           "paperless-ngx",
-          "hevy",
-          "diary",
-          "monthly-diary-summary"
+          "obsidian",
+          "self-improvement"
         ],
         "tools": {
           "alsoAllow": [
-            "lobster",
             "llm-task"
           ],
           "deny": [
@@ -329,7 +341,33 @@
             "code_execution",
             "write",
             "read",
-            "edit"
+            "edit",
+            "image",
+            "tts",
+            "nodes",
+            "agents_list",
+            "get_goal",
+            "update_goal",
+            "browser",
+            "lobster",
+            "workboard_attachment_add",
+            "workboard_attachment_read",
+            "workboard_board_archive",
+            "workboard_board_delete",
+            "workboard_claim",
+            "workboard_complete",
+            "workboard_decompose",
+            "workboard_heartbeat",
+            "workboard_list",
+            "workboard_notify_events",
+            "workboard_promote",
+            "workboard_protocol_violation",
+            "workboard_runs",
+            "workboard_release",
+            "workboard_reclaim",
+            "workboard_reassign",
+            "workboard_notify_unsubscribe",
+            "workboard_notify_subscribe"
           ]
         }
       },
@@ -418,12 +456,25 @@
       {
         "id": "archer",
         "name": "archer",
+        "model": "openrouter/google/gemini-3.1-flash-lite",
         "workspace": "/home/openclaw/.openclaw/workspace/archer",
         "agentDir": "/home/openclaw/.openclaw/agents/archer/agent",
         "skills": [
-          "notion",
           "skill-creator"
-        ]
+        ],
+        "sandbox": {
+          "docker": {
+            "image": "containers.mcmaster.cloud/modular-thinking/openclaw/sandboxes/archer:0.0.1",
+            "env": {
+              "OPENCLAW_GATEWAY_TOKEN": "${OPENCLAW_GATEWAY_TOKEN}",
+              "OPENCLAW_URL": "http://openclaw-gateway:18789",
+              "WORKSPACE_HOME": "/workspace",
+              "PAPERLESS_TOKEN": "${PAPERLESS_TOKEN}"
+            },
+            "binds": []
+          },
+          "mode": "all"
+        }
       },
       {
         "id": "finlay",
@@ -478,7 +529,8 @@
               "WITHINGS_CLIENT_SECRET": "${WITHINGS_CLIENT_SECRET}",
               "OPENCLAW_GATEWAY_TOKEN": "${OPENCLAW_GATEWAY_TOKEN}",
               "OPENCLAW_URL": "http://openclaw-gateway:18789",
-              "WORKSPACE_HOME": "/workspace"
+              "WORKSPACE_HOME": "/workspace",
+              "PAPERLESS_TOKEN": "${PAPERLESS_TOKEN}"
             },
             "binds": [
               "/home/openclaw/.openclaw/workspace/test/config/withings-family/tokens-stephen.json:/home/openclaw/.config/withings-family/tokens-stephen.json:rw"
@@ -570,8 +622,8 @@
     ]
   },
   "meta": {
-    "lastTouchedVersion": "2026.6.10",
-    "lastTouchedAt": "2026-06-28T20:51:12.254Z"
+    "lastTouchedVersion": "2026.6.11",
+    "lastTouchedAt": "2026-07-06T02:45:05.675Z"
   },
   "tools": {
     "sandbox": {
@@ -804,7 +856,8 @@
     "allow": [
       "codex",
       "lobster",
-      "file-tools"
+      "file-tools",
+      "signal"
     ],
     "slots": {
       "memory": "memory-core"
@@ -894,7 +947,8 @@
           "default": {
             "allowedFolders": [
               "/home/openclaw/.openclaw/wiki",
-              "/home/openclaw/.openclaw/skills"
+              "/home/openclaw/.openclaw/skills",
+              "/workspace"
             ]
           },
           "main": {
@@ -907,6 +961,11 @@
             "allowedFolders": [
               "/home/openclaw/.openclaw/workspace/kent"
             ]
+          },
+          "archer": {
+            "allowedFolders": [
+              "/home/openclaw/.openclaw/workspace"
+            ]
           }
         }
       },
@@ -915,6 +974,27 @@
       },
       "ollama": {
         "enabled": true
+      },
+      "signal": {
+        "enabled": true
+      },
+      "webhooks": {
+	"enabled": true,
+	"config": {
+	  "routes": {
+	    "route-id": "finance-sync",
+	    "enabled": true, 
+	    "path": "/plugins/webhooks/finance-sync",
+	    "sessionKey": "finance-sync-session",
+	    "controllerId": "finance-sync-controller",
+	    "description": "Managed Taskflow ingress for Finance Sync",
+	    "secret": {
+	      "source": "env",
+	      "provider": "default",
+	      "id": "OPENCLAW_FINANCE_SYNC_SECRET"
+	    }
+	  }
+	}
       }
     },
     "load": {
@@ -928,7 +1008,7 @@
     "signal": {
       "enabled": true,
       "account": "+447594610512",
-      "httpUrl": "http://signal-api:8080",
+      "httpUrl": "http://openclaw_signal_api:8080",
       "autoStart": false,
       "apiMode": "container",
       "dmPolicy": "pairing",
