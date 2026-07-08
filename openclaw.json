@@ -982,11 +982,9 @@
 	"enabled": true,
 	"config": {
 	  "routes": {
-	    "route-id": "finance-sync",
-	    "enabled": true, 
 	    "path": "/plugins/webhooks/finance-sync",
-	    "sessionKey": "finance-sync-session",
-	    "controllerId": "finance-sync-controller",
+	    "sessionKey": "agent:finlay:main",
+	    "controllerId": "wwebhooks/finance-sync",
 	    "description": "Managed Taskflow ingress for Finance Sync",
 	    "secret": {
 	      "source": "env",
