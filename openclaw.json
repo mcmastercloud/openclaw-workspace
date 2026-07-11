@@ -224,6 +224,7 @@
         },
         "workspaceRoot": "/home/openclaw/.openclaw/sandboxes",
         "docker": {
+          "dangerouslyAllowExternalBindSources": true,
           "network": "openclaw_openclaw_net",
           "user": "1001:1001",
           "readOnlyRoot": false,
@@ -270,7 +271,7 @@
       },
       "timeoutSeconds": 10000,
       "memorySearch": {
-        "enabled": true,
+        "enabled": false,
         "provider": "openai",
         "model": "text-embedding-3-small",
         "extraPaths": [
@@ -312,6 +313,27 @@
       {
         "id": "main",
         "model": "openrouter/deepseek/deepseek-v4-flash",
+        "sandbox": {
+          "docker": {
+            "image": "containers.mcmaster.cloud/modular-thinking/openclaw/sandboxes/sebastian:0.0.1",
+            "env": {
+              "BWS_ACCESS_TOKEN": "${BWS_ACCESS_TOKEN_SEBASTIEN}",
+              "BWS_SERVER_URL": "${BWS_SERVER_URL}",
+              "HEVY_API_KEY": "${HEVY_API_KEY}",
+              "WITHINGS_CLIENT_ID": "${WITHINGS_CLIENT_ID}",
+              "WITHINGS_CLIENT_SECRET": "${WITHINGS_CLIENT_SECRET}",
+              "OPENCLAW_GATEWAY_TOKEN": "${OPENCLAW_GATEWAY_TOKEN}",
+              "OPENCLAW_URL": "http://openclaw-gateway:18789",
+              "WORKSPACE_HOME": "/workspace",
+              "PAPERLESS_TOKEN": "${PAPERLESS_TOKEN}"
+            },
+            "binds": [
+              "/home/openclaw/.openclaw/workspace/test/config/withings-family/tokens-stephen.json:/home/openclaw/.config/withings-family/tokens-stephen.json:rw",
+              "/home/openclaw/sync/obsidian:/home/openclaw/sync/obsidian:rw"
+            ]
+          },
+          "mode": "all"
+        },
         "params": {
           "temperature": 0.1
         },
@@ -330,7 +352,17 @@
         ],
         "tools": {
           "alsoAllow": [
-            "llm-task"
+            "llm-task",
+	    "diary_about",
+            "diary_resolve_path",
+            "diary_read",
+            "diary_create",
+            "diary_append_section",
+            "diary_replace_section",
+            "diary_standardise",
+            "diary_add_sleep",
+            "diary_add_exercises",
+            "diary_list_headings"
           ],
           "deny": [
             "video_generate",
@@ -349,7 +381,6 @@
             "get_goal",
             "update_goal",
             "browser",
-            "lobster",
             "workboard_attachment_add",
             "workboard_attachment_read",
             "workboard_board_archive",
@@ -622,14 +653,22 @@
     ]
   },
   "meta": {
-    "lastTouchedVersion": "2026.6.11",
-    "lastTouchedAt": "2026-07-06T02:45:05.675Z"
+    "lastTouchedVersion": "2026.7.1-beta.5",
+    "lastTouchedAt": "2026-07-11T19:10:19.839Z"
   },
   "tools": {
     "sandbox": {
       "tools": {
         "allow": [
-          "lobster",
+	  "mt_ft_folder_list",
+	  "mt_ft_folder_create",
+          "mt_ft_file_read",
+          "mt_ft_file_tail",
+          "mt_ft_file_write",
+          "mt_ft_file_replace_content",
+          "mt_ft_file_delete",
+          "mt_ft_file_move",
+          "mt_ft_file_about",
           "llm-task",
           "exec",
           "process",
@@ -655,7 +694,6 @@
         "python3",
         "node",
         "hevy",
-        "lobster",
         "obsidian"
       ],
       "safeBinProfiles": {
@@ -666,7 +704,6 @@
         "python3": {},
         "node": {},
         "hevy": {},
-        "lobster": {},
         "obsidian": {}
       }
     }
@@ -855,9 +892,13 @@
   "plugins": {
     "allow": [
       "codex",
-      "lobster",
       "file-tools",
-      "signal"
+      "diary-tools",
+      "signal",
+      "tavily",
+      "memory-core",
+      "memory-wiki",
+      "webhooks"
     ],
     "slots": {
       "memory": "memory-core"
@@ -871,9 +912,6 @@
           }
         }
       },
-      "lobster": {
-        "enabled": true
-      },
       "llm-task": {
         "enabled": true
       },
@@ -881,13 +919,7 @@
         "enabled": true
       },
       "openai": {
-        "enabled": true
-      },
-      "workboard": {
-        "enabled": true
-      },
-      "file-transfer": {
-        "enabled": false
+	"enabled": true
       },
       "memory-core": {
         "enabled": true,
@@ -954,6 +986,7 @@
           "main": {
             "allowedFolders": [
               "/home/openclaw/.openclaw/workspace",
+              "/home/openclaw/sync/obsidian",
               "/usr/local/lib/node_modules/openclaw/skills"
             ]
           },
@@ -969,8 +1002,17 @@
           }
         }
       },
-      "codex": {
-        "enabled": true
+      "diary-tools": {
+        "enabled": true,
+        "config": {
+          "default": {
+            "vaultRoot": "/home/openclaw/sync/obsidian",
+            "agentName": "sebastian",
+            "openclawUrl": "https://openclaw.mcmaster.cloud",
+            "openclawToken": "${OPENCLAW_GATEWAY_TOKEN}",
+            "standardiserModel": "openrouter/google/gemini-3.1-flash-lite"
+          }
+        }
       },
       "ollama": {
         "enabled": true
@@ -979,28 +1021,29 @@
         "enabled": true
       },
       "webhooks": {
-	"enabled": true,
-	"config": {
-	  "routes": {
-	    "finance-sync": {
-	      "path": "/plugins/webhooks/finance-sync",
-	      "sessionKey": "agent:finlay:main",
-	      "controllerId": "wwebhooks/finance-sync",
-	      "description": "Managed Taskflow ingress for Finance Sync",
-	      "secret": {
-	        "source": "env",
-	        "provider": "default",
-	        "id": "OPENCLAW_FINANCE_SYNC_SECRET"
-	      }
-	    }
-	  }
-	}
+        "enabled": true,
+        "config": {
+          "routes": {
+            "finance-sync": {
+              "path": "/plugins/webhooks/finance-sync",
+              "sessionKey": "agent:finlay:main",
+              "controllerId": "webhooks/finance-sync",
+              "description": "Managed Taskflow ingress for Finance Sync",
+              "secret": {
+                "source": "env",
+                "provider": "default",
+                "id": "OPENCLAW_FINANCE_SYNC_SECRET"
+              }
+            }
+          }
+        }
       }
     },
     "load": {
       "paths": [
         "/opt/dev/plugins/deep-research",
-        "/opt/dev/plugins/file-tools"
+        "/opt/dev/plugins/file-tools",
+        "/opt/dev/plugins/diary"
       ]
     }
   },
