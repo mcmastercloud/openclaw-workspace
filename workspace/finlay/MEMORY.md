@@ -58,21 +58,40 @@
 - **Scope/Red Line:** Restrict all operations strictly to the Finance dashboard (`https://www.notion.so/Finance-33f6a781d35880f1ab39d1d3ca6098cf?v=3a12f0a118e841838fba86b94553cfa3&source=copy_link`) and its child pages. Do not traverse outside this organizational subtree. Ignore all other Notion pages.
 2026-06-07: Added explicit note to TOOLS.md to read /home/node/.openclaw/workspace/finlay/skills/firefly-iii/SKILL.md instead of trying to run 'firefly-iii' as a single system tool. The skill is a bash/curl framework, not a CLI alias.
 
-## Promoted From Short-Term Memory (2026-06-10)
+## Promoted From Short-Term Memory (2026-07-19)
 
-<!-- openclaw-memory-promotion:memory:memory/2026-06-04.md:3:5 -->
-- Daily Memory - 2026-06-04: **Signal Migration:** The Signal channel migration to the OpenClaw Docker environment is complete; decommissioning the old server is pending.; **Morning-brief Issue:** The morning-brief lobster flow failed on June 4th, 2026, due to stale Withings data (last sync: June 2nd, 2026).; **Stephen's Schedule:** On June 2nd, 2026, Stephen visited Cheltenham and had productive meetings followed by dinner with Robin Southwold and Nicholas Ter Porsche. [score=0.835 recalls=0 avg=0.620 source=memory/2026-06-04.md:3-5]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-13-bonus-update.md:4:6 -->
+- Actual Bonus Received: **Gross Bonus:** £114,600 (not the £50k assumed in earlier scenarios); **Pension Sacrifice Decision:** £50,000; **Remaining Gross Bonus:** £64,600 (subject to tax) [score=0.812 recalls=0 avg=0.620 source=memory/2026-07-13-bonus-update.md:4-6]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-13-bonus-update.md:9:11 -->
+- Pension Implications: £50k sacrifice fully covers the **£46,851 "No Loss"** target — all expiring carry-forward (£35,051 from 2023/24) is now protected.; Gross pension contribution for 2026-27 now totals: £40,800 (regular salary) + £50,000 (bonus sacrifice) = **£90,800**; Remaining carry-forward headroom after this year will be recalculated. [score=0.812 recalls=0 avg=0.620 source=memory/2026-07-13-bonus-update.md:9-11]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-13-taper-recalc.md:2:2 -->
+- title: Pension Taper Analysis (Partnership Year 1) — Updated July 2026 [score=0.812 recalls=0 avg=0.620 source=memory/2026-07-13-taper-recalc.md:2-2]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-13-taper-recalc.md:5:5 -->
+- Analysis for Stephen based on actual 2026/27 income. [score=0.812 recalls=0 avg=0.620 source=memory/2026-07-13-taper-recalc.md:5-5]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-13-taper-recalc.md:8:11 -->
+- Actual Income (July 2026 Update): | Item | Amount | |---|---| | Base Salary | £200,000 | | Actual Bonus (received) | £114,600 | [score=0.812 recalls=0 avg=0.620 source=memory/2026-07-13-taper-recalc.md:8-11]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-13-taper-recalc.md:12:14 -->
+- Actual Income (July 2026 Update): | **Gross Total** | **£314,600** | | Bonus Pension Sacrifice | -£50,000 | | **Adjusted Income** | **£264,600** | [score=0.812 recalls=0 avg=0.620 source=memory/2026-07-13-taper-recalc.md:12-14]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-13-taper-recalc.md:17:17 -->
+- Taper Risk Re-assessment: With Adjusted Income of **£264,600**, Stephen is £4,600 above the £260,000 taper threshold. This means the £60,000 annual allowance is reduced by £2,300 (£1 for every £2 over £260k) to **£57,700**. [score=0.812 recalls=0 avg=0.620 source=memory/2026-07-13-taper-recalc.md:17-17]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-13-taper-recalc.md:19:19 -->
+- Taper Risk Re-assessment: However, carry-forward brings in unused allowances from prior years, so the real constraint is whether total contributions exceed the available carry-forward + current allowance. [score=0.812 recalls=0 avg=0.620 source=memory/2026-07-13-taper-recalc.md:19-19]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-13-taper-recalc.md:22:25 -->
+- 2026-27 Contribution Summary: | Item | Amount | |---|---| | Regular salary sacrifice (20.4%) | £40,800 | | Bonus sacrifice | £50,000 | [score=0.812 recalls=0 avg=0.620 source=memory/2026-07-13-taper-recalc.md:22-25]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-13-taper-recalc.md:26:26 -->
+- 2026-27 Contribution Summary: | **Total 2026-27 Contributions** | **£90,800** | [score=0.812 recalls=0 avg=0.620 source=memory/2026-07-13-taper-recalc.md:26-26]
 
-## Promoted From Short-Term Memory (2026-06-13)
+## Promoted From Short-Term Memory (2026-07-20)
 
-<!-- openclaw-memory-promotion:memory:memory/2026-06-07-firefly-error-correction.md:6:6 -->
-- Context: A major execution loop fault occurred when navigating tools. I attempted to execute `firefly-iii` as if it were a direct system binary or discrete tool call. [score=0.858 recalls=0 avg=0.620 source=memory/2026-06-07-firefly-error-correction.md:6-6]
-<!-- openclaw-memory-promotion:memory:memory/2026-06-07-firefly-error-correction.md:11:11 -->
-- Correction: It provides explicit bash and `curl` commands. I must `read` or `cat` that file to learn how to interact with the Firefly III API when Firefly requests are made. There is no native `firefly-iii` tool. [score=0.858 recalls=0 avg=0.620 source=memory/2026-06-07-firefly-error-correction.md:11-11]
-<!-- openclaw-memory-promotion:memory:memory/2026-06-07-firefly-error-correction.md:9:9 -->
-- Correction: The Firefly III functionality is represented entirely via a documentation **Skill**. It is located at `~/.openclaw/workspace/finlay/skills/firefly-iii/SKILL.md`. [score=0.844 recalls=0 avg=0.620 source=memory/2026-06-07-firefly-error-correction.md:9-9]
-
-## Promoted From Short-Term Memory (2026-06-14)
-
-<!-- openclaw-memory-promotion:memory:memory/2026-06-07-firefly-error-correction.md:3:3 -->
-- Setup Correction: Firefly III Skill: Date: 2026-06-07 [score=0.901 recalls=0 avg=0.620 source=memory/2026-06-07-firefly-error-correction.md:3-3]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-13-taper-recalc.md:28:28 -->
+- 2026-27 Contribution Summary: Since this exceeds the tapered allowance of ~£57,700, carry-forward is required. The £35,051 from 2023/24 fully covers the gap. [score=0.857 recalls=0 avg=0.620 source=memory/2026-07-13-taper-recalc.md:28-28]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-13-taper-recalc.md:31:31 -->
+- Carry Forward Summary (Revised April 2026): <table header-row="true" header-column="false"> [score=0.825 recalls=0 avg=0.620 source=memory/2026-07-13-taper-recalc.md:31-31]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-13-taper-recalc.md:33:36 -->
+- Carry Forward Summary (Revised April 2026): <td>Tax Year</td> <td>Annual Allowance</td> <td>Total Contributions</td> <td>Unused (Carry Forward)</td> [score=0.825 recalls=0 avg=0.620 source=memory/2026-07-13-taper-recalc.md:33-36]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-13-taper-recalc.md:39:42 -->
+- Carry Forward Summary (Revised April 2026): <td>2023-24</td> <td>£60,000.00</td> <td>£24,790.08</td> <td>£35,209.92</td> [score=0.825 recalls=0 avg=0.620 source=memory/2026-07-13-taper-recalc.md:39-42]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-13-taper-recalc.md:45:48 -->
+- Carry Forward Summary (Revised April 2026): <td>2024-25</td> <td>£60,000.00</td> <td>£42,482.02</td> <td>£17,517.98</td> [score=0.825 recalls=0 avg=0.620 source=memory/2026-07-13-taper-recalc.md:45-48]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-13-taper-recalc.md:51:54 -->
+- Carry Forward Summary (Revised April 2026): <td>2025-26</td> <td>£55,732.76</td> <td>£38,158.40</td> <td>£17,574.36</td> [score=0.825 recalls=0 avg=0.620 source=memory/2026-07-13-taper-recalc.md:51-54]

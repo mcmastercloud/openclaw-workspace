@@ -1,5 +1,11 @@
 # Sebastien's Memory File
 
+## File Tools Path Rule
+When using `mt_ft_file_*` tools (read, write, delete, move, replace_content, tail, folder_create, folder_list), always use **host paths** (e.g. `/home/openclaw/.openclaw/workspace/...`). Sandbox paths (`/workspace/...`) are only for `exec` commands. (Added: 2026-07-12)
+
+## Diary Ownership
+The diary is Stephen's personal journal. I must NOT write my own notes/memories there. My personal notes go in the wiki vault under `agents/sebastian/`. (Added: 2026-07-12)
+
 ## Agent Communication Protocol (A2A)
 When Stephen instructs me to communicate with other agents (nathaniel, nathan, finlay, archer, or kent), I MUST use the Agent-to-Agent (A2A) messaging capability. I am FORBIDDEN from using Signal or other external channels to communicate with these agents.
 
@@ -8,7 +14,6 @@ When Stephen instructs me to communicate with other agents (nathaniel, nathan, f
 - **Exceptions:** Never attempt to call these names as external messaging targets.
 
 ## Operational Preferences
-- **Lobster Orchestration:** Lobster MUST be used for all multi-step tasks where possible. When executing a flow, you **MUST** provide the full absolute path to the `.lobster` file (e.g., `/home/node/.openclaw/workspace/flows/diary/diary.lobster`) as the `pipeline` argument. (Updated: 2026-06-06)
 - **Memory Governance:** Following `SOP_MEMORY_POLICY.md`. Ontology handles the "What/Who/How" (structured), while LanceDB handles the "Why/Context" (semantic). (Logged: 2026-06-02)
 - **Workspace Hygiene:** Temporary scripts go in `patch/`, JSON/data files go in `data/`. The workspace root must stay clutter-free. (Added: 2026-06-13)
 
@@ -18,23 +23,16 @@ When Stephen instructs me to communicate with other agents (nathaniel, nathan, f
 
 ## Health
 - Withings watch does not record REM sleep; it only captures sleep duration and deep sleep.
-- **Purpose**: Create, update, and manage daily diary entries with integrated health/sleep data.
-- **Creation Flow**: `diary.lobster` — generates or updates the daily diary entry by pulling health data and combining it with existing content.
-  - Path: `/home/node/.openclaw/workspace/flows/diary/diary.lobster`
-  - Args: `{"date": "YYYY-MM-DD"}` (defaults to current date if omitted)
-  - Timeout: 30,000ms
-- **Append Flow**: `append.lobster` — appends new content to an existing diary entry for a specific date.
-  - Path: `/home/node/.openclaw/workspace/flows/diary/append.lobster`
-  - Args: `{"date": "YYYY-MM-DD", "content": "Text to append"}`
-  - Timeout: 30,000ms
-- **Skill File**: `~/.openclaw/workspace/skills/diary/SKILL.md` — Master Diary SOP with full protocol.
+- **Diary Operations**: Use the diary plugin (`diary_*` tools) for all diary operations:
+  - `diary_create` — create a new diary entry.
+  - `diary_read` — read an existing entry.
+  - `diary_replace_section` — replace content under a heading.
+  - `diary_append_section` — append content under a heading.
+  - `diary_add_sleep` — load and structure sleep data.
+  - `diary_add_exercises` — load and structure workout data.
+  - `diary_list_headings` — list available headings.
+  - `diary_standardise` — format content before writing.
 - **Storage**: Entries are mastered in the Wiki Vault: `/home/node/.openclaw/wiki/agents/sebastian/Diary/`.
-- **Protocol**: Always use absolute paths for pipelines. Never omit `timeoutMs: 30000`. Dates in `YYYY-MM-DD` format.
-
-## Diary Patching Protocol
-When performing bulk operations on diary entries:
-- **Location**: Use `/home/node/.openclaw/workspace/patch/` for scripts/logs.
-- **Reference**: See `memory/diary_patching.md` for full SOP.
 
 ## Memory Promotion
 - **Memory Promotion (2026-06-05):** Added dream diary entry for June 5th, 2026, marking the conclusion of today's memory promotion cycle.

@@ -1,2 +1,0 @@
-Pre-flight backup triggered via API: 2026-06-03 01:15:30.127584
-Response: {'status': 'success', 'message': 'Successfully backed up Firefly database to: backup-202606030015.tar.gz', 'timestamp': '2026-06-03T00:15:30Z'}

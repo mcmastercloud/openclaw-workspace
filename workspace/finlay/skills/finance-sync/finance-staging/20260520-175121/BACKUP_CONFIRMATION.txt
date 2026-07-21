@@ -1,2 +1,0 @@
-Pre-flight backup completed: /home/openclaw/.openclaw/agents/finlay/workspace/backups/firefly_sql_backup_20260520_1751.sql
-Total Size: 19487425
